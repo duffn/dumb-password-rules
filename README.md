@@ -71,12 +71,17 @@ Financial services - where we don't allow you to create the strongest password p
 
 ![Synchrony Financial](/screenshots/synchrony.png "Synchrony Financial")
 
-### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
-We put punctuation in the list of unusable characters to make it additionally confusing.
+### [United States Postal Service](https://reg.usps.com/entreg/secure/ChangePasswordAction_input)
+Pick from an arbitrary list of symbols, and no repeating characters.
 
-![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+![United States Postal Service](/screenshots/usps.png "United States Postal Service Change Your Password")
 
 ### [Virgin Media](https://my.virginmedia.com/forgot-details/reset)
 Your password needs to be between 8 and 10 characters long, with no spaces, and must contain only numbers and letters. The first character must be a letter.
 
 ![Virgin Media](/screenshots/virginmedia.jpg "Virgin Media Password Reset")
+
+### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
+We put punctuation in the list of unusable characters to make it additionally confusing.
+
+![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
