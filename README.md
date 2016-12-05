@@ -36,8 +36,15 @@ We put punctuation in the list of unusable characters to make it additionally co
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
 
+<<<<<<< HEAD
+### [Etihad Airways](https://www.etihadguest.com/en/login/)
+Where we start with a letter and end with a number, OR, start with a number and end with a letter.
+
+![Etihad](/screenshots/etihad.png "Etihad")
+=======
 
 ### [Virgin Media](https://my.virginmedia.com/forgot-details/reset)
 Your password needs to be between 8 and 10 characters long, with no spaces, and must contain only numbers and letters. The first character must be a letter.
 
 ![Virgin Media](/screenshots/virginmedia.jpg "Virgin Media Password Reset")
+>>>>>>> fefd02e9dda05380ebbfcc33796d56124919acdb
