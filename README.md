@@ -5,6 +5,14 @@ Shaming sites with dumb password rules.
 Feel free to submit a pull request with dumb rules you've encountered.
 
 ## Sites
+### [Blacknight](https://cp.blacknight.com) / [Odin](http://www.odin.com/)
+
+The auto-generated strong password is not a valid password ! 
+Blacknight use Odin for it's admin panel.
+
+![Blacknight](/screenshots/blacknight1.png "Blacknight/Odin")
+![Blacknight](/screenshots/blacknight2.png "Blacknight/Odin")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
