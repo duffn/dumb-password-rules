@@ -21,3 +21,8 @@ Financial services - where we don't allow you to create the strongest password p
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+
+### [TD Ameritrade](https://invest.ameritrade.com/grid/p/site#r=jPage/cgi-bin/apps/u/ChangePassword)
+We hope you didn't want to create a strong password
+
+![TD Ameritrade](/screenshots/tdameritrade.png "TD Ameritrade")
