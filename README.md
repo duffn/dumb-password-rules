@@ -16,6 +16,13 @@ Sometimes I forget that caps-lock is on, glad it doesn't matter.
 
 ![American Express](/screenshots/american-express.jpg "American Express")
 
+### [AmeriHealth](https://www.amerihealth.com/)
+
+Their site says "_All information is kept safe and secure._" Just not as secure as you'd like.
+> User Password must be between 6 and 14 characters and contain 1 numerical value.
+
+![AmeriHealth](/screenshots/amerihealth.png "AmeriHealth")
+
 ### [Blacknight](https://cp.blacknight.com) / [Odin](http://www.odin.com/)
 
 The auto-generated strong password is not a valid password !
