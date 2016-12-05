@@ -5,6 +5,12 @@ Shaming sites with dumb password rules.
 Feel free to submit a pull request with dumb rules you've encountered.
 
 ## Sites
+
+### [Fedex](https://www.fedex.com/fcl/ALL?enrollmentid=ss90705920&OpenAccount=yes)
+Fuck ` ` `~` `"` `'` `<` and `>` in particular.
+
+![Fedex](/screenshots/fedex.png "Fedex")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
