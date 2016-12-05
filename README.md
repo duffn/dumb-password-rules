@@ -36,7 +36,7 @@ We don't even want you to login online.
 
 ### [Comcast](https://customer.xfinity.com/#/settings/security/xfinity-access/password)
 
-Your password should be difficult to guess as long as it's not over 18 characters long.
+Your password should be difficult to guess as long as it's not over 16 characters long.
 
 ![Comcast](/screenshots/comcast.png "Comcast")
 
