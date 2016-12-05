@@ -47,6 +47,12 @@ You "_may use special characters_", but only some of them - and we won't necessa
 ![Mindware](/screenshots/mindware1.png "Mindware")
 ![Mindware](/screenshots/mindware2.png "Mindware")
 
+### [PayPal](https://secure.mindware.orientaltrading.com/web/login/createUser)
+
+We'll tell you not to use your name as your password, but we won't tell you how we restrict your password choice otherwise.
+
+![PayPal](/screenshots/paypal.png "PayPal")
+
 ### [Synchrony Financial](https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do)
 Financial services - where we don't allow you to create the strongest password possible.
 
