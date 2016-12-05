@@ -4,6 +4,12 @@ Shaming sites with dumb password rules.
 ## Contributing
 Feel free to submit a pull request with dumb rules you've encountered.
 
+See other sites for the formatting and follow these rules:
+- Include the name of the site with a link.
+- Add a clean comment about the dumb password rule (optional).
+- Include at least one screenshot.
+- Keep the sites in alphabetical order.
+
 ## Sites
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
