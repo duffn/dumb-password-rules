@@ -11,6 +11,11 @@ See other sites for the formatting and follow these rules:
 - Keep the sites in alphabetical order.
 
 ## Sites
+### [American Express](https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register)
+Sometimes I forget that caps-lock is on, glad it doesn't matter.
+
+![American Express](/screenshots/american-express.jpg "American Express")
+
 ### [Blacknight](https://cp.blacknight.com) / [Odin](http://www.odin.com/)
 
 The auto-generated strong password is not a valid password ! 
@@ -18,6 +23,11 @@ Blacknight use Odin for it's admin panel.
 
 ![Blacknight](/screenshots/blacknight1.png "Blacknight/Odin")
 ![Blacknight](/screenshots/blacknight2.png "Blacknight/Odin")
+
+### [Chase Bank](https://servicing.chase.com/reo/profile/create)
+We don't even want you to login online.
+
+![Chase Bank](/screenshots/chase-bank.jpg "Chase Bank")
 
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
@@ -36,20 +46,7 @@ We put punctuation in the list of unusable characters to make it additionally co
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
 
-<<<<<<< HEAD
-### [American Express](https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register)
-Sometimes I forget that caps-lock is on, glad it doesn't matter.
-
-![American Express](/screenshots/american-express.jpg "American Express")
-
-### [Chase Bank](https://servicing.chase.com/reo/profile/create)
-We don't even want you to login online.
-
-![Chase Bank](/screenshots/chase-bank.jpg "Chase Bank")
-=======
-
 ### [Virgin Media](https://my.virginmedia.com/forgot-details/reset)
 Your password needs to be between 8 and 10 characters long, with no spaces, and must contain only numbers and letters. The first character must be a letter.
 
 ![Virgin Media](/screenshots/virginmedia.jpg "Virgin Media Password Reset")
->>>>>>> refs/remotes/duffn/master
