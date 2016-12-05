@@ -18,7 +18,7 @@ Sometimes I forget that caps-lock is on, glad it doesn't matter.
 
 ### [Blacknight](https://cp.blacknight.com) / [Odin](http://www.odin.com/)
 
-The auto-generated strong password is not a valid password ! 
+The auto-generated strong password is not a valid password !
 Blacknight use Odin for it's admin panel.
 
 ![Blacknight](/screenshots/blacknight1.png "Blacknight/Odin")
@@ -28,6 +28,12 @@ Blacknight use Odin for it's admin panel.
 We don't even want you to login online.
 
 ![Chase Bank](/screenshots/chase-bank.jpg "Chase Bank")
+
+### [Comcast](https://customer.xfinity.com/#/settings/security/xfinity-access/password)
+
+Your password should be difficult to guess as long as it's not over 18 characters long.
+
+![Comcast](/screenshots/comcast.png "Comcast")
 
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
