@@ -21,3 +21,8 @@ Financial services - where we don't allow you to create the strongest password p
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+
+### [Etihad Airways](https://www.etihadguest.com/en/login/)
+Where we start with a letter and end with a number, OR, start with a number and end with a letter.
+
+![Etihad](/screenshots/etihad.png "Etihad")
