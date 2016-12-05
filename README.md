@@ -53,6 +53,12 @@ We'll tell you not to use your name as your password, but we won't tell you how 
 
 ![PayPal](/screenshots/paypal.png "PayPal")
 
+### [Singapore Airlines](https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/)
+
+`/\d{6}/`
+
+![Singapore Airlines](/screenshots/singaporeairlines.png "Singapore Airlines")
+
 ### [Synchrony Financial](https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do)
 Financial services - where we don't allow you to create the strongest password possible.
 
