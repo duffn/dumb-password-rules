@@ -159,3 +159,8 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+
+### [Her Majestys Revenue & Customs (UK Tax)](https://secure.williams-sonoma.com/account/updatepassword.htmlhttps://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown)
+We store basically all of your data, but we can't store your password.
+
+![Her Majestys Revenue & Customs](/screenshots/tax.service.gov.uk.png "Her Majestys Revenue & Customs")
