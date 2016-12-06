@@ -65,6 +65,11 @@ Your password should be difficult to guess as long as it's not over 16 character
 
 ![Comcast](/screenshots/comcast.png "Comcast")
 
+### [El Corte Ingles](https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es)
+Min 6 and max 8 characters for password! Can't contain anything different than letters and numbers. Apart, the email address must have at least 8 characters (sorry million dollar domain owners! :D)
+
+![El Corte Ingles](/screenshots/elcorteingles.png "El Corte Ingles")
+
 ### [Fidelity](https://fps.fidelity.com/ftgw/Fps/Fidelity/RtlCust/ChangePIN/Init)
 
 No more than 20 characters and leave out characters commonly used by programmers. We don't want you to hack the mainframe.
