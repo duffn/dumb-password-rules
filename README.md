@@ -112,6 +112,28 @@ We'll tell you not to use your name as your password, but we won't tell you how 
 
 ![Singapore Airlines](/screenshots/singaporeairlines.png "Singapore Airlines")
 
+### [Sparkasse](https://s-jena.de)
+
+„Sparkasse“ is a group of banks which is pretty popular in Germany. It calls its passwords „PIN“ („persönliche Identifikations-Nummer“ — personal identification number), the rules are pretty horrific and its not even a number, even though it is called as such! Here is a screenshot from the branch where I am from (Jena, Germany), but since they have a central IT, I think it will be identical in other branches:
+
+![Sparkasse Jena](/screenshots/sparkasse_jena.png "Sparkasse Jena")
+
+The rules are as such:
+
+* Only 5 characters
+* Small letters (a-z)
+* Large letters (A-Z)
+* Numbers (0-9)
+* „Special“ characters: ä,ö,ü,Ä,Ö,Ü and ß (Not suprising for a german Company)
+
+After the rules there some hints on how the password should not look like:
+
+* Combinations of your initials and the birthyear
+* Your phone number or parts thereof
+* Your zipcode
+* Commom combinations like 123ab or 55555
+* Full or parts of your login credentials
+
 ### [Synchrony Financial](https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do)
 Financial services - where we don't allow you to create the strongest password possible.
 
