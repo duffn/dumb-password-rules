@@ -127,6 +127,12 @@ Your password needs to be between 8 and 10 characters long, with no spaces, and 
 
 ![Virgin Media](/screenshots/virginmedia.jpg "Virgin Media Password Reset")
 
+### [Virgin Trains](https://www.buytickets.virgintrains.co.uk/buytickets/updatepersonaldetails.aspx#customerDetails)
+
+Your password needs to be between 8 and 10 characters long. Previously this would silently truncate the password without warning, causing confusion when the password wouldn't work.
+
+![Virgin Trains](/screenshots/virgintrains.jpg "Virgin Trains Password Reset")
+
 ### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
