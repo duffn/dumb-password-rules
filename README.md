@@ -77,6 +77,10 @@ No more than 20 characters and leave out characters commonly used by programmers
 
 ![Global Entry](/screenshots/global-entry.png "Global Entry")
 
+### [Intel](https://www-ssl.intel.com/content/www/uk/en/my-intel/reseller-sign-in-help.html)
+
+![Intel](/screenshots/intel.jpg "Intel")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
