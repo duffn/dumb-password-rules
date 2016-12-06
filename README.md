@@ -59,6 +59,12 @@ Your password should be difficult to guess as long as it's not over 16 character
 
 ![Comcast](/screenshots/comcast.png "Comcast")
 
+### [Fidelity](https://fps.fidelity.com/ftgw/Fps/Fidelity/RtlCust/ChangePIN/Init)
+
+No more than 20 characters and leave out characters commonly used by programmers. We don't want you to hack the mainframe.
+
+![Fidelity](/screenshots/fidelity.png "Fidelity")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
