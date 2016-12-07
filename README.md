@@ -137,7 +137,7 @@ We'll tell you not to use your name as your password, but we won't tell you how 
 
 ![Singapore Airlines](/screenshots/singaporeairlines.png "Singapore Airlines")
 
-fi### [Sparkasse](https://s-jena.de)
+### [Sparkasse](https://s-jena.de)
 
 „Sparkasse“ is a group of banks which is pretty popular in Germany. It calls its passwords „PIN“ („persönliche Identifikations-Nummer“ — personal identification number), the rules are pretty horrific and its not even a number, even though it is called as such! Here is a screenshot from the branch where I am from (Jena, Germany), but since they have a central IT, I think it will be identical in other branches:
 
