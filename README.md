@@ -88,6 +88,12 @@ No more than 20 characters and leave out characters commonly used by programmers
 
 ![Global Entry](/screenshots/global-entry.png "Global Entry")
 
+### [GoDaddy](https://www.godaddy.com/)
+
+Some characters are **too** special.
+
+![GoDaddy](/screenshots/godaddy.png "GoDaddy")
+
 ### [Her Majestys Revenue & Customs (UK Tax)](https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown)
 
 We store basically all of your data, but we can't store your password.
