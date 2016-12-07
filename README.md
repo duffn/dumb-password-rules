@@ -29,6 +29,12 @@ Your password contains characters not listed. Therefore, they do not match.
 
 ![Arlo](/screenshots/arlo.png "Arlo")
 
+### [Banco Mercantil](https://www.mercantilbanco.com/ "Banco Mercantil")
+
+8 to 15 chars. No special chars allowed but requires special chars. Also requires lowercase, uppercase, and numbers. Consecutive chars are prohibited. Did I mention the page hangs while you type? That eye icon tho.
+
+![Banco Mercantil](/screenshots/banco-mercantil.png "Banco Mercantil")
+
 ### [Best Buy](https://www-ssl.bestbuy.com/identity/changePassword)
 You can enter whatever password you like! But you probably don't want to make it too long, because you'll break us and you'll never be able to login again.
 
