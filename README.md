@@ -104,6 +104,16 @@ We store basically all of your data, but we can't store your password.
 
 ![Intel](/screenshots/intel.jpg "Intel")
 
+### [Izly by Crous](https://mon-espace.izly.fr/Home/Logon)
+
+Izly by Crous is an __imposed__ French payment service for the university. You can't pay your daily meal without that because yeah you know cash is an ancient dumb thing.
+
+Your username is firstname.lastname@youruniversity.fr or your phone number. We only allow you a fixed 6 numbers password. Oh yeah we also block your account after three failed atempts. How convenient when the only thing you need to know is the name of someone and where they study. How convenient indeed.
+
+Oh and also look we got pages __NOT TRANSLATED IN FRENCH__ because duh.
+
+![Izly by Crous](/screenshots/izly-by-crous.png "Izly by Crous")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
