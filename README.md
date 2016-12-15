@@ -128,7 +128,7 @@ Has been that way for more than 10 years.
 
 ![Movistar](/screenshots/movistar.jpg "Movistar")
 
-### [PayPal](https://secure.mindware.orientaltrading.com/web/login/createUser)
+### [PayPal](https://www.paypal.com/myaccount/settings/password/edit/)
 
 We'll tell you not to use your name as your password, but we won't tell you how we restrict your password choice otherwise.
 
