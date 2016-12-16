@@ -134,6 +134,12 @@ We'll tell you not to use your name as your password, but we won't tell you how 
 
 ![PayPal](/screenshots/paypal.png "PayPal")
 
+### [SAP Cloud Appliance Library](https://cal.sap.com/)
+
+Passwords between 8 and 9 characters are the best.
+
+![SAP Cloud Appliance Library](/screenshots/sapcal.png "SAP Cloud Appliance Library")
+
 ### [Singapore Airlines](https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/)
 
 `/\d{6}/`
