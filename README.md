@@ -198,3 +198,9 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+
+### [Banc Sabadell](https://www.bancsabadell.com)
+
+One of the biggest spanish banks allows you to only use numbers and just four of them.
+
+![BancSabadell](/screenshots/banc-sabadell.png "Banc Sabadell")
