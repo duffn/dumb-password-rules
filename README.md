@@ -168,6 +168,11 @@ After the rules there some hints on how the password should not look like:
 * Commom combinations like 123ab or 55555
 * Full or parts of your login credentials
 
+### [Sprint](https://mysprint.sprint.com)
+Sprint "upgraded" their security and disallow special characters.
+
+![Sprint](/screenshots/sprint.png "Sprint")
+
 ### [Synchrony Financial](https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do)
 Financial services - where we don't allow you to create the strongest password possible.
 
