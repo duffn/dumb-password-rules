@@ -121,6 +121,12 @@ You "_may use special characters_", but only some of them - and we won't necessa
 ![Mindware](/screenshots/mindware1.png "Mindware")
 ![Mindware](/screenshots/mindware2.png "Mindware")
 
+### [MKB NetBankár](https://www.mkbnetbankar.hu/)
+
+![MKB NetBankár](/screenshots/mkb.png "MKB NetBankár")
+
+It only accepts lowercase letters, uppercase letters and numbers (any other character counts as forbidden character).
+
 ### [Movistar](https://www.movistar.es/particulares/Privada/Registro/?url=%2Fmimovistar-cliente%2Fes-es%2Fparticulares%2Fregistro%2FdatosUsuario.html&)
 Min 7 and max 8 characters for password! Also to be different than the username: the user name is automatically generated and is based on the surname of the user with some characters replaced by digits :)
 
