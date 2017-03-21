@@ -123,7 +123,8 @@ You "_may use special characters_", but only some of them - and we won't necessa
 
 ### [MKB NetBankár](https://www.mkbnetbankar.hu/)
 
-It only accepts lowercase letters, uppercase letters and numbers (any other character counts as forbidden character).
+It only accepts lowercase letters, uppercase letters and numbers (any other character counts as forbidden character).  
+Also, if your password contains any invalid character, it will get marked as "Identical to the former 10 passwords".
 
 ![MKB NetBankár](/screenshots/mkb.png "MKB NetBankár")
 
