@@ -49,6 +49,12 @@ Blacknight use Odin for it's admin panel.
 ![Blacknight](/screenshots/blacknight1.png "Blacknight/Odin")
 ![Blacknight](/screenshots/blacknight2.png "Blacknight/Odin")
 
+### [Blackrock](https://nge01.bnymellon.com/NextGenV4/dflt/Login.blk)
+
+They force you to enter a password that has 8, 9, or 10 characters, then they lecture you on how to create a strong password.
+
+![Blackrock](/screenshots/blackrock.png "Blackrock")
+
 ### [Blue Cross Blue Shield Massachusetts](https://www.bluecrossma.com/wps/portal/register)
 16 maximum and no special characters. Protecting your US healthcare information.
 
