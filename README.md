@@ -132,6 +132,9 @@ You "_may use special characters_", but only some of them - and we won't necessa
 It only accepts lowercase letters, uppercase letters and numbers (any other character counts as forbidden character).  
 Also, if your password contains any invalid character, it will get marked as "Identical to the former 10 passwords".
 
+To make it more fun, it allows to set a 24 characters password to login to their website, but the maximum length accepted by their mobile app is 16 characters.  
+Also, when you try to change the password from 24 to 16 characters, the form will not let you insert your old 24 chars password because it has a `maxlength=16` set on the input!
+
 ![MKB NetBankár](/screenshots/mkb.png "MKB NetBankár")
 
 ### [Movistar](https://www.movistar.es/particulares/Privada/Registro/?url=%2Fmimovistar-cliente%2Fes-es%2Fparticulares%2Fregistro%2FdatosUsuario.html&)
