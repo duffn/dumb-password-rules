@@ -132,8 +132,9 @@ You "_may use special characters_", but only some of them - and we won't necessa
 It only accepts lowercase letters, uppercase letters and numbers (any other character counts as forbidden character).  
 Also, if your password contains any invalid character, it will get marked as "Identical to the former 10 passwords".
 
-To make it more fun, it allows to set a 24 characters password to login to their website, but the maximum length accepted by their mobile app is 16 characters.  
-Also, when you try to change the password from 24 to 16 characters, the form will not let you insert your old 24 chars password because it has a `maxlength=16` set on the input!
+To make it more fun, during the registration, it allows to set a 24 characters password to login to their website.  
+Once you try to login with the password, it will say that the maximum length accepted is 16 characters.  
+What actually happens, is that they let you insert 24 characters during registration, but only the first 16 will get actually used as password.
 
 ![MKB NetBankár](/screenshots/mkb.png "MKB NetBankár")
 
