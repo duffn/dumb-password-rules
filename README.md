@@ -120,6 +120,16 @@ Oh and also look we got pages __NOT TRANSLATED IN FRENCH__ because duh.
 
 ![Izly by Crous](/screenshots/izly-by-crous.png "Izly by Crous")
 
+### [Microsoft (work accounts)](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
+
+What doesn't seem to be a problem for personal accounts, is for work accounts from Microsoft (e.g. Office 365 etc.).
+
+Maximum 16 characters. So forget about using your new fancy diceware password here - or really any secure passwords in general.
+
+Oh - and besides that, please don't use any "exotic" symbols, like ¤ or €. Or the letters Æ, Ø or Å from the Danish alphabet. They all are supposedly "spaces". 
+
+![Microsoft (work accounts)](/screenshots/microsoftwork.png "Microsoft (work accounts)")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
