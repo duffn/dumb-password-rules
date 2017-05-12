@@ -56,6 +56,12 @@ Blacknight use Odin for it's admin panel.
 ![Blacknight](/screenshots/blacknight1.png "Blacknight/Odin")
 ![Blacknight](/screenshots/blacknight2.png "Blacknight/Odin")
 
+### [Blackrock](https://nge01.bnymellon.com/NextGenV4/dflt/Login.blk)
+
+They force you to enter a password that has 8, 9, or 10 characters, then they lecture you on how to create a strong password.
+
+![Blackrock](/screenshots/blackrock.png "Blackrock")
+
 ### [Blue Cross Blue Shield Massachusetts](https://www.bluecrossma.com/wps/portal/register)
 16 maximum and no special characters. Protecting your US healthcare information.
 
@@ -95,6 +101,12 @@ No more than 20 characters and leave out characters commonly used by programmers
 
 ![Global Entry](/screenshots/global-entry.png "Global Entry")
 
+### [GoDaddy](https://www.godaddy.com/)
+
+Some characters are **too** special.
+
+![GoDaddy](/screenshots/godaddy.png "GoDaddy")
+
 ### [Her Majestys Revenue & Customs (UK Tax)](https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown)
 
 We store basically all of your data, but we can't store your password.
@@ -105,12 +117,43 @@ We store basically all of your data, but we can't store your password.
 
 ![Intel](/screenshots/intel.jpg "Intel")
 
+### [Izly by Crous](https://mon-espace.izly.fr/Home/Logon)
+
+Izly by Crous is an __imposed__ French payment service for the university. You can't pay your daily meal without that because yeah you know cash is an ancient dumb thing.
+
+Your username is firstname.lastname@youruniversity.fr or your phone number. We only allow you a fixed 6 numbers password. Oh yeah we also block your account after three failed atempts. How convenient when the only thing you need to know is the name of someone and where they study. How convenient indeed.
+
+Oh and also look we got pages __NOT TRANSLATED IN FRENCH__ because duh.
+
+![Izly by Crous](/screenshots/izly-by-crous.png "Izly by Crous")
+
+### [Microsoft (work accounts)](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
+
+What doesn't seem to be a problem for personal accounts, is for work accounts from Microsoft (e.g. Office 365 etc.).
+
+Maximum 16 characters. So forget about using your new fancy diceware password here - or really any secure passwords in general.
+
+Oh - and besides that, please don't use any "exotic" symbols, like ¤ or €. Or the letters Æ, Ø or Å from the Danish alphabet. They all are supposedly "spaces". 
+
+![Microsoft (work accounts)](/screenshots/microsoftwork.png "Microsoft (work accounts)")
+
 ### [Mindware](https://secure.mindware.orientaltrading.com/web/login/createUser)
 
 You "_may use special characters_", but only some of them - and we won't necessarily tell you which ones.
 
 ![Mindware](/screenshots/mindware1.png "Mindware")
 ![Mindware](/screenshots/mindware2.png "Mindware")
+
+### [MKB NetBankár](https://www.mkbnetbankar.hu/)
+
+It only accepts lowercase letters, uppercase letters and numbers (any other character counts as forbidden character).  
+Also, if your password contains any invalid character, it will get marked as "Identical to the former 10 passwords".
+
+To make it more fun, during the registration, it allows to set a 24 characters password to login to their website.  
+Once you try to login with the password, it will say that the maximum length accepted is 16 characters.  
+What actually happens, is that they let you insert 24 characters during registration, but only the first 16 will get actually used as password.
+
+![MKB NetBankár](/screenshots/mkb.png "MKB NetBankár")
 
 ### [Movistar](https://www.movistar.es/particulares/Privada/Registro/?url=%2Fmimovistar-cliente%2Fes-es%2Fparticulares%2Fregistro%2FdatosUsuario.html&)
 Min 7 and max 8 characters for password! Also to be different than the username: the user name is automatically generated and is based on the surname of the user with some characters replaced by digits :)
@@ -125,11 +168,17 @@ Not really a password rule per se, but the 2FA entry field has optional buttons 
 
 ![OVH](/screenshots/ovh.png "OVH")
 
-### [PayPal](https://secure.mindware.orientaltrading.com/web/login/createUser)
+### [PayPal](https://www.paypal.com/myaccount/settings/password/edit/)
 
 We'll tell you not to use your name as your password, but we won't tell you how we restrict your password choice otherwise.
 
 ![PayPal](/screenshots/paypal.png "PayPal")
+
+### [SAP Cloud Appliance Library](https://cal.sap.com/)
+
+Passwords between 8 and 9 characters are the best.
+
+![SAP Cloud Appliance Library](/screenshots/sapcal.png "SAP Cloud Appliance Library")
 
 ### [Singapore Airlines](https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/)
 
@@ -158,6 +207,11 @@ After the rules there some hints on how the password should not look like:
 * Your zipcode
 * Commom combinations like 123ab or 55555
 * Full or parts of your login credentials
+
+### [Sprint](https://mysprint.sprint.com)
+Sprint "upgraded" their security and disallow special characters.
+
+![Sprint](/screenshots/sprint.png "Sprint")
 
 ### [Synchrony Financial](https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do)
 Financial services - where we don't allow you to create the strongest password possible.
