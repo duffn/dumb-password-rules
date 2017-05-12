@@ -23,6 +23,13 @@ Their site says "_All information is kept safe and secure._" Just not as secure 
 
 ![AmeriHealth](/screenshots/amerihealth.png "AmeriHealth")
 
+
+### [AOL](https://aol.com/)
+
+Between 8 and 16, so I can't go up to 20. Oh, and thanks for restricting one of the most common special characters!
+
+![AOL](/screenshots/aol.png "AOL")
+
 ### [Arlo](https://arlo.netgear.com/?passwordResetCode)
 
 Your password contains characters not listed. Therefore, they do not match.
@@ -154,6 +161,12 @@ Min 7 and max 8 characters for password! Also to be different than the username:
 Has been that way for more than 10 years.
 
 ![Movistar](/screenshots/movistar.jpg "Movistar")
+
+### [OVH](https://www.ovh.com/us/)
+
+Not really a password rule per se, but the 2FA entry field has optional buttons for incrementing and decreasing the code value. Yes, those buttons allow you to go into the negatives.
+
+![OVH](/screenshots/ovh.png "OVH")
 
 ### [PayPal](https://www.paypal.com/myaccount/settings/password/edit/)
 
