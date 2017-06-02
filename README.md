@@ -139,7 +139,7 @@ What doesn't seem to be a problem for personal accounts, is for work accounts fr
 
 Maximum 16 characters. So forget about using your new fancy diceware password here - or really any secure passwords in general.
 
-Oh - and besides that, please don't use any "exotic" symbols, like ¤ or €. Or the letters Æ, Ø or Å from the Danish alphabet. They all are supposedly "spaces". 
+Oh - and besides that, please don't use any "exotic" symbols, like ¤ or €. Or the letters Æ, Ø or Å from the Danish alphabet. They all are supposedly "spaces".
 
 ![Microsoft (work accounts)](/screenshots/microsoftwork.png "Microsoft (work accounts)")
 
@@ -234,8 +234,12 @@ Your password needs to be between 8 and 10 characters long, with no spaces, and 
 
 ![Virgin Media](/screenshots/virginmedia.jpg "Virgin Media Password Reset")
 
-### [Virgin Trains](https://www.buytickets.virgintrains.co.uk/buytickets/updatepersonaldetails.aspx#customerDetails)
+### [Virgin Mobile](https://myaccount.virginmobileusa.com/primary/my-account-settings-change-pin)
+You can only use PIN as your password.
 
+![Virgin Mobile](/screenshots/virginmobile.png "Virgin Mobile PIN Reset")
+
+### [Virgin Trains](https://www.buytickets.virgintrains.co.uk/buytickets/updatepersonaldetails.aspx#customerDetails)
 Your password needs to be between 8 and 10 characters long. Previously this would silently truncate the password without warning, causing confusion when the password wouldn't work.
 
 ![Virgin Trains](/screenshots/virgintrains.jpg "Virgin Trains Password Reset")
