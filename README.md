@@ -234,6 +234,11 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 
 ![Virgin Trains](/screenshots/virgintrains.jpg "Virgin Trains Password Reset")
 
+### [Walmart](https://www.walmart.com/account/signup)
+Your password length is limited between 6 and 12 characters.
+
+![Walmart](/screenshots/walmart.png "Walmart")
+
 ### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
