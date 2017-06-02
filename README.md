@@ -234,6 +234,11 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 
 ![Virgin Trains](/screenshots/virgintrains.jpg "Virgin Trains Password Reset")
 
+### [Wells Fargo](https://oam.wellsfargo.com/oam/access/receiver?dest=MODIFY_PASSWORD)
+Your password must be between 6 and 14 characters.
+
+![Wells Fargo](/screenshots/wells-fargo.png "Wells Fargo")
+
 ### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
