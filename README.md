@@ -238,3 +238,8 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 We put punctuation in the list of unusable characters to make it additionally confusing.
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+
+### [Wells Fargo Identity Theft Protection](https://enhanced.wellsfargoprotection.com/secure/MyProfile.aspx)
+Your password on an Identity Theft Protection service is limited to between 8 and 20 characters. Your username is allowed to be longer than your password.
+
+![Wells Fargo Identity Theft Protection](/screenshots/wells-fargo-identity-theft-protection.png "Wells Fargo Identity Theft Protection")
