@@ -127,6 +127,12 @@ Oh and also look we got pages __NOT TRANSLATED IN FRENCH__ because duh.
 
 ![Izly by Crous](/screenshots/izly-by-crous.png "Izly by Crous")
 
+### [Merrill Lynch](https://www.benefits.ml.com/Core/User/ChangePassword)
+
+Passwords must be between 8 and 20 characters, and some special characters are allowed. Users with randomly-generated passwords may find it particularly annoying to generate a password that works for their password safe.
+
+![Merrill Lynch](/screenshots/merrill-lynch.png "Merrill Lynch")
+
 ### [Microsoft (work accounts)](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
 
 What doesn't seem to be a problem for personal accounts, is for work accounts from Microsoft (e.g. Office 365 etc.).
