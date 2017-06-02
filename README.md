@@ -240,6 +240,11 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 
 ![Virgin Trains](/screenshots/virgintrains.jpg "Virgin Trains Password Reset")
 
+### [Walmart](https://www.walmart.com/account/signup)
+Your password length is limited between 6 and 12 characters.
+
+![Walmart](/screenshots/walmart.png "Walmart")
+
 ### [Wells Fargo](https://oam.wellsfargo.com/oam/access/receiver?dest=MODIFY_PASSWORD)
 Your password must be between 6 and 14 characters.
 
