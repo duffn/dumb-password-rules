@@ -73,6 +73,11 @@ Password must be exactly 6 characters long and no special character.
 
 ![BMO Bank of Montreal](/screenshots/bmo.png "BMO Bank of Montreal")
 
+### [California Department of Motor Vehicles](https://www.dmv.ca.gov/FIM/sps/uscfed/usc/self/account/create)
+They also prohibit pasting into the password field by using a JavaScript `alert()` whenever you right-click or press the `Ctrl` button, so you can't use a password manager.
+
+![California DMV](/screenshots/ca-dmv.png "California DMV")
+
 ### [Chase Bank](https://servicing.chase.com/reo/profile/create)
 We don't even want you to login online.
 
