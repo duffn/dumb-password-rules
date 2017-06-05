@@ -191,6 +191,12 @@ Passwords between 8 and 9 characters are the best.
 
 ![SAP Cloud Appliance Library](/screenshots/sapcal.png "SAP Cloud Appliance Library")
 
+### [Safeway](https://shop.safeway.com/)
+
+Passwords limited to 8-12 characters.
+
+![Safeway](/screenshots/safeway.png "Safeway")
+
 ### [Singapore Airlines](https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/)
 
 `/\d{6}/`
