@@ -266,7 +266,7 @@ Your password must be between 6 and 14 characters.
 ![Wells Fargo](/screenshots/wells-fargo.png "Wells Fargo")
 
 ### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
-We put punctuation in the list of unusable characters to make it additionally confusing.
+25 maximum characters and disallowing some specials.
 
 ![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
 
