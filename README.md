@@ -240,6 +240,12 @@ Pick from an arbitrary list of symbols, and no repeating characters.
 
 ![United States Postal Service](/screenshots/usps.png "United States Postal Service Change Your Password")
 
+### [University of Texas at Austin](http://www.utdirect.utexas.edu/utdirect/)
+
+Because of the last two rules, which ban dictionary words and any variants using symbol substitutions, *neither* of the passwords presented in the [xkcd comic](https://xkcd.com/936/) are allowed.
+
+![University of Texas as Austin](/screenshots/ut-austin.png "UT Austin Password Reset")
+
 ### [Virgin Media](https://my.virginmedia.com/forgot-details/reset)
 Your password needs to be between 8 and 10 characters long, with no spaces, and must contain only numbers and letters. The first character must be a letter.
 
