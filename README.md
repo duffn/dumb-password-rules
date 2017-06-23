@@ -173,12 +173,6 @@ Has been that way for more than 10 years.
 
 ![Movistar](/screenshots/movistar.jpg "Movistar")
 
-### [OVH](https://www.ovh.com/us/)
-
-Not really a password rule per se, but the 2FA entry field has optional buttons for incrementing and decreasing the code value. Yes, those buttons allow you to go into the negatives.
-
-![OVH](/screenshots/ovh.png "OVH")
-
 ### [PayPal](https://www.paypal.com/myaccount/settings/password/edit/)
 
 We'll tell you not to use your name as your password, but we won't tell you how we restrict your password choice otherwise.
