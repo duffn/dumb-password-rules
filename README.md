@@ -229,6 +229,11 @@ Financial services - where we don't allow you to create the strongest password p
 
 ![Synchrony Financial](/screenshots/synchrony.png "Synchrony Financial")
 
+### [Ubisoft](https://account.ubisoft.com/en-GB/action/change-password)
+Only tells you the rules after submitting and clicking a link to a pop up window.
+
+![Ubisoft](/screenshots/ubisoft.PNG "Ubisoft Forgot Password")
+
 ### [United States Postal Service](https://reg.usps.com/entreg/secure/ChangePasswordAction_input)
 Pick from an arbitrary list of symbols, and no repeating characters.
 
