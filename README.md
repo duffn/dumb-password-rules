@@ -94,6 +94,11 @@ Min 6 and max 8 characters for password! Can't contain anything different than l
 
 ![El Corte Ingles](/screenshots/elcorteingles.png "El Corte Ingles")
 
+### [E-learning (Unipd)](https://elearning.studenti.math.unipd.it/authenticate/change_password/)
+Exactly 8 characters for password! There must be at least 1 lowercase letter, at least 1 uppercase letter, at least 1 number and at least 1 *special* char ( * , . $ # @ etc...).
+
+![e-learning (Unipd)](/screenshots/elearning.math.unipd.png "e-learning (Unipd)")
+
 ### [Fidelity](https://fps.fidelity.com/ftgw/Fps/Fidelity/RtlCust/ChangePIN/Init)
 
 No more than 20 characters and leave out characters commonly used by programmers. We don't want you to hack the mainframe.
