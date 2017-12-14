@@ -234,6 +234,11 @@ Financial services - where we don't allow you to create the strongest password p
 
 ![Synchrony Financial](/screenshots/synchrony.png "Synchrony Financial")
 
+### [Ticketmaster.de](https://www.ticketmaster.de/myAccount/editProfile)
+Your password length is limited between 5 and 20 characters.
+
+![Ticketmaster.de](/screenshots/ticketmaster-de.png "Ticketmaster.de")
+
 ### [Ubisoft](https://account.ubisoft.com/en-GB/action/change-password)
 Only tells you the rules after submitting and clicking a link to a pop up window.
 
