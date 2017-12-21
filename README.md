@@ -73,6 +73,12 @@ Password must be exactly 6 characters long and no special character.
 
 ![BMO Bank of Montreal](/screenshots/bmo.png "BMO Bank of Montreal")
 
+### [BMW ConnectedDrive](https://www.bmw-connecteddrive.co.uk/)
+
+Although the prompt suggests good things, after many failed attempts to set a new password, it turns out you can ONLY use the special characters shown in the prompt
+
+![BMW ConnectedDrive](/screenshots/bmw-connected.png "BMW ConnectedDrive")
+
 ### [California Department of Motor Vehicles](https://www.dmv.ca.gov/FIM/sps/uscfed/usc/self/account/create)
 They also prohibit pasting into the password field by using a JavaScript `alert()` whenever you right-click or press the `Ctrl` button, so you can't use a password manager.
 
