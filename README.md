@@ -190,6 +190,12 @@ We'll tell you not to use your name as your password, but we won't tell you how 
 
 ![PayPal](/screenshots/paypal.png "PayPal")
 
+### [Red Hat](https://www.redhat.com/)
+
+Symbols. You keep using that word. I don't think it means what you think it means.
+
+![Red Hat](/screenshots/redhat.png "Red Hat")
+
 ### [SAP Cloud Appliance Library](https://cal.sap.com/)
 
 Passwords between 8 and 9 characters are the best.
