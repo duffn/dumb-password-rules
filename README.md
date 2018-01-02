@@ -184,6 +184,12 @@ Has been that way for more than 10 years.
 
 ![Movistar](/screenshots/movistar.jpg "Movistar")
 
+### [Oracle](https://profile.oracle.com/)
+
+*Should not* or *must not*? RFC 2119 may want a word with you.
+
+![Oracle](/screenshots/oracle.png "Oracle")
+
 ### [PayPal](https://www.paypal.com/myaccount/settings/password/edit/)
 
 We'll tell you not to use your name as your password, but we won't tell you how we restrict your password choice otherwise.
