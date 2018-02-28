@@ -258,6 +258,19 @@ Sprint "upgraded" their security and disallow special characters.
 
 ![Sprint](/screenshots/sprint.png "Sprint")
 
+### [State Bank of India (Foreign Travel Card)](https://prepaid.onlinesbi.com/SBICMS/jsp/Portals/jsp/foreignCard.jsp)
+State Bank of India is the largest government operated bank in India. They offer "travel" prepaid cards for foreign currencies, this is for their portal for the prepaid card users to manage their account.
+
+Your password must:
+- Be between 8 and 9 characters long
+- Contain at least 1 lowercase character
+- Contain at least 1 uppercase character
+- Contain at least 1 special character
+- Contain at least 1 number
+- NOT contain any "hacking characters" - #, %, &, =, /, <
+
+![SBI](/screenshots/sbi.png "SBI")
+
 ### [Synchrony Financial](https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do)
 Financial services - where we don't allow you to create the strongest password possible.
 
