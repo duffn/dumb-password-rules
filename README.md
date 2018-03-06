@@ -154,6 +154,13 @@ Oh and also look we got pages __NOT TRANSLATED IN FRENCH__ because duh.
 
 ![Izly by Crous](/screenshots/izly-by-crous.png "Izly by Crous")
 
+### [Jitterbit](https://www.jitterbit.com/)
+
+While not the dumbest password rule, still dumb.
+>Password must have a length of at least eight characters and contain at least one: number, special char `!#$%-_=+<>`, capital letter, and lowercase letter.
+
+![Jitterbit](/screenshots/jitterbit.png "Jitterbit")
+
 ### [Merrill Lynch](https://www.benefits.ml.com/Core/User/ChangePassword)
 
 Passwords must be between 8 and 20 characters, and some special characters are allowed. Users with randomly-generated passwords may find it particularly annoying to generate a password that works for their password safe.
