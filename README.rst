@@ -80,7 +80,7 @@ make it too long, because you'll break us and you'll never be able to
 login again.
 
 | |Best Buy|
-| |Best Buy|
+| |Best Buy2|
 
 `Blacknight <https://cp.blacknight.com>`__ / `Odin <http://www.odin.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,7 +89,7 @@ login again.
 | Blacknight use Odin for it's admin panel.
 
 | |Blacknight|
-| |Blacknight|
+| |Blacknight2|
 
 `Blackrock <https://nge01.bnymellon.com/NextGenV4/dflt/Login.blk>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -498,9 +498,9 @@ your password.
 .. |Arlo| image:: /screenshots/arlo.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
-.. |Best Buy| image:: /screenshots/bestbuy2.png
+.. |Best Buy2| image:: /screenshots/bestbuy2.png
 .. |Blacknight| image:: /screenshots/blacknight1.png
-.. |Blacknight| image:: /screenshots/blacknight2.png
+.. |Blacknight2| image:: /screenshots/blacknight2.png
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
@@ -521,7 +521,7 @@ your password.
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Mindware| image:: /screenshots/mindware1.png
-.. |Mindware| image:: /screenshots/mindware2.png
+.. |Mindware2| image:: /screenshots/mindware2.png
 .. |MKB NetBankár| image:: /screenshots/mkb.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
