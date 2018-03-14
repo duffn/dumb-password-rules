@@ -15,7 +15,7 @@ See other sites for the formatting and follow these rules:
 -  Include at least one screenshot.
 -  Keep the sites in alphabetical order.
 
-.. contents Table of Contents
+.. contents:: Table of Contents
 
 Sites
 -----
