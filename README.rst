@@ -15,10 +15,13 @@ See other sites for the formatting and follow these rules:
 -  Include at least one screenshot.
 -  Keep the sites in alphabetical order.
 
-.. contents:: Table of Contents
-
 Sites
 -----
+-----------------
+Table of contents
+-----------------
+.. contents::
+   :local: 
 
 `ADP <https://login.adp.nl/selfservice/private/passchange/#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
