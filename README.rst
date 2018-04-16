@@ -316,6 +316,17 @@ you how we restrict your password choice otherwise.
 
 |PayPal|
 
+`Raiffeisen Bank Serbia <https://rol.raiffeisenbank.rs/Retail/home/login/>`__
+~~~~~~~~~~~~~~~~~~~~~~~
+
+There are a couple of password limitations when creating a new account on
+Raiffeisen Bank Serbia on-line banking portal. Password length is limited to
+minimum 8 and maximum 16 characters. Also, minimum uppercase letters 1, minimum
+lowercase letter 1, minimum digits 2, maximum consecutive identical characters 4
+and first character must be a letter. Oh... And, no special characters!
+
+|Raiffeisen Bank Serbia|
+
 `Red Hat <https://www.redhat.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -529,6 +540,7 @@ your password.
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |PayPal| image:: /screenshots/paypal.png
+.. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
