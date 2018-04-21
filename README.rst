@@ -248,6 +248,15 @@ password safe.
 
 |Merrill Lynch|
 
+`Major League Baseball <https://securea.mlb.com/enterworkflow.do?flowId=registration.connect.wizard&c_id=mlb&template=mobile&forwardUrl=https://www.mlb.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When creating a new account they enforce some password rules like: length must be
+between 8 and 15 characters and there must be one upper case, one lower case letter
+and one number.
+
+|MLB|
+
 `Microsoft (work accounts) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -532,6 +541,7 @@ your password.
 .. |Intel| image:: /screenshots/intel.jpg
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
+.. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Mindware| image:: /screenshots/mindware1.png
