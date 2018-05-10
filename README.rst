@@ -21,7 +21,7 @@ Sites
 Table of contents
 -----------------
 .. contents::
-   :local: 
+   :local:
 
 `ADP <https://login.adp.nl/selfservice/private/passchange/#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -325,6 +325,14 @@ you how we restrict your password choice otherwise.
 
 |PayPal|
 
+`Paytm <https://paytm.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 5 and 15 characters. Also, spaces don't count
+as characters.
+
+|Paytm|
+
 `Raiffeisen Bank Serbia <https://rol.raiffeisenbank.rs/Retail/home/login/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -550,6 +558,7 @@ your password.
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |PayPal| image:: /screenshots/paypal.png
+.. |Paytm| image:: /screenshots/paytm.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
