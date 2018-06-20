@@ -255,6 +255,14 @@ When creating a new account they enforce some password rules like: length must b
 between 8 and 15 characters and there must be one upper case, one lower case letter
 and one number.
 
+|MetLife|
+
+`MetLife <https://online.metlife.com/edge/web/profile/viewProfile?show=profileSettings>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Max length of 20 characters, no special characters allowed.
+Pasting into the second password field is disabled even with
+the Chrome extension Don't Fuck With Paste.
+
 |MLB|
 
 `Microsoft (work accounts) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
@@ -551,6 +559,7 @@ your password.
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
+.. |MetLife| image:: /screenshots/metlife.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Mindware| image:: /screenshots/mindware1.png
 .. |Mindware2| image:: /screenshots/mindware2.png
