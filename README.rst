@@ -507,6 +507,13 @@ Your password length is limited between 6 and 12 characters.
 
 |Walmart|
 
+`WeatherBug <https://www.weatherbug.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Maximum 16 characters.
+
+|WeatherBug|
+
 `Wells Fargo <https://oam.wellsfargo.com/oam/access/receiver?dest=MODIFY_PASSWORD>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -585,6 +592,7 @@ your password.
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |Walmart| image:: /screenshots/walmart.png
+.. |WeatherBug| image:: /screenshots/weatherbug.png
 .. |Wells Fargo| image:: /screenshots/wells-fargo.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
