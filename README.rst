@@ -512,6 +512,13 @@ Your password length is limited between 6 and 12 characters.
 
 Your password must be between 6 and 14 characters.
 
+|WeatherBug|
+
+`WeatherBug <https://www.weatherbug.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Maximum 16 characters.
+
 |Wells Fargo|
 
 `Williams-Sonoma <https://secure.williams-sonoma.com/account/updatepassword.html>`__
@@ -585,6 +592,7 @@ your password.
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |Walmart| image:: /screenshots/walmart.png
+.. |WeatherBug| image:: /screenshots/weatherbug.png
 .. |Wells Fargo| image:: /screenshots/wells-fargo.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
