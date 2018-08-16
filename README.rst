@@ -507,6 +507,13 @@ Your password length is limited between 6 and 12 characters.
 
 |Walmart|
 
+`WeatherBug <https://www.weatherbug.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Maximum 16 characters.
+
+|WeatherBug|
+
 `Wells Fargo <https://oam.wellsfargo.com/oam/access/receiver?dest=MODIFY_PASSWORD>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
