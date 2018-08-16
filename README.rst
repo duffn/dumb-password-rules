@@ -519,13 +519,6 @@ Maximum 16 characters.
 
 Your password must be between 6 and 14 characters.
 
-|WeatherBug|
-
-`WeatherBug <https://www.weatherbug.com/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Maximum 16 characters.
-
 |Wells Fargo|
 
 `Williams-Sonoma <https://secure.williams-sonoma.com/account/updatepassword.html>`__
