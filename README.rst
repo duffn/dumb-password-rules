@@ -166,6 +166,18 @@ at least 8 characters (sorry million dollar domain owners! :D)
 
 |El Corte Ingles|
 
+`Belastingdienst <https://www.belastingdienst.nl/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+At least 8 and at most 25 characters, of which at least 3 of the characters were not used in the previous password.
+No more than 3 of the same characters.
+At least 1 upper case and 4 lower case characters.
+No more than 3 special characters.
+
+It's not like we're in the EU and we're subject to GDPR or something, oh wait we are.
+
+|Dutch Tax Authorities|
+
 `E-learning (Unipd) <https://elearning.studenti.math.unipd.it/authenticate/change_password/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -555,6 +567,7 @@ your password.
 .. |Chase Bank| image:: /screenshots/chase-bank.jpg
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
 .. |Fidelity| image:: /screenshots/fidelity.png
