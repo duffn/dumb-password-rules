@@ -166,7 +166,7 @@ at least 8 characters (sorry million dollar domain owners! :D)
 
 |El Corte Ingles|
 
-`Belastingdienst <https://www.belastingdienst.nl/>`__
+`Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 At least 8 and at most 25 characters, of which at least 3 of the characters were not used in the previous password.
@@ -174,7 +174,7 @@ No more than 3 of the same characters.
 At least 1 upper case and 4 lower case characters.
 No more than 3 special characters.
 
-It's not like we're in the EU and we're subject to GDPR or something, oh wait we are.
+It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
 
