@@ -157,15 +157,6 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
-`El Corte Ingles <https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Min 6 and max 8 characters for password! Can't contain anything
-different than letters and numbers. Apart, the email address must have
-at least 8 characters (sorry million dollar domain owners! :D)
-
-|El Corte Ingles|
-
 `Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -177,6 +168,15 @@ No more than 3 special characters.
 It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
+
+`El Corte Ingles <https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Min 6 and max 8 characters for password! Can't contain anything
+different than letters and numbers. Apart, the email address must have
+at least 8 characters (sorry million dollar domain owners! :D)
+
+|El Corte Ingles|
 
 `E-learning (Unipd) <https://elearning.studenti.math.unipd.it/authenticate/change_password/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
