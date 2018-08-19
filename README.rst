@@ -157,6 +157,18 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
+`Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+At least 8 and at most 25 characters, of which at least 3 of the characters were not used in the previous password.
+No more than 3 of the same characters.
+At least 1 upper case and 4 lower case characters.
+No more than 3 special characters.
+
+It's not like hashing passwords is a thing or something.
+
+|Dutch Tax Authorities|
+
 `El Corte Ingles <https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -555,6 +567,7 @@ your password.
 .. |Chase Bank| image:: /screenshots/chase-bank.jpg
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
 .. |Fidelity| image:: /screenshots/fidelity.png
