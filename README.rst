@@ -169,6 +169,13 @@ It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
 
+`Delta <https://www.delta.com/content/www/en_US/traveling-with-us/advisories/password-security.html>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's a good thing they don't store personal information such as your passport number... oh wait.
+
+|Delta|
+
 `El Corte Ingles <https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -567,6 +574,7 @@ your password.
 .. |Chase Bank| image:: /screenshots/chase-bank.jpg
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |Delta| image:: /screenshots/delta.jpg
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
