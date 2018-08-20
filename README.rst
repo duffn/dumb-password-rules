@@ -157,6 +157,20 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
+`Delta <https://www.delta.com/content/www/en_US/traveling-with-us/advisories/password-security.html>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's a good thing they don't store personal information such as your passport number... oh wait.
+
+|Delta|
+
+`DJI <https://account.dji.com/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The symbol `\\` is banned without a notice, it'll probably escape whatever you'll put in, just why...
+
+|DJI|
+
 `Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -168,13 +182,6 @@ No more than 3 special characters.
 It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
-
-`Delta <https://www.delta.com/content/www/en_US/traveling-with-us/advisories/password-security.html>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-It's a good thing they don't store personal information such as your passport number... oh wait.
-
-|Delta|
 
 `El Corte Ingles <https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -575,6 +582,7 @@ your password.
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Delta| image:: /screenshots/delta.jpg
+.. |DJI| image:: /screenshots/dji-drones.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
