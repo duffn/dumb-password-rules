@@ -167,7 +167,7 @@ It's a good thing they don't store personal information such as your passport nu
 `DJI <https://account.dji.com/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The symbol `\` is banned without a notice, it'll probably escape whatever you'll put in, just why...
+The symbol `\\` is banned without a notice, it'll probably escape whatever you'll put in, just why...
 
 |DJI|
 
