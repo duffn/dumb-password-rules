@@ -164,6 +164,13 @@ It's a good thing they don't store personal information such as your passport nu
 
 |Delta|
 
+`DJI <https://account.dji.com/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The symbol `\` is banned without a notice, it'll probably escape whatever you'll put in, just why...
+
+|DJI|
+
 `Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -575,6 +582,7 @@ your password.
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Delta| image:: /screenshots/delta.jpg
+.. |DJI| image:: /screenshots/dji-drones.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
