@@ -23,6 +23,14 @@ Table of contents
 .. contents::
    :local:
 
+
+`Admiral <https://myaccount.admiral.com/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Restrict the inclusion of a % character.
+
+|Admiral|
+
 `ADP <https://login.adp.nl/selfservice/private/passchange/#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -563,6 +571,7 @@ your password.
 
 |Wells Fargo Identity Theft Protection|
 
+.. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
