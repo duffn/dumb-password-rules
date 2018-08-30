@@ -272,6 +272,12 @@ While not the dumbest password rule, still dumb.
 
 |Jitterbit|
 
+`Maxpreps <http://www.maxpreps.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
+ can't sign in because her's lastname is offensive language for the website
+|Maxpreps|
+
 `Merrill Lynch <https://www.benefits.ml.com/Core/User/ChangePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -604,6 +610,7 @@ your password.
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
+.. |Maxpreps| image:: /screenshots/maxpreps.png
 .. |MetLife| image:: /screenshots/metlife.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Mindware| image:: /screenshots/mindware1.png
