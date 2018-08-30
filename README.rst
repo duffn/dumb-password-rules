@@ -275,7 +275,7 @@ While not the dumbest password rule, still dumb.
 `Maxpreps <http://www.maxpreps.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
- can't sign in because she's lastname is offensive language for the website
+ can't sign in because her's lastname is offensive language for the website
 |Maxpreps|
 
 `Merrill Lynch <https://www.benefits.ml.com/Core/User/ChangePassword>`__
@@ -295,7 +295,7 @@ When creating a new account they enforce some password rules like: length must b
 between 8 and 15 characters and there must be one upper case, one lower case letter
 and one number.
 
-| |MetLife|
+|MetLife|
 
 `MetLife <https://online.metlife.com/edge/web/profile/viewProfile?show=profileSettings>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
