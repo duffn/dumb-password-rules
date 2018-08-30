@@ -610,6 +610,7 @@ your password.
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
+.. |Maxpreps| image:: /screenshots/maxpreps.png
 .. |MetLife| image:: /screenshots/metlife.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Mindware| image:: /screenshots/mindware1.png
