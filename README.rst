@@ -498,6 +498,13 @@ Your password length is limited between 5 and 20 characters.
 
 |Ticketmaster.de|
 
+`TwinSpires <https://www.twinspires.com/account/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You can gamble on our site. We'll keep your money secure with a 12 character password!
+
+|TwinSpires|
+
 `Ubisoft <https://account.ubisoft.com/en-GB/action/change-password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -638,6 +645,7 @@ your password.
 .. |SBI| image:: /screenshots/sbi.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
+.. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
