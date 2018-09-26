@@ -39,6 +39,16 @@ could use proper grammar in their rule list.
 
 |ADP|
 
+`Advanzia <https://mein.advanzia.com/icc/assisto/nav/f96/f963b01b-043c-a21a-72e5-fd2ce0f2d5a2.htm#Sicherheit>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- At least 6 to a maximum of 12 characters
+- Only digits and letters without umlauts
+- Allowed special characters only: ? ! $ €% & * _ = - +. ,:; / () {} [] ~ @ #
+- No spaces
+
+|Advanzia|
+
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
