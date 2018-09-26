@@ -43,8 +43,8 @@ could use proper grammar in their rule list.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Requires at least 6 to a maximum of 12 characters [sic!]
-- Allows digits and letters without umlauts only 
-- Allows specific special characters only: ? ! $ €% & * _ = - +. ,:; / () {} [] ~ @ #
+- Allows only digits and letters without umlauts
+- Allows only specific special characters: ? ! $ €% & * _ = - +. ,:; / () {} [] ~ @ #
 - Allows no spaces
 
 |Advanzia|
@@ -603,6 +603,7 @@ your password.
 
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
+.. |Advanzia| image:: /screenshots/advanzia.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AOL| image:: /screenshots/aol.png
