@@ -42,10 +42,10 @@ could use proper grammar in their rule list.
 `Advanzia <https://mein.advanzia.com/icc/assisto/nav/f96/f963b01b-043c-a21a-72e5-fd2ce0f2d5a2.htm#Sicherheit>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- At least 6 to a maximum of 12 characters
-- Only digits and letters without umlauts
-- Allowed special characters only: ? ! $ €% & * _ = - +. ,:; / () {} [] ~ @ #
-- No spaces
+- Requires at least 6 to a maximum of 12 characters [sic!]
+- Allows digits and letters without umlauts only 
+- Allows specific special characters only: ? ! $ €% & * _ = - +. ,:; / () {} [] ~ @ #
+- Allows no spaces
 
 |Advanzia|
 
