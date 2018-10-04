@@ -93,6 +93,15 @@ tho.
 
 |Banco Mercantil|
 
+`Battle.net <https://eu.battle.net/account/creation/en-us/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+8 to 16 characters, at least one number and one letter and last but not least NO special characters, and can't have a password that looks like your username too.
+
+A real time travel adventure through the password rules of 2005!
+
+|Battle.net|
+
 `Best Buy <https://www-ssl.bestbuy.com/identity/changePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -609,6 +618,7 @@ your password.
 .. |AOL| image:: /screenshots/aol.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
+.. |Battle.net| image:: /screenshots/battlenet.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
 .. |Blacknight| image:: /screenshots/blacknight1.png
