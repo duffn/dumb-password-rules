@@ -184,6 +184,16 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
+`Dell <https://www.dell.com/Identity/global/LoginOrRegister>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Okay at least 6, that's alright i guess.
+Oh at least one number and one letter, bit dumb but hey not that dumb.
+
+But hiding the fact that it has a max of 20, now THAT is dumb!
+
+|Dell|
+
 `Delta <https://www.delta.com/content/www/en_US/traveling-with-us/advisories/password-security.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -631,6 +641,7 @@ your password.
 .. |Chase Bank| image:: /screenshots/chase-bank.jpg
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |Dell| image:: /screenshots/dell.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
