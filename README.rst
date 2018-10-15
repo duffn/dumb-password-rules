@@ -275,10 +275,25 @@ We store basically all of your data, but we can't store your password.
 
 |Her Majestys Revenue & Customs|
 
+
+
+`ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max 20 characters, must have one number, one upper case character and one lower case character.
+You can only use certain special characters.
+When i asked about it they answer that it's really hard to change it.
+When i asked if the password is saved as a hash or just plain they send the answer to the technical department
+this was march 2018.
+
+|ING Bank|
+
+
 `Intel <https://www-ssl.intel.com/content/www/uk/en/my-intel/reseller-sign-in-help.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |Intel|
+
 
 `Izly by Crous <https://mon-espace.izly.fr/Home/Logon>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -653,6 +668,7 @@ your password.
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majestys Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Intel| image:: /screenshots/intel.jpg
+.. |ING Bank| image:: /screenshots/ingbank.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |MLB| image:: /screenshots/mlb.png
