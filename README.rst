@@ -576,6 +576,7 @@ your password.
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |Walmart| image:: /screenshots/walmart.png
+.. |WellStar MyChart| image:: /screenshots/wellstar-mychart.png
 .. |Wells Fargo| image:: /screenshots/wells-fargo.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
