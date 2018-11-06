@@ -619,6 +619,13 @@ Your password must be between 6 and 14 characters.
 
 |Wells Fargo|
 
+`WellStar MyChart <https://mychart.wellstar.org/mychart/accesscheck.asp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must be between 8 and 20 characters.
+
+|WellStar MyChart|
+
 `Williams-Sonoma <https://secure.williams-sonoma.com/account/updatepassword.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -702,6 +709,7 @@ your password.
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |Walmart| image:: /screenshots/walmart.png
 .. |WeatherBug| image:: /screenshots/weatherbug.png
+.. |WellStar MyChart| image:: /screenshots/wellstar-mychart.png
 .. |Wells Fargo| image:: /screenshots/wells-fargo.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
