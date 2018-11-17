@@ -184,6 +184,14 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
+`Costco <https://www.costco.com/RegisterView?URL=https%3a%2f%2fwww.costco.com%2f>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords match: at least there's one of these rules that makes sense
+
+|Costco|
+
+
 `Dell <https://www.dell.com/Identity/global/LoginOrRegister>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
