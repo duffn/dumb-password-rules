@@ -535,6 +535,13 @@ password possible.
 
 |Synchrony Financial|
 
+`T-Mobile <https://account.t-mobile.com/oauth2/v1/changePassword>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We prefer to not tell you which characters you can use up front.
+
+|T-Mobile|
+
 `Ticketmaster.de <https://www.ticketmaster.de/myAccount/editProfile>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -699,6 +706,7 @@ your password.
 .. |Sprint| image:: /screenshots/sprint.png
 .. |SBI| image:: /screenshots/sbi.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
+.. |T-Mobile| image:: /screenshots/tmobile.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
