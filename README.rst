@@ -649,76 +649,76 @@ your password.
 
 |Wells Fargo Identity Theft Protection|
 
-.. |Admiral| image:: /screenshots/admiral.png
-.. |ADP| image:: /screenshots/adp.png
-.. |Advanzia| image:: /screenshots/advanzia.png
-.. |American Express| image:: /screenshots/american-express.jpg
-.. |AmeriHealth| image:: /screenshots/amerihealth.png
-.. |AOL| image:: /screenshots/aol.png
-.. |Arlo| image:: /screenshots/arlo.png
-.. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
-.. |Battle.net| image:: /screenshots/battlenet.png
-.. |Best Buy| image:: /screenshots/bestbuy1.png
-.. |Best Buy2| image:: /screenshots/bestbuy2.png
-.. |Blacknight| image:: /screenshots/blacknight1.png
-.. |Blacknight2| image:: /screenshots/blacknight2.png
-.. |Blackrock| image:: /screenshots/blackrock.png
-.. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
-.. |BMO Bank of Montreal| image:: /screenshots/bmo.png
-.. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
-.. |California DMV| image:: /screenshots/ca-dmv.png
-.. |Chase Bank| image:: /screenshots/chase-bank.jpg
-.. |Comcast| image:: /screenshots/comcast.png
-.. |Copyright.gov| image:: /screenshots/copyright-gov.png
-.. |Dell| image:: /screenshots/dell.png
-.. |Delta| image:: /screenshots/delta.jpg
-.. |DJI| image:: /screenshots/dji-drones.png
-.. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
-.. |El Corte Ingles| image:: /screenshots/elcorteingles.png
-.. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
-.. |Fidelity| image:: /screenshots/fidelity.png
-.. |Global Entry| image:: /screenshots/global-entry.png
-.. |GoDaddy| image:: /screenshots/godaddy.png
-.. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
-.. |Her Majestys Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
-.. |Intel| image:: /screenshots/intel.jpg
-.. |ING Bank| image:: /screenshots/ingbank.png
-.. |Izly by Crous| image:: /screenshots/izly-by-crous.png
-.. |Jitterbit| image:: /screenshots/jitterbit.png
-.. |MLB| image:: /screenshots/mlb.png
-.. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
-.. |Maxpreps| image:: /screenshots/maxpreps.png
-.. |MetLife| image:: /screenshots/metlife.png
-.. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
-.. |Mindware| image:: /screenshots/mindware1.png
-.. |Mindware2| image:: /screenshots/mindware2.png
-.. |MKB NetBankár| image:: /screenshots/mkb.png
-.. |Movistar| image:: /screenshots/movistar.jpg
-.. |Oracle| image:: /screenshots/oracle.png
-.. |PayPal| image:: /screenshots/paypal.png
-.. |Paytm| image:: /screenshots/paytm.png
-.. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
-.. |Red Hat| image:: /screenshots/redhat.png
-.. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
-.. |Safeway| image:: /screenshots/safeway.png
-.. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
-.. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
-.. |Sprint| image:: /screenshots/sprint.png
-.. |SBI| image:: /screenshots/sbi.png
-.. |Synchrony Financial| image:: /screenshots/synchrony.png
-.. |T-Mobile| image:: /screenshots/tmobile.png
-.. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
-.. |TwinSpires| image:: /screenshots/twinspires.png
-.. |Ubisoft| image:: /screenshots/ubisoft.PNG
-.. |United States Postal Service| image:: /screenshots/usps.png
-.. |University of Texas as Austin| image:: /screenshots/ut-austin.png
-.. |Virgin Media| image:: /screenshots/virginmedia.jpg
-.. |Virgin Mobile| image:: /screenshots/virginmobile.png
-.. |Virgin Trains| image:: /screenshots/virgintrains.jpg
-.. |Walmart| image:: /screenshots/walmart.png
-.. |WeatherBug| image:: /screenshots/weatherbug.png
-.. |WellStar MyChart| image:: /screenshots/wellstar-mychart.png
-.. |Wells Fargo| image:: /screenshots/wells-fargo.png
-.. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
-.. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
+.. |Admiral| image:: /img/screenshots/admiral.png
+.. |ADP| image:: /img/screenshots/adp.png
+.. |Advanzia| image:: /img/screenshots/advanzia.png
+.. |American Express| image:: /img/screenshots/american-express.jpg
+.. |AmeriHealth| image:: /img/screenshots/amerihealth.png
+.. |AOL| image:: /img/screenshots/aol.png
+.. |Arlo| image:: /img/screenshots/arlo.png
+.. |Banco Mercantil| image:: /img/screenshots/banco-mercantil.png
+.. |Battle.net| image:: /img/screenshots/battlenet.png
+.. |Best Buy| image:: /img/screenshots/bestbuy1.png
+.. |Best Buy2| image:: /img/screenshots/bestbuy2.png
+.. |Blacknight| image:: /img/screenshots/blacknight1.png
+.. |Blacknight2| image:: /img/screenshots/blacknight2.png
+.. |Blackrock| image:: /img/screenshots/blackrock.png
+.. |Blue Cross Blue Shield Massachusetts| image:: /img/screenshots/bcbs-massachusetts.png
+.. |BMO Bank of Montreal| image:: /img/screenshots/bmo.png
+.. |BMW ConnectedDrive| image:: /img/screenshots/bmw-connected.PNG
+.. |California DMV| image:: /img/screenshots/ca-dmv.png
+.. |Chase Bank| image:: /img/screenshots/chase-bank.jpg
+.. |Comcast| image:: /img/screenshots/comcast.png
+.. |Copyright.gov| image:: /img/screenshots/copyright-gov.png
+.. |Dell| image:: /img/screenshots/dell.png
+.. |Delta| image:: /img/screenshots/delta.jpg
+.. |DJI| image:: /img/screenshots/dji-drones.png
+.. |Dutch Tax Authorities| image:: /img/screenshots/belastingdienst.jpg
+.. |El Corte Ingles| image:: /img/screenshots/elcorteingles.png
+.. |e-learning (Unipd)| image:: /img/screenshots/elearning.math.unipd.png
+.. |Fidelity| image:: /img/screenshots/fidelity.png
+.. |Global Entry| image:: /img/screenshots/global-entry.png
+.. |GoDaddy| image:: /img/screenshots/godaddy.png
+.. |GoDaddy SFTP| image:: /img/screenshots/godaddy-sftp.png
+.. |Her Majestys Revenue & Customs| image:: /img/screenshots/tax.service.gov.uk.png
+.. |Intel| image:: /img/screenshots/intel.jpg
+.. |ING Bank| image:: /img/screenshots/ingbank.png
+.. |Izly by Crous| image:: /img/screenshots/izly-by-crous.png
+.. |Jitterbit| image:: /img/screenshots/jitterbit.png
+.. |MLB| image:: /img/screenshots/mlb.png
+.. |Merrill Lynch| image:: /img/screenshots/merrill-lynch.png
+.. |Maxpreps| image:: /img/screenshots/maxpreps.png
+.. |MetLife| image:: /img/screenshots/metlife.png
+.. |Microsoft (work accounts)| image:: /img/screenshots/microsoftwork.png
+.. |Mindware| image:: /img/screenshots/mindware1.png
+.. |Mindware2| image:: /img/screenshots/mindware2.png
+.. |MKB NetBankár| image:: /img/screenshots/mkb.png
+.. |Movistar| image:: /img/screenshots/movistar.jpg
+.. |Oracle| image:: /img/screenshots/oracle.png
+.. |PayPal| image:: /img/screenshots/paypal.png
+.. |Paytm| image:: /img/screenshots/paytm.png
+.. |Raiffeisen Bank Serbia| image:: /img/screenshots/raiffeisen_bank_srb.png
+.. |Red Hat| image:: /img/screenshots/redhat.png
+.. |SAP Cloud Appliance Library| image:: /img/screenshots/sapcal.png
+.. |Safeway| image:: /img/screenshots/safeway.png
+.. |Singapore Airlines| image:: /img/screenshots/singaporeairlines.png
+.. |Sparkasse Jena| image:: /img/screenshots/sparkasse_jena.png
+.. |Sprint| image:: /img/screenshots/sprint.png
+.. |SBI| image:: /img/screenshots/sbi.png
+.. |Synchrony Financial| image:: /img/screenshots/synchrony.png
+.. |T-Mobile| image:: /img/screenshots/tmobile.png
+.. |Ticketmaster.de| image:: /img/screenshots/ticketmaster-de.png
+.. |TwinSpires| image:: /img/screenshots/twinspires.png
+.. |Ubisoft| image:: /img/screenshots/ubisoft.PNG
+.. |United States Postal Service| image:: /img/screenshots/usps.png
+.. |University of Texas as Austin| image:: /img/screenshots/ut-austin.png
+.. |Virgin Media| image:: /img/screenshots/virginmedia.jpg
+.. |Virgin Mobile| image:: /img/screenshots/virginmobile.png
+.. |Virgin Trains| image:: /img/screenshots/virgintrains.jpg
+.. |Walmart| image:: /img/screenshots/walmart.png
+.. |WeatherBug| image:: /img/screenshots/weatherbug.png
+.. |WellStar MyChart| image:: /img/screenshots/wellstar-mychart.png
+.. |Wells Fargo| image:: /img/screenshots/wells-fargo.png
+.. |Williams-Sonoma| image:: /img/screenshots/williams-sonoma.png
+.. |Wells Fargo Identity Theft Protection| image:: /img/screenshots/wells-fargo-identity-theft-protection.png
 
