@@ -3,9 +3,9 @@
 <div class="title">
   <div class="keywords" style="display:none;">{{ website.name }}&nbsp;{{ website.url }}</div>
   <noscript>
-    <img src="{{ page.relative_path }}{{ img_path }}" class="icon" alt="{{ website.name }}">
+    <img src="{{ site.baseurl }}{{ img_path }}" class="icon" alt="{{ website.name }}">
   </noscript>
-  <img src="{{ page.relative_path }}/img/placeholder.png" data-src="{{ img_path }}" class="icon" alt="{{ website.name }}">
+  <img src="{{ site.baseurl }}/img/placeholder.png" data-src="{{ site.baseurl }}{{ img_path }}" class="icon" alt="{{ website.name }}">
   <a href="{{ website.url }}" class="name">{{ website.name }}</a>
   {%- include exception.html website=website -%}
   {%- if website.status and include.type == 'mobile' -%}

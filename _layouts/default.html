@@ -6,7 +6,7 @@
   <meta name="description" content="{{ page.description | default: site.description }}">
   <meta name="author" content="{{ site.author }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/png" href="{{ page.relative_path }}/img/logo.png"/>
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/img/logo.png"/>
 
   <meta property="og:title" content="{{ page.title | default: site.title }}">
   <meta property="og:type" content="website">
@@ -20,8 +20,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css"
         integrity="sha384-vQPhfJdJkfTCHP7ouiqoAojjcDFuU346yP8z/pRpSn0xsWOfkMd+DkNmxns9jy4l" crossorigin="anonymous">
-  <link rel="stylesheet" href="{{ page.relative_path }}/css/base.css">
-  <link rel="stylesheet" href="{{ page.relative_path }}/css/corner.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/base.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/corner.css">
 </head>
 
 <body>
@@ -55,6 +55,6 @@
 	integrity="sha384-NWhMP2tjh/VCnDqD+TXCEUMpy11tXXR80Jm/xqsYYwTLwuD4DwfPpcyr4xPdKAXl"
 	crossorigin="anonymous"></script>
 <!-- TFA JS -->
-<script src="/js/app.js"></script>
+<script src="{{ site.baseurl }}/js/app.js"></script>
 </body>
 </html>

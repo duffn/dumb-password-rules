@@ -4,6 +4,7 @@ markdown: kramdown
 title: Dumb Password Rules
 description: List of websites with dumb and smart password rules
 #url: https://dumbpasswordrules.com
+baseurl: /dumb-password-rules
 repo: https://github.com/duffn/dumb-password-rules
 img: img/logo.png
 sass:
