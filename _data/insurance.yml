@@ -6,7 +6,7 @@ websites:
     # max length
     copy_paste_enabled: yes
     pass_max: 32
-    pass_rules: Password must be 8 or more characters, containing at lest one number and not containing a percentage (%) character.
+    pass_rules: Password must be 8 or more characters, containing at least one number and not containing a percentage (%) character.
     # remove
     #tfa: Yes
     #software: Yes
