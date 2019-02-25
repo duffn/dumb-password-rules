@@ -112,15 +112,6 @@ login again.
 | |Best Buy|
 | |Best Buy2|
 
-`Blacknight <https://cp.blacknight.com>`__ / `Odin <http://www.odin.com/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| The auto-generated strong password is not a valid password !
-| Blacknight use Odin for it's admin panel.
-
-| |Blacknight|
-| |Blacknight2|
-
 `Blackrock <https://nge01.bnymellon.com/NextGenV4/dflt/Login.blk>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -660,8 +651,6 @@ your password.
 .. |Battle.net| image:: /screenshots/battlenet.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
-.. |Blacknight| image:: /screenshots/blacknight1.png
-.. |Blacknight2| image:: /screenshots/blacknight2.png
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
