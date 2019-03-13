@@ -695,9 +695,9 @@ your password.
 .. |Oracle| image:: /screenshots/oracle.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
-.. |PizzaHut-1| image:: /screenshots/pizzahut-1.png
-.. |PizzaHut-2| image:: /screenshots/pizzahut-2.png
-.. |PizzaHut-3| image:: /screenshots/pizzahut-3.png
+.. |PizzaHut-1| image:: /screenshots/pizzahut1.png
+.. |PizzaHut-2| image:: /screenshots/pizzahut2.png
+.. |PizzaHut-3| image:: /screenshots/pizzahut3.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
