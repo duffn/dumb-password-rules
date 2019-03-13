@@ -423,6 +423,15 @@ as characters.
 
 |Paytm|
 
+`PizzaHut <https://www.pizzahut.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords must be greater than 6 characters, and have an arbitrary set of rules we don't tell you about until after you try to set your password.
+
+|PizzaHut-1|
+|PizzaHut-2|
+|PizzaHut-3|
+
 `Raiffeisen Bank Serbia <https://rol.raiffeisenbank.rs/Retail/home/login/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -686,6 +695,9 @@ your password.
 .. |Oracle| image:: /screenshots/oracle.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
+.. |PizzaHut-1| image:: /screenshots/pizzahut1.png
+.. |PizzaHut-2| image:: /screenshots/pizzahut2.png
+.. |PizzaHut-3| image:: /screenshots/pizzahut3.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
