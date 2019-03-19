@@ -580,6 +580,16 @@ presented in the `xkcd comic <https://xkcd.com/936/>`__ are allowed.
 
 |University of Texas as Austin|
 
+`University of Windsor <https://uwindsor.teamdynamix.com/TDClient/KB/ArticleDet?ID=46793>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password policy applies to alumni as well. Must be at least 10
+characters long, with at least 1 upper case and 1 lower case
+character, at least 1 number, at least 1 special character. Password
+expires every 120 days, and you can't reuse an old one.
+
+|University of Windsor|
+
 `Virgin Media <https://my.virginmedia.com/forgot-details/reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -713,6 +723,7 @@ your password.
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
+.. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
