@@ -83,6 +83,13 @@ match.
 
 |Arlo|
 
+`AT&T <https://www.att.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The only special characters allowed are underscores and hyphens.
+
+|ATT|
+
 `Banco Mercantil <https://www.mercantilbanco.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -666,6 +673,7 @@ your password.
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AOL| image:: /screenshots/aol.png
 .. |Arlo| image:: /screenshots/arlo.png
+.. |ATT| image:: /screenshots/att.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Battle.net| image:: /screenshots/battlenet.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
