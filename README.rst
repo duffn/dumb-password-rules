@@ -597,6 +597,13 @@ expires every 120 days, and you can't reuse an old one.
 
 |University of Windsor|
 
+`Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password field allows *only* the listed Special Characters ($ . , ! % ^ *). You're also forced to use both upper, and lower letters, as well as a number.
+
+|Very.co.uk|
+
 `Virgin Media <https://my.virginmedia.com/forgot-details/reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -732,6 +739,7 @@ your password.
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
+.. |Very| image:: /screenshots/very.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
