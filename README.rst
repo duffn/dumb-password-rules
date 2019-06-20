@@ -75,6 +75,13 @@ one of the most common special characters!
 
 |AOL|
 
+`Apple <https://apple.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Can't contain 3 or more consecutive identical characters.
+
+|Apple|
+
 `Arlo <https://arlo.netgear.com/?passwordResetCode>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -679,6 +686,7 @@ your password.
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AOL| image:: /screenshots/aol.png
+.. |Apple| image:: /screenshots/apple.jpg
 .. |Arlo| image:: /screenshots/arlo.png
 .. |ATT| image:: /screenshots/att.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
