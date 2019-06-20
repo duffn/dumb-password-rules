@@ -602,7 +602,7 @@ expires every 120 days, and you can't reuse an old one.
 
 Password field allows *only* the listed Special Characters ($ . , ! % ^ *). You're also forced to use both upper, and lower letters, as well as a number.
 
-|Very.co.uk|
+|Very|
 
 `Virgin Media <https://my.virginmedia.com/forgot-details/reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
