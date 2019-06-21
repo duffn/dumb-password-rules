@@ -465,6 +465,13 @@ it means.
 
 |Red Hat|
 
+`Roll 20 <https://app.roll20.net/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your new password must be at least 4 characters long and no longer than 40 characters. Your password was not changed.
+
+|Roll 20|
+
 `SAP Cloud Appliance Library <https://cal.sap.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -733,6 +740,7 @@ your password.
 .. |PizzaHut-3| image:: /screenshots/pizzahut3.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
+.. |Roll 20| image:: /screenshots/Roll20.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
