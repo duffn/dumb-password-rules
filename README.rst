@@ -87,7 +87,7 @@ Can't contain 3 or more consecutive identical characters.
 
 Service for managing employment documents of the German company Datev.
 
-Only the following character categories are allowed: Characters, numbers and this special charaters set: !#$%&()*+,-./:;<=>?@[\]^_`{|}~äöüßÄÖÜ
+Only the following character categories are allowed: Letters, numbers and this special charaters set: !#$%&()*+,-./:;<=>?@[\]^_`{|}~äöüßÄÖÜ
 
 |Arbeitnehmeronline|
 
