@@ -82,6 +82,15 @@ Can't contain 3 or more consecutive identical characters.
 
 |Apple|
 
+`Arbeitnehmeronline <https://www.arbeitnehmeronline.de>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Service for managing employment documents of the German company Datev.
+
+Only the following character categories are allowed: Characters, numbers and this special charaters set: !#$%&()*+,-./:;<=>?@[\]^_`{|}~äöüßÄÖÜ
+
+|Arbeitnehmeronline|
+
 `Arlo <https://arlo.netgear.com/?passwordResetCode>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -687,6 +696,7 @@ your password.
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AOL| image:: /screenshots/aol.png
 .. |Apple| image:: /screenshots/apple.jpg
+.. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |ATT| image:: /screenshots/att.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
