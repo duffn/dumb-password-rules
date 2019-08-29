@@ -502,6 +502,13 @@ Passwords limited to 8-12 characters.
 
 |Singapore Airlines|
 
+`Slovenska sporitelna <https://mysecurity.slsp.sk/zmena-hesla>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Slovenska sporitelna is the biggest bank in Slovakia. Despite pretty new version of the internet banking (rolled out in 2018), their password policy restricts password to be 16 characters long at most and prohibits any special characters.
+
+|Slovenska sporitelna|
+
 `Sparkasse <https://s-jena.de>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -754,6 +761,7 @@ your password.
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
+.. |Slovenska sporitelna| image:: /screenshots/slsp.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
 .. |SBI| image:: /screenshots/sbi.png
