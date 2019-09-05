@@ -582,7 +582,7 @@ We prefer to not tell you which characters you can use up front.
 `Ticketmaster.de <https://www.ticketmaster.de/myAccount/editProfile>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your password length is limited between 5 and 20 characters.
+Your password length is limited between 8 and 32 characters.
 
 |Ticketmaster.de|
 
