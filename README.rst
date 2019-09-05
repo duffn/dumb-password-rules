@@ -634,6 +634,17 @@ Password field allows *only* the listed Special Characters ($ . , ! % ^ *). You'
 
 |Very|
 
+`Vio Bank <https://www.viobank.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password requirement is not even fully enumerated. Upon inspection of the source code, the following lines were found, hidden by javascript: "Must include at least %MINSPECIAL of the following characters:-.~!@#&_{}|:$%^*()=[];?/+"
+
+The actual list of special characters that are prohibited is correctly enumerated there. It's a result of `a misapplication <https://cibng.ibanking-services.com/cib/scripts/jquery/custsvc/custSvcChangePassword.js>`__ of the `variable allowedSpecialCharacters found here <https://cibng.ibanking-services.com/cib/scripts/jquery/custsvc/fis-visual-validator.js?version=20180507>`__.
+
+It took under 5 minutes to find the bug after looking at the source for the first time. This is a bank.
+
+|Viobank|
+
 `Virgin Media <https://my.virginmedia.com/forgot-details/reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -774,6 +785,7 @@ your password.
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |Very| image:: /screenshots/very.png
+.. |Viobank| image:: /screenshots/viobank.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
