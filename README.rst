@@ -579,6 +579,18 @@ We prefer to not tell you which characters you can use up front.
 
 |T-Mobile|
 
+`Telekom/T-Systems MyWorkplace <https://www.websso.t-systems.com/MyWorkplace/General/TSIPageContainer.aspx>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Telekom's MyWorkplace is a Single Sign On / login hub for their
+Open Telekom Cloud which is basically an Amazon AWS clone. It's
+rather new and especially for business customers. Especially
+because it is for business customers, there's absolutely no reason
+to limit a password to 16 characters. Even special characters are
+limited to a certain set.
+
+|MyWorkplace|
+
 `Ticketmaster.de <https://www.ticketmaster.de/myAccount/editProfile>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -767,6 +779,7 @@ your password.
 .. |SBI| image:: /screenshots/sbi.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
+.. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
