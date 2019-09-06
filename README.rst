@@ -190,6 +190,15 @@ shown in the prompt
 
 |BMW ConnectedDrive|
 
+`Boursorama <https://www.boursorama.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"To ensure the highest level of security, your password must
+have... 8 digits". And it must be entered using a funny keypad
+with the digits in the wrong order.
+
+|Boursorama|
+
 `California Department of Motor Vehicles <https://www.dmv.ca.gov/FIM/sps/uscfed/usc/self/account/create>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -879,6 +888,7 @@ your password.
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
+.. |Boursorama| image:: /screenshots/boursorama.png
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
