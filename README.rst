@@ -242,6 +242,13 @@ It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
 
+`Easyjet <https://www.easyjet.com/en>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+No more than 20 characters, use any symbols you like... Oh except #, &, +, or space of course.
+
+|Easyjet|
+
 `El Corte Ingles <https://www.elcorteingles.es/profile2/profile/registration/registroCliente.jsp?tiendaId=moonshine&pag_regreso=www.elcorteingles.es>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -830,6 +837,7 @@ your password.
 .. |Dell| image:: /screenshots/dell.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
+.. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
