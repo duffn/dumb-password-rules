@@ -410,6 +410,17 @@ Oh and also look we got pages **NOT TRANSLATED IN FRENCH** because duh.
 
 |Izly by Crous|
 
+`Lloyds Bank <https://online.lloydsbank.co.uk/personal/logon/login.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max 15 characters, min 8. You cannot use **ANY** sepcial characters -
+alpha-numerics only. This amazingly terrible password policy combines
+with a known phrase (The "Memorable Information") of which you will be
+asked for a random 3 characters of if you get your password right.
+This phrase has similar alpha-numeric restrictions applied.
+
+|Lloyds|
+
 `Jitterbit <https://www.jitterbit.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
