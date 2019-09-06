@@ -412,6 +412,14 @@ necessarily tell you which ones.
 
 |MKB NetBankár|
 
+`Mobi Bike Share <https://www.mobibikes.ca/en/register>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your PIN (which is the password you use to login, which lets you, say, buy hundreds of dollars worth of bike-share subscriptions off the saved credit card) must be four numeric digits. Helpfully, they even give you an example of a PIN: *1234*.
+
+|Mobi Bike Share|
+
+
 `Movistar <https://www.movistar.es/particulares/Privada/Registro/?url=%2Fmimovistar-cliente%2Fes-es%2Fparticulares%2Fregistro%2FdatosUsuario.html&>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -816,6 +824,7 @@ your password.
 .. |Mindware| image:: /screenshots/mindware1.png
 .. |Mindware2| image:: /screenshots/mindware2.png
 .. |MKB NetBankár| image:: /screenshots/mkb.png
+.. |Mobi Bike Share| image:: /screenshots/mobibikes.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
