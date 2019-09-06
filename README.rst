@@ -67,6 +67,14 @@ secure as you'd like.
 
 |AmeriHealth|
 
+
+`AmiAmi <https://www.amiami.com/eng/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password needs to be between 6 and 12 characters long, must contain only letters and numbers.
+
+|AmiAmi|
+
 `AOL <https://aol.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -801,6 +809,7 @@ your password.
 .. |Advanzia| image:: /screenshots/advanzia.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
+.. |AmiAmi| image:: /screenshots/amiami.jpg
 .. |AOL| image:: /screenshots/aol.png
 .. |Apple| image:: /screenshots/apple.jpg
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
