@@ -464,7 +464,7 @@ Password must be between 8 and 16 characters long
 `Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A site responsible for protecting your investments limiting you to a
+A site responsible for protecting your investments limiting you to a 
 four character range with a bunch of other stupid rules? Shocking.
 
 |Parnassus|
