@@ -124,6 +124,13 @@ tho.
 
 |Banco Mercantil|
 
+`Bank Millennium <https://www.bankmillennium.pl/osobiste2/Retail/Login/MulticodeRequest>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords limited to 8 digits.
+
+|Bank Millennium|
+
 `Battle.net <https://eu.battle.net/account/creation/en-us/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -823,6 +830,7 @@ your password.
 .. |Arlo| image:: /screenshots/arlo.png
 .. |ATT| image:: /screenshots/att.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
+.. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
