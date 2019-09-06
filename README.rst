@@ -698,7 +698,6 @@ Password cannot be longer than 12 characters but they don't tell you that until 
 
 Personal Access Code (or PAC–they are too ashamed to call it a password), must be between 5 to 8 digits and cannot start with '0'. (no letters or symbols)
 
-
 |Vancity Credit Union|
 
 `Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
