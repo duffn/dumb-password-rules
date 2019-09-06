@@ -215,15 +215,6 @@ We don't even want you to login online. Though to make things slightly easier, y
 
 |Chase Bank|
 
-`Chegg <https://www.chegg.com/auth?action=signup>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Here are the (only fairly poor) rules for a new password. Enter 64 character password that matches all the rules (notice no rules on maximum length). That password you entered looks good! But we didn't change it. And your old password doesn't work. Or the new one. ¯\_(ツ)_/¯
-
-|Chegg1|
-|Chegg2|
-|Chegg3|
-
 `Comcast <https://customer.xfinity.com/#/settings/security/xfinity-access/password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -524,6 +515,15 @@ maximum of 32 characters.
 
 
 |Movistar|
+
+`Mycanal <https://www.mycanal.fr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Minimum of 8 characters
+- Contain at least 1 uppercase character or 1 number
+- Can not contain this characters : ‹ › ' "
+
+|Mycanal|
 
 `NBank <https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -912,9 +912,6 @@ your password.
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Chase Bank| image:: /screenshots/chase-bank.jpg
-.. |Chegg1| image:: /screenshots/chegg1.jpg
-.. |Chegg2| image:: /screenshots/chegg2.jpg
-.. |Chegg3| image:: /screenshots/chegg3.jpg
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Dell| image:: /screenshots/dell.png
@@ -946,6 +943,7 @@ your password.
 .. |Mobi Bike Share| image:: /screenshots/mobibikes.png
 .. |MobileIron| image:: /screenshots/mobileiron.png
 .. |Movistar| image:: /screenshots/movistar.jpg
+.. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
@@ -990,4 +988,3 @@ your password.
 .. |Westpac Live Online Banking| image:: /screenshots/westpac.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
-
