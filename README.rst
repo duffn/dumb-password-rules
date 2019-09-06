@@ -521,7 +521,7 @@ maximum of 32 characters.
 
 - Minimum of 8 characters
 - Contain at least 1 uppercase character or 1 number
-- Can not contain this characters : ‹ › ' "
+- Can not contain these characters : ‹ › ' "
 
 |Mycanal|
 
