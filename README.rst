@@ -788,6 +788,7 @@ your password.
 .. |MKB NetBankár| image:: /screenshots/mkb.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
+.. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
 .. |PizzaHut-1| image:: /screenshots/pizzahut1.png
