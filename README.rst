@@ -598,6 +598,15 @@ Your password length is limited between 8 and 32 characters.
 
 |Ticketmaster.de|
 
+`Trade Me <https://www.trademe.co.nz>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Won't allow spaces or single quotes. Maybe other characters as well -
+they do not say up front - but the password they accepted contained lots
+of other special characters.
+
+|TradeMe|
+
 `TwinSpires <https://www.twinspires.com/account/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -792,6 +801,7 @@ your password.
 .. |T-Mobile| image:: /screenshots/tmobile.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
+.. |TradeMe| image:: /screenshots/trademe.jpg
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |United States Postal Service| image:: /screenshots/usps.png
