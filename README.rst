@@ -751,6 +751,14 @@ expires every 120 days, and you can't reuse an old one.
 
 |University of Windsor|
 
+`USAA Bank <https://www.usaa.com/inet/pages/security_take_steps_protect_logon>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password cannot be longer than 12 characters but they don't tell you that until after you try a new password. To make up for this fact they've added dubious additional security features on top of this weak foundation.
+
+
+|USAA|
+
 `Vancity Credit Union <https://support.vancity.com/17-forget-pac/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
