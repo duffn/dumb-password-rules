@@ -787,6 +787,14 @@ Password cannot be longer than 12 characters but they don't tell you that until 
 
 |USAA|
 
+`URSSAF (French employers tax collection service) <https://www.autoentrepreneur.urssaf.fr>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When setting a new password: 
+Password must be exactly 8 characters, at least 1 letter, at least 1 number, but no special characters.
+
+
+|URSSAF|
+
 `Vancity Credit Union <https://support.vancity.com/17-forget-pac/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -977,6 +985,7 @@ your password.
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |USAA| image:: /screenshots/usaa.png
+.. |URSSAF| image:: /screenshots/urssaf.png
 .. |Vancity Credit Union| image:: /screenshots/vancity.png
 .. |Very| image:: /screenshots/very.png
 .. |Viobank| image:: /screenshots/viobank.png
