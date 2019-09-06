@@ -525,6 +525,15 @@ maximum of 32 characters.
 
 |Movistar|
 
+`Mycanal <https://www.mycanal.fr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Minimum of 8 characters
+- Contain at least 1 uppercase character or 1 number
+- Can not contain these characters : ‹ › ' "
+
+|Mycanal|
+
 `NBank <https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -962,6 +971,7 @@ your password.
 .. |Mobi Bike Share| image:: /screenshots/mobibikes.png
 .. |MobileIron| image:: /screenshots/mobileiron.png
 .. |Movistar| image:: /screenshots/movistar.jpg
+.. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
