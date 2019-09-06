@@ -620,6 +620,13 @@ Pick from an arbitrary list of symbols, and no repeating characters.
 
 |United States Postal Service|
 
+`University of California San Diego <https://www.ucsd.edu>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords must be between 8 and **11** characters long!
+
+|University of California San Diego|
+
 `University of Texas at Austin <http://www.utdirect.utexas.edu/utdirect/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -795,6 +802,7 @@ your password.
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |United States Postal Service| image:: /screenshots/usps.png
+.. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |Very| image:: /screenshots/very.png
