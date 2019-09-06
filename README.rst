@@ -549,8 +549,8 @@ Password must be between 8 and 16 characters long
 `PagoMisCuentas <https://www.pagomiscuentas.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password must be between 8 and 15 alphanumeric characters, and at 
-least one uppercase and one lowercase letter.
+Password must be between 8 and 15 alphanumeric characters, and have 
+at least one uppercase and one lowercase letter.
 
 |PagoMisCuentas|
 
