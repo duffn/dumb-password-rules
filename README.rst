@@ -430,6 +430,13 @@ Has been that way for more than 10 years.
 
 |Oracle|
 
+`Origin <https://www.origin.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 8 and 16 characters long
+
+|Origin|
+
 `Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -804,6 +811,7 @@ your password.
 .. |MKB NetBankár| image:: /screenshots/mkb.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
+.. |Origin| image:: /screenshots/origin.png
 .. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
