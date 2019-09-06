@@ -126,6 +126,7 @@ A real time travel adventure through the password rules of 2005!
 |Battle.net|
 
 `Bendigo Bank <https://banking.bendigobank.com.au/Logon/passwd.page>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Exactly** eight characters.
 
