@@ -430,6 +430,14 @@ Has been that way for more than 10 years.
 
 |Oracle|
 
+`Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A site responsible for protecting your investments limiting you to a 
+four character range with a bunch of other stupid rules? Shocking.
+
+|Parnassus|
+
 `PayPal <https://www.paypal.com/myaccount/settings/password/edit/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -796,6 +804,7 @@ your password.
 .. |MKB NetBankár| image:: /screenshots/mkb.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Oracle| image:: /screenshots/oracle.png
+.. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
 .. |PizzaHut-1| image:: /screenshots/pizzahut1.png
