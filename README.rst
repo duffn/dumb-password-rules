@@ -321,6 +321,32 @@ this was march 2018.
 |ING Australia|
 
 
+`Inria <https://vpn1-roc.national.inria.fr/+CSCOE+/logon.html>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is the account for those who work at `Inria
+<https://www.inria.fr/>` "the French national research institute for
+the digital sciences".
+
+You have to wonder what's wrong with these special characters but not
+the other ones.
+
+- Password expiration once a year
+- Your password must contain at least 8 characters.
+- Your password can't be a commonly used password.
+- Your password can't be entirely numeric.
+- Your password cannot contain non ascii chars
+- Your password cannot contain ^ " ' space ; \ /
+- Your password must contain at least 2 punctuation
+- Your password must contain at least 1 uppercase
+- Your password must contain at least 1 lowercase
+- Your password cannot contain your login (or substring of login)
+- Your password cannot contain your last name (or substring of last name)
+- Your password cannot contain your first name (or substring of first name)
+
+|Inria|
+
+
 `Intel <https://www-ssl.intel.com/content/www/uk/en/my-intel/reseller-sign-in-help.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -838,6 +864,7 @@ your password.
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
+.. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Australia| image:: /screenshots/ingaustralia.png
