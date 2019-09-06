@@ -943,6 +943,7 @@ your password.
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
+.. |USAA| image:: /screenshots/usaa.png
 .. |Vancity Credit Union| image:: /screenshots/vancity.png
 .. |Very| image:: /screenshots/very.png
 .. |Viobank| image:: /screenshots/viobank.png
