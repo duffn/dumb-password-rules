@@ -546,6 +546,14 @@ Password must be between 8 and 16 characters long
 
 |Origin|
 
+`PagoMisCuentas <https://www.pagomiscuentas.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 8 and 15 alphanumeric characters, and have 
+at least one uppercase and one lowercase letter.
+
+|PagoMisCuentas|
+
 `Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -957,6 +965,7 @@ your password.
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
+.. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
 .. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
