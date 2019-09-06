@@ -125,6 +125,12 @@ A real time travel adventure through the password rules of 2005!
 
 |Battle.net|
 
+`Bendigo Bank <https://banking.bendigobank.com.au/Logon/passwd.page>`__
+
+**Exactly** eight characters.
+
+|Bendigo Bank|
+
 `Best Buy <https://www-ssl.bestbuy.com/identity/changePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -783,6 +789,7 @@ your password.
 .. |ATT| image:: /screenshots/att.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Battle.net| image:: /screenshots/battlenet.png
+.. |Bendigo Bank| image:: https://i.imgur.com/Ja2Lrme.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
 .. |Blackrock| image:: /screenshots/blackrock.png
