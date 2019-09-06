@@ -690,6 +690,13 @@ expires every 120 days, and you can't reuse an old one.
 
 Personal Access Code (or PAC–they are too ashamed to call it a password), must be between 5 to 8 digits and cannot start with '0'. (no letters or symbols)
 
+|USAA|
+
+`USAA Bank <https://www.usaa.com/inet/pages/security_take_steps_protect_logon>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password cannot be longer than 12 characters but they don't tell you that until after you try a new password. To make up for this fact they've added dubious additional security features on top of this weak foundation.
+
 |Vancity Credit Union|
 
 `Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
