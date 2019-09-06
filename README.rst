@@ -208,7 +208,7 @@ But hiding the fact that it has a max of 20, now THAT is dumb!
 
 |Dell|
 
-`Delta <https://www.delta.com/content/www/en_US/traveling-with-us/advisories/password-security.html>`__
+`Delta <https://www.delta.com/us/en/advisories/other-alerts/password-security>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It's a good thing they don't store personal information such as your passport number... oh wait.
