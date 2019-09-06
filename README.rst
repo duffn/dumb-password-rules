@@ -646,6 +646,13 @@ expires every 120 days, and you can't reuse an old one.
 
 |University of Windsor|
 
+`Vancity Credit Union <https://support.vancity.com/17-forget-pac/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Personal Access Code (or PAC–they are too ashamed to call it a password), must be between 5 to 8 digits and cannot start with '0'. (no letters or symbols)
+
+|Vancity Credit Union|
+
 `Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -805,6 +812,7 @@ your password.
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
+.. |Vancity Credit Union| image:: /screenshots/vancity.png
 .. |Very| image:: /screenshots/very.png
 .. |Viobank| image:: /screenshots/viobank.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
