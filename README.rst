@@ -789,7 +789,7 @@ your password.
 .. |ATT| image:: /screenshots/att.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Battle.net| image:: /screenshots/battlenet.png
-.. |Bendigo Bank| image:: https://i.imgur.com/Ja2Lrme.png
+.. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
 .. |Blackrock| image:: /screenshots/blackrock.png
