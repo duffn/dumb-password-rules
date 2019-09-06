@@ -430,6 +430,14 @@ Has been that way for more than 10 years.
 
 |Oracle|
 
+`Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A site responsible for protecting your investments limiting you to a 
+four character range with a bunch of other stupid rules? Shocking.
+
+|Parnassus|
+
 `PayPal <https://www.paypal.com/myaccount/settings/password/edit/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
