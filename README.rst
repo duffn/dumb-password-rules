@@ -741,6 +741,13 @@ Your password must be between 8 and 20 characters.
 
 |WellStar MyChart|
 
+`Westpac Live Online Banking <https://banking.westpac.com.au/secure/banking/administration/changepassword>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+6 characters [exactly].  no blanks, spaces or special characters.
+
+|Westpac Live Online Banking|
+
 `Williams-Sonoma <https://secure.williams-sonoma.com/account/updatepassword.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -841,6 +848,7 @@ your password.
 .. |WeatherBug| image:: /screenshots/weatherbug.png
 .. |WellStar MyChart| image:: /screenshots/wellstar-mychart.png
 .. |Wells Fargo| image:: /screenshots/wells-fargo.png
+.. |Westpac Live Online Banking| image:: /screenshots/westpac.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
 
