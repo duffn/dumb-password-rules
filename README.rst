@@ -423,6 +423,13 @@ Has been that way for more than 10 years.
 
 |Movistar|
 
+`NBank <https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User ID *has to* contain special characters, password *may not* contain (basically) any special characters.
+
+|NBank|
+
 `Oracle <https://profile.oracle.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -817,6 +824,7 @@ your password.
 .. |Mindware2| image:: /screenshots/mindware2.png
 .. |MKB NetBankár| image:: /screenshots/mkb.png
 .. |Movistar| image:: /screenshots/movistar.jpg
+.. |NBank| image:: /screenshots/nbank.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
 .. |Parnassus| image:: /screenshots/parnassus.png
