@@ -179,7 +179,7 @@ you can't use a password manager.
 `Chase Bank <https://servicing.chase.com/reo/profile/create>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We don't even want you to login online.
+We don't even want you to login online. Though to make things slightly easier, your password is case insensitive.
 
 |Chase Bank|
 
