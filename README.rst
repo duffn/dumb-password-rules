@@ -412,8 +412,8 @@ necessarily tell you which ones.
 
 |MKB NetBankár|
 
-`Mobi Bike Share <https://www.mobibikes.ca/en/register>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Mobi Bike Share <https://www.mobibikes.ca/en/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your PIN (which is the password you use to login, which lets you, say, buy hundreds of dollars worth of bike-share subscriptions off the saved credit card) must be four numeric digits. Helpfully, they even give you an example of a PIN: *1234*.
 
