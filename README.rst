@@ -183,6 +183,15 @@ We don't even want you to login online. Though to make things slightly easier, y
 
 |Chase Bank|
 
+`Chegg <https://www.chegg.com/auth?action=signup>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Here are the (only fairly poor) rules for a new password. Enter 64 character password that matches all the rules (notice no rules on maximum length). That password you entered looks good! But we didn't change it. And your old password doesn't work. Or the new one. ¯\_(ツ)_/¯
+
+|Chegg1|
+|Chegg2|
+|Chegg3|
+
 `Comcast <https://customer.xfinity.com/#/settings/security/xfinity-access/password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -455,7 +464,7 @@ Password must be between 8 and 16 characters long
 `Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A site responsible for protecting your investments limiting you to a 
+A site responsible for protecting your investments limiting you to a
 four character range with a bunch of other stupid rules? Shocking.
 
 |Parnassus|
@@ -806,6 +815,9 @@ your password.
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Chase Bank| image:: /screenshots/chase-bank.jpg
+.. |Chegg1| image:: /screenshots/chegg1.jpg
+.. |Chegg2| image:: /screenshots/chegg2.jpg
+.. |Chegg3| image:: /screenshots/chegg3.jpg
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Dell| image:: /screenshots/dell.png
