@@ -306,6 +306,13 @@ letter, at least 1 uppercase letter, at least 1 number and at least 1
 No more than 20 characters and leave out characters commonly used by
 programmers. We don't want you to hack the mainframe.
 
+`EON <https://www.eonenergy.com/for-your-home/your-account/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+By the time I'd finished reading the rules I've forgotten all of them.
+
+|EON|
+
 |Fidelity|
 
 `Global Entry <https://goes-app.cbp.dhs.gov/goes/PasswordChangePreAction.do>`__
@@ -924,6 +931,7 @@ your password.
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
+.. |EON| image:: /screenshots/eon.png
 .. |Fidelity| image:: /screenshots/fidelity.png
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
