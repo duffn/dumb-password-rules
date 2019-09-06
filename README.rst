@@ -49,6 +49,14 @@ could use proper grammar in their rule list.
 
 |Advanzia|
 
+`Air France <https://www.airfrance.fr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Between 8 to 12 characters
+- Should contain capital, lowercase letters and numbers
+
+|Air France|
+
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -789,6 +797,7 @@ your password.
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
+.. |Air France| image:: /screenshots/airfrance.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AOL| image:: /screenshots/aol.png
