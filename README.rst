@@ -64,6 +64,21 @@ Sometimes I forget that caps-lock is on, glad it doesn't matter.
 
 |American Express|
 
+`Ameli.fr (French national health insurance) <https://www.ameli.fr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This was very painful to find a password that works with this one and that I can actually remember (I ended-up using my bank-account number because everything else failed). It took me maybe one hour and I thought I would become crazy (and yes, the session expires frequently while you are actually thinking about a password).
+
+- The password must be more than 8 characters
+- But you cannot use more than 13 characters
+- You can only use digits
+- You cannot use your birthdate or your login
+- You cannot use a sequence of digits (if your password happens to contain 56 or 89 it will be rejected)
+- You cannot repeat the same character (if your password contains 22 or 55 it will be rejected)
+
+|ameli.fr|
+
+
 `AmeriHealth <https://www.amerihealth.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -924,6 +939,7 @@ your password.
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
 .. |Air France| image:: /screenshots/airfrance.png
+.. |ameli.fr| image:: /screenshots/ameli.fr.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AmiAmi| image:: /screenshots/amiami.jpg
