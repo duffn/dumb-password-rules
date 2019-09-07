@@ -148,6 +148,15 @@ A real time travel adventure through the password rules of 2005!
 
 |Battle.net|
 
+`BBVA <https://web.bbva.es/public.html?v=20190510#public/hazte-cliente>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Username is your national ID (easy to find) and your password must have up to **6** alphanumeric characters only.
+
+For a bank account with all your money in one of the largest financial institutions in the world.
+
+|BBVA|
+
 `Bendigo Bank <https://banking.bendigobank.com.au/Logon/passwd.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -935,6 +944,7 @@ your password.
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
+.. |BBVA| image:: /screenshots/bbva.png
 .. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
