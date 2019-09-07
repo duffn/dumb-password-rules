@@ -158,7 +158,7 @@ A real time travel adventure through the password rules of 2005!
 `BBVA <https://web.bbva.es/public.html?v=20190510#public/hazte-cliente>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Username is your ID and the password must be between 4 and 6 alphanumeric characters only. For a bank account with all your money.
+Username is your national ID (easy to find) and your password must have up to **6** alphanumeric characters only. For a bank account with all your money.
 
 |BBVA|
 
