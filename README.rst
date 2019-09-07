@@ -239,13 +239,6 @@ you can't use a password manager.
 
 |California DMV|
 
-`Chase Bank <https://servicing.chase.com/reo/profile/create>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-We don't even want you to login online. Though to make things slightly easier, your password is case insensitive.
-
-|Chase Bank|
-
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -970,7 +963,6 @@ your password.
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
-.. |Chase Bank| image:: /screenshots/chase-bank.jpg
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
