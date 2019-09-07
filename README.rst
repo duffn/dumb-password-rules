@@ -155,6 +155,13 @@ A real time travel adventure through the password rules of 2005!
 
 |Bendigo Bank|
 
+`BBVA <https://web.bbva.es/public.html?v=20190510#public/hazte-cliente>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Username is your ID and the password must be between 4 and 6 alphanumeric characters only. For a bank account with all your money.
+
+|BBVA|
+
 `Best Buy <https://www-ssl.bestbuy.com/identity/changePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
