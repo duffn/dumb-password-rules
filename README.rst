@@ -159,6 +159,7 @@ A real time travel adventure through the password rules of 2005!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Username is your national ID (easy to find) and your password must have up to **6** alphanumeric characters only.
+
 For a bank account with all your money in one of the largest financial institutions in the world.
 
 |BBVA|
