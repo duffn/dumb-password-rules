@@ -639,6 +639,18 @@ it means.
 
 |Red Hat|
 
+`Rediff <https://www.rediff.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A maximum password length of 12. The hidden requirements are:
+
+- atleast 1 uppercase letter
+- atleast 1 lowercase letter
+- atleast 1 numeric character
+- atleast 1 special symbol (which can not be ^, %)
+
+|Rediff|
+
 `Roll 20 <https://app.roll20.net/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1010,6 +1022,7 @@ your password.
 .. |PizzaHut-3| image:: /screenshots/pizzahut3.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
+.. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
