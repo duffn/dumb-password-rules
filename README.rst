@@ -263,6 +263,13 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
+`DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``[[:digit:]]{6,8}``
+
+|DBS|
+
 `Dell <https://www.dell.com/Identity/global/LoginOrRegister>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -770,6 +777,21 @@ We prefer to not tell you which characters you can use up front.
 
 |T-Mobile|
 
+`Techcombank <https://ib.techcombank.com.vn/servlet/BrowserServlet>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must:
+
+- Be between 6 and 8 characters long
+- Contains at least 1 number character
+- Contains at least 1 lowercase character
+- Contains at least 1 uppercase character
+- Neither space nor unicode character is allowed. In fact,
+  NO special characters is allowed
+- Must be changed every 90 days
+
+|Techcombank|
+
 `Telekom/T-Systems MyWorkplace <https://www.websso.t-systems.com/MyWorkplace/General/TSIPageContainer.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -872,9 +894,17 @@ Personal Access Code (or PAC–they are too ashamed to call it a password), must
 `Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password field allows *only* the listed Special Characters ($ . , ! % ^ *). You're also forced to use both upper, and lower letters, as well as a number.
+Password field allows *only* the listed Special Characters ($ . , ! % ^ \*).
+You're also forced to use both upper, and lower letters, as well as a number.
 
 |Very|
+
+`Vietnam Airlines <https://www.vietnamairlines.com/lotusmiles/enroll-new>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``[[:alnum:]]{6,8}``
+
+|Vietnam Airlines|
 
 `Vio Bank <https://www.viobank.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -994,6 +1024,7 @@ your password.
 .. |Chegg3| image:: /screenshots/chegg3.png
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
@@ -1049,6 +1080,7 @@ your password.
 .. |SBI| image:: /screenshots/sbi.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
+.. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
 .. |TradeMe| image:: /screenshots/trademe.jpg
@@ -1062,6 +1094,7 @@ your password.
 .. |URSSAF| image:: /screenshots/urssaf.png
 .. |Vancity Credit Union| image:: /screenshots/vancity.png
 .. |Very| image:: /screenshots/very.png
+.. |Vietnam Airlines| image:: /screenshots/vietnamairlines.png
 .. |Viobank| image:: /screenshots/viobank.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
