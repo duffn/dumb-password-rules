@@ -806,6 +806,15 @@ up window.
 
 |Ubisoft|
 
+`United Airlines <https://united.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Security questions (and their answers!) must both be picked from dropdown
+menus with a limited number of answers and there is no option for unique
+answers.
+
+|United Airlines|
+
 `United States Postal Service <https://reg.usps.com/entreg/secure/ChangePasswordAction_input>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
