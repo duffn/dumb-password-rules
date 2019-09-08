@@ -894,9 +894,17 @@ Personal Access Code (or PAC–they are too ashamed to call it a password), must
 `Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password field allows *only* the listed Special Characters ($ . , ! % ^ *). You're also forced to use both upper, and lower letters, as well as a number.
+Password field allows *only* the listed Special Characters ($ . , ! % ^ \*).
+You're also forced to use both upper, and lower letters, as well as a number.
 
 |Very|
+
+`Vietnam Airlines <https://www.vietnamairlines.com/lotusmiles/enroll-new>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``[[:alnum:]]{6,8}``
+
+|Vietnam Airlines|
 
 `Vio Bank <https://www.viobank.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1086,6 +1094,7 @@ your password.
 .. |URSSAF| image:: /screenshots/urssaf.png
 .. |Vancity Credit Union| image:: /screenshots/vancity.png
 .. |Very| image:: /screenshots/very.png
+.. |Vietnam Airlines| image:: /screenshots/vietnamairlines.png
 .. |Viobank| image:: /screenshots/viobank.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
