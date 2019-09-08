@@ -157,7 +157,7 @@ Passwords limited to 8 digits.
 `Battle.net <https://eu.battle.net/account/creation/en-us/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-8 to 16 characters, at least one number and one letter and last but not least NO special characters, and can't have a password that looks like your username too.
+8 to 16 characters, at least one number and one letter and last but not least NO special characters, and can't have a password that looks like your username too. Oh, and passwords are NOT case sensitive.
 
 A real time travel adventure through the password rules of 2005!
 
