@@ -369,6 +369,13 @@ We store basically all of your data, but we can't store your password.
 |Her Majesty’s Revenue & Customs|
 
 
+`IBanking Services - Multitenant Mobile/Web Banking Platform <https://cibng.ibanking-services.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``\<>'`` and spaces prohibited, upper bound.
+
+|IBanking Services|
+
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1000,6 +1007,7 @@ your password.
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
+.. |IBanking Services| image:: /screenshots/ibanking-services.png
 .. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
