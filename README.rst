@@ -466,6 +466,13 @@ While not the dumbest password rule, still dumb.
 
 |Jitterbit|
 
+`LibraryThing <https://www.librarything.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"Your password cannot be longer than 20 characters"
+
+|LibraryThing|
+
 `Maxpreps <http://www.maxpreps.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
@@ -1045,6 +1052,7 @@ your password.
 .. |ING Australia| image:: /screenshots/ingaustralia.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
+.. |LibraryThing| image:: /screenshots/librarything.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Maxpreps| image:: /screenshots/maxpreps.png
