@@ -406,6 +406,17 @@ this was march 2018.
 |ING Australia|
 
 
+`ING Romania's Internet Banking Portal <https://www.homebank.ro/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+No more, no less than 5 digits. This is the password you use to log in and to confirm
+online transactions. They used to have "normal" passwords and they forced everybody to
+change to the 5 digits versions. They said they've made it "so it's easier for you" and it's
+OK, because everybody has 2FA.
+
+|ING Romania|
+
+
 `Inria <https://vpn1-roc.national.inria.fr/+CSCOE+/logon.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -571,7 +582,7 @@ Has been that way for more than 10 years.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can't make this up - no dictionary words, no more than 2 repeating
-characters, no alphabetic sequences, no whitespace, 3 character sets, 
+characters, no alphabetic sequences, no whitespace, 3 character sets,
 maximum of 32 characters.
 
 
@@ -610,7 +621,7 @@ Password must be between 8 and 16 characters long
 `PagoMisCuentas <https://www.pagomiscuentas.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password must be between 8 and 15 alphanumeric characters, and have 
+Password must be between 8 and 15 alphanumeric characters, and have
 at least one uppercase and one lowercase letter.
 
 |PagoMisCuentas|
@@ -618,7 +629,7 @@ at least one uppercase and one lowercase letter.
 `Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A site responsible for protecting your investments limiting you to a 
+A site responsible for protecting your investments limiting you to a
 four character range with a bunch of other stupid rules? Shocking.
 
 |Parnassus|
@@ -885,7 +896,7 @@ Password cannot be longer than 12 characters but they don't tell you that until 
 
 `URSSAF (French employers tax collection service) <https://www.autoentrepreneur.urssaf.fr>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-When setting a new password: 
+When setting a new password:
 Password must be exactly 8 characters, at least 1 letter, at least 1 number, but no special characters.
 
 
@@ -1050,6 +1061,7 @@ your password.
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Australia| image:: /screenshots/ingaustralia.png
+.. |ING Romania| image:: /screenshots/ingromania.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |LibraryThing| image:: /screenshots/librarything.png
