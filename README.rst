@@ -718,6 +718,15 @@ Passwords limited to 8-12 characters.
 
 |Singapore Airlines|
 
+`Sky Ticket <https://skyticket.sky.de/home/login/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sky is a german pay-TV provider with over 23 million subscribed users worldwide. They also have an online streaming service called "Sky Ticket".
+
+You can only set a **4 digit long PIN** with no option for two-factor authentication or any additional security mechanisms.
+
+|Sky Ticket|
+
 `Slovenska sporitelna <https://mysecurity.slsp.sk/zmena-hesla>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1094,6 +1103,7 @@ your password.
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
+.. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
