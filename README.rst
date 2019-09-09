@@ -1108,6 +1108,7 @@ your password.
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
+.. |University of New Brunswick| image:: /screenshots/Uni_Security.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |USAA| image:: /screenshots/usaa.png
