@@ -339,6 +339,16 @@ programmers. We don't want you to hack the mainframe.
 
 |Fidelity|
 
+
+`Fidelity National Information Services <https://www.fisglobal.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+White label online banking provider. Typically appears as `BANK.ibanking-services.com` or `BANK.ebanking-services.com`. If your small local bank has a crappy online banking experience, these guys probably provide it.
+
+``\<>'`` and spaces prohibited, upper bound. Passwords of exactly the maximum length are truncated by one character. Unlisted prohibited characters.
+
+|FIS Global|
+
 `EON <https://www.eonenergy.com/for-your-home/your-account/forgotten-password/non-link-reset/Reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -398,6 +408,7 @@ You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
 ``\<>'`` and spaces prohibited, upper bound.
 
 |IBanking Services|
+
 
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
@@ -523,7 +534,7 @@ When creating a new account they enforce some password rules like: length must b
 between 8 and 15 characters and there must be one upper case, one lower case letter
 and one number.
 
-|MetLife|
+|MLB|
 
 `MetLife <https://online.metlife.com/edge/web/profile/viewProfile?show=profileSettings>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -531,7 +542,7 @@ Max length of 20 characters, no special characters allowed.
 Pasting into the second password field is disabled even with
 the Chrome extension Don't Fuck With Paste.
 
-|MLB|
+|MetLife|
 
 `Microsoft (work accounts) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -713,12 +724,37 @@ Your new password must be at least 4 characters long and no longer than 40 chara
 
 |Roll 20|
 
+`Rushmore Loan Management Services <https://rushmore.customercarenet.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hmmm.. why are they afraid of double and single quotes in my passwords?
+
+|Rushmore|
+
 `SAP Cloud Appliance Library <https://cal.sap.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Passwords between 8 and 9 characters are the best.
 
 |SAP Cloud Appliance Library|
+
+`Scandinavian Airlines <https://www.flysas.com/us-en/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password rules itself is fine, but, it doesn't inform about the max length of the password.
+Their max length is 14 characters, so even if you enter a password of 42 chars, you can login with the first 14 of it.
+In this case, I changed my password to **Super_l0ng_password_that_fits_all_criteria**, and could login with **Super_l0ng_pas**
+
+Answer form SAS customer service::
+
+> Hi,
+> Thank you for your e-mail.
+> Our website only takes 14 characters as a password, so somehow when you registered > it took all 49.
+> But since our website only asks for 14 characters anything after will be valid.
+> I would advice you to change your password.
+> Have a wonderful day.
+
+|Scandinavian Airlines|
 
 `Safeway <https://shop.safeway.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -733,6 +769,15 @@ Passwords limited to 8-12 characters.
 ``/\d{6}/``
 
 |Singapore Airlines|
+
+`Sky Ticket <https://skyticket.sky.de/home/login/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sky is a german pay-TV provider with over 23 million subscribed users worldwide. They also have an online streaming service called "Sky Ticket".
+
+You can only set a **4 digit long PIN** with no option for two-factor authentication or any additional security mechanisms.
+
+|Sky Ticket|
 
 `Slovenska sporitelna <https://mysecurity.slsp.sk/zmena-hesla>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1068,6 +1113,7 @@ your password.
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
 .. |EON| image:: /screenshots/eon.png
 .. |Fidelity| image:: /screenshots/fidelity.png
+.. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
@@ -1108,9 +1154,12 @@ your password.
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
+.. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
+.. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
+.. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
