@@ -704,6 +704,24 @@ Passwords between 8 and 9 characters are the best.
 
 |SAP Cloud Appliance Library|
 
+`Scandinavian Airlines <https://www.flysas.com/us-en/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password rules itself is fine, but, it doesn't inform about the max length of the password.
+Their max length is 14 characters, so even if you enter a password of 42 chars, you can login with the first 14 of it.
+In this case, I changed my password to **Super_l0ng_password_that_fits_all_criteria**, and could login with **Super_l0ng_pas**
+
+Answer form SAS customer service::
+
+> Hi,
+> Thank you for your e-mail.
+> Our website only takes 14 characters as a password, so somehow when you registered > it took all 49.
+> But since our website only asks for 14 characters anything after will be valid.
+> I would advice you to change your password.
+> Have a wonderful day.
+
+|Scandinavian Airlines|
+
 `Safeway <https://shop.safeway.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1092,6 +1110,7 @@ your password.
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
+.. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
