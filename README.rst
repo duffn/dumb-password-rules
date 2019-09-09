@@ -263,6 +263,17 @@ plus a weird restriction that makes random generation harder.
 
 |CenturyLink|
 
+
+`Chase Bank <https://secure01a.chase.com/web/auth/dashboard>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Can't use any special characters except ! # $ % + / = @ ~ 
+* Max length restriction (32 characters).
+* No runs of identical characters ("aaa") or sequential characters ("abc").
+
+|Chase|
+
+
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1212,6 +1223,7 @@ your password.
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CIBC| image:: /screenshots/CIBC.png
+.. |Chase| image:: /screenshots/chase.jpg
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
