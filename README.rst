@@ -697,6 +697,13 @@ Your new password must be at least 4 characters long and no longer than 40 chara
 
 |Roll 20|
 
+`Rushmore Loan Management Services <https://https://rushmore.customercarenet.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hmmm.. why are they afraid of double and single quotes in my passwords?
+
+|Rushmore|
+
 `SAP Cloud Appliance Library <https://cal.sap.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1091,6 +1098,7 @@ your password.
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
+.. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
