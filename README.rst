@@ -339,6 +339,16 @@ programmers. We don't want you to hack the mainframe.
 
 |Fidelity|
 
+
+`Fidelity National Information Services <https://www.fisglobal.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+White label online banking provider. Typically appears as `BANK.ibanking-services.com` or `BANK.ebanking-services.com`. If your small local bank has a crappy online banking experience, these guys probably provide it.
+
+``\<>'`` and spaces prohibited, upper bound. Passwords of exactly the maximum length are truncated by one character. Unlisted prohibited characters.
+
+|FIS Global|
+
 `EON <https://www.eonenergy.com/for-your-home/your-account/forgotten-password/non-link-reset/Reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -374,14 +384,6 @@ Max 14 characters for the most important password in your shared hosting environ
 We store basically all of your data, but we can't store your password.
 
 |Her Majesty’s Revenue & Customs|
-
-
-`IBanking Services - Multitenant Mobile/Web Banking Platform <https://cibng.ibanking-services.com>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-``\<>'`` and spaces prohibited, upper bound.
-
-|IBanking Services|
 
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
@@ -1059,11 +1061,11 @@ your password.
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
 .. |EON| image:: /screenshots/eon.png
 .. |Fidelity| image:: /screenshots/fidelity.png
+.. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
-.. |IBanking Services| image:: /screenshots/ibanking-services.png
 .. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
