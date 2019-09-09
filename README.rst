@@ -39,6 +39,15 @@ could use proper grammar in their rule list.
 
 |ADP|
 
+`Adobe <https://get.adobe.com/uk/reader/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Arbitrary password length limit (100) when installing Reader DC and registering
+for an Adobe account, is not included in ruleset that 
+is displayed on register screen.
+
+|Adobe|
+
 `Advanzia <https://mein.advanzia.com/icc/assisto/nav/f96/f963b01b-043c-a21a-72e5-fd2ce0f2d5a2.htm#Sicherheit>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -994,6 +1003,7 @@ your password.
 |Wells Fargo Identity Theft Protection|
 
 .. |Admiral| image:: /screenshots/admiral.png
+.. |Adobe| image:: /screenshots/adobe.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
 .. |Air France| image:: /screenshots/airfrance.png
