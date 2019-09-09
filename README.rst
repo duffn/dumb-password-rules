@@ -1061,7 +1061,7 @@ your password.
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Australia| image:: /screenshots/ingaustralia.png
-.. |ING Romania| image:: /screenshots/ingromania.png
+.. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |LibraryThing| image:: /screenshots/librarything.png
