@@ -697,7 +697,7 @@ Your new password must be at least 4 characters long and no longer than 40 chara
 
 |Roll 20|
 
-`Rushmore Loan Management Services <https://https://rushmore.customercarenet.com/>`__
+`Rushmore Loan Management Services <https://rushmore.customercarenet.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hmmm.. why are they afraid of double and single quotes in my passwords?
