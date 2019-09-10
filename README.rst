@@ -239,6 +239,14 @@ you can't use a password manager.
 
 |California DMV|
 
+`CenturyLink <https://eam.centurylink.com/eam/login.do>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+So many bad ideas: a low maximum length, requiring six specific character types while not accepting common symbols,
+plus a weird restriction that makes random generation harder.
+
+|CenturyLink|
+
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -620,6 +628,13 @@ Passwords must be greater than 6 characters, and have an arbitrary set of rules 
 |PizzaHut-2|
 |PizzaHut-3|
 
+`Premera Blue Cross <https://account.premera.com/>`__
+
+Password must contain 8-30 characters, including one letter and one number.
+"Special characters allowed" seems to mean a very small handful of choices you can only find through trial and error  ``-_'.@``
+
+|Premera Blue Cross|
+
 `Raiffeisen Bank Serbia <https://rol.raiffeisenbank.rs/Retail/home/login/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -671,6 +686,15 @@ Passwords between 8 and 9 characters are the best.
 Passwords limited to 8-12 characters.
 
 |Safeway|
+
+`Sears <https://www.sears.com/>`__
+
+"cAsE sensitive, no spaces, ! or ?
+8 characters min - 1 letter, 1 number
+Can't repeat same character more than 3 times in a row
+Cannot be or contain your username or email address"
+
+|Sears|
 
 `Singapore Airlines <https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -975,6 +999,7 @@ your password.
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
+.. |CenturyLink| image:: /screenshots/centurylink.png
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
@@ -1020,12 +1045,14 @@ your password.
 .. |PizzaHut-1| image:: /screenshots/pizzahut1.png
 .. |PizzaHut-2| image:: /screenshots/pizzahut2.png
 .. |PizzaHut-3| image:: /screenshots/pizzahut3.png
+.. |Premera| image:: /screenshots/premera.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Safeway| image:: /screenshots/safeway.png
+.. |Sears| image:: /screenshots/sears.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
