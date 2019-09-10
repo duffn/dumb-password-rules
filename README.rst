@@ -248,6 +248,14 @@ you can't use a password manager.
 
 |California DMV|
 
+`Charles Sturt University <https://www.csu.edu.au/division/dit/services/services/access-and-logins/password-management>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Prevents spaces and a set list of characters, limits to 30 characters and can only change your password twice per day.
+
+|csu.edu.au|
+
+
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1117,6 +1125,7 @@ your password.
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |CIBC| image:: /screenshots/CIBC.png
+.. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
