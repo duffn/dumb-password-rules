@@ -742,6 +742,14 @@ not even a number, even though it is called as such! Here is a
 screenshot from the branch where I am from (Jena, Germany), but since
 they have a central IT, I think it will be identical in other branches:
 
+|Southwest|
+
+`Southwest <https://https://www.southwest.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 8 and 16 characters in length and include at least one uppercase letter
+and one number. Certain special characters are also allowed, but the first character of the password must be alphanumeric.
+
 |Sparkasse Jena|
 
 The rules are as such:
@@ -1103,6 +1111,7 @@ your password.
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
+.. |Southwest| image:: /screenshots/southwest.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
 .. |SBI| image:: /screenshots/sbi.png
