@@ -322,6 +322,18 @@ It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
 
+`Easybank (Austrian direct bank, subsidiary of BAWAG PSK) <https://www.easybank.at/de/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- At least 8 and at most 16 (!) characters
+- **Must start with 5 digits (do we really want to know what's going on there?)**
+- At least one uppercase and one lowercase letter
+- (Some) special characters are permitted, most are not
+- "Simple" patterns are prohibited
+- PINs are case sensitive (at least its something)
+
+|Easybank|
+
 `Easyjet <https://www.easyjet.com/en>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1126,6 +1138,7 @@ your password.
 .. |Dell| image:: /screenshots/dell.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
+.. |Easybank| image:: /screenshots/easybank.png 
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
