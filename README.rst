@@ -938,6 +938,14 @@ Pick from an arbitrary list of symbols, and no repeating characters.
 
 |United States Postal Service|
 
+`Unicaja, Spanish bank <https://areaprivada.unicajabanco.es/PortalServlet?pag=1533643502465&np=S>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your user is your Spanish ID. 
+You password must be 6 characters length. You can't type, only select characters from the virtual keyboard
+
+|Unicaja|
+
 `University of California San Diego <https://www.ucsd.edu>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1192,6 +1200,7 @@ your password.
 .. |Treasury2| image:: /screenshots/treasury2.png
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
+.. |Unicaja| image:: /screenshots/unicaja.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
