@@ -652,6 +652,13 @@ User ID *has to* contain special characters, password *may not* contain (basical
 
 |NBank|
 
+`Omnivox <https://cegep-ste-foy.omnivox.ca/Login/Account/Login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password length must be 8 to 20 characters long with lower case characters and numbers only.
+
+|Omnivox|
+
 `Oracle <https://profile.oracle.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1192,6 +1199,7 @@ your password.
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
+.. |Omnivox| image:: /screenshots/omnivox.png
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
 .. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
