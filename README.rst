@@ -1166,6 +1166,7 @@ your password.
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
+.. |Omnivox| image:: /screenshots/omnivox.jpg
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
 .. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
