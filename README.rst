@@ -792,6 +792,26 @@ Slovenska sporitelna is the biggest bank in Slovakia. Despite pretty new version
 
 |Slovenska sporitelna|
 
+`Sparda-Bank <https://banking.sparda-m.de/spm/?institut=7009>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sparda is a group of German banks. They all use the same login form (except for Sparda-Bank Berlin, see below). Their equivalent of a password is called *Online-PIN*. As the name implies, only digits are allowed. (*Zifferneingabe* means "digit input"; it opens an on-screen number pad widget.)
+
+|Sparda M 1|
+
+Not mentioned explicitly: Your PIN is limited to 6 characters, i.e. the range of valid "passwords" is from ``000000`` to ``999999``.
+
+|Sparda M 2|
+
+The odd one out is Sparda-Bank Berlin, which has different rules:
+
+- At least 8 characters.
+- At most 20 characters.
+- Only the following characters are allowed: a-z, A-Z, ä/Ä, ö/Ö, ü/Ü, ß, 0-9, and the "special characters" ``@!%&/=?*+;:,._-``.
+- Your password must use either digits only (like a PIN) or at least one digit and at least one uppercase letter.
+
+|Sparda B|
+
 `Sparkasse <https://s-jena.de>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1179,6 +1199,9 @@ your password.
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
+.. |Sparda M 1| image:: /screenshots/sparda-m-1.png
+.. |Sparda M 2| image:: /screenshots/sparda-m-2.png
+.. |Sparda B| image:: /screenshots/sparda-b.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
 .. |SBI| image:: /screenshots/sbi.png
