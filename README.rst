@@ -15,6 +15,21 @@ See other sites for the formatting and follow these rules:
 -  Include at least one screenshot.
 -  Keep the sites in alphabetical order.
 
+Ok, I'm on that list, what should I do ?
+----------------------------------------
+
+We recommend you that in the future you refer to the OWASP (Open Web Application Security Project)
+before implementing or specifying web applications.
+
+For example the current set of recommendation, and the rationals on "why" for password rules are here:
+https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Authentication_Cheat_Sheet.md
+
+As of 2019, the rules are basically:
+
+   * at least 8 characters long
+   * never expires
+   * better to check against a list of leaked/common passwords like https://haveibeenpwned.com/API/v3#PwnedPasswords
+
 Sites
 -----
 -----------------
