@@ -157,7 +157,7 @@ Passwords limited to 8 digits.
 `Battle.net <https://eu.battle.net/account/creation/en-us/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-8 to 16 characters, at least one number and one letter and last but not least NO special characters, and can't have a password that looks like your username too.
+8 to 16 characters, at least one number and one letter and last but not least NO special characters, and can't have a password that looks like your username too. Oh, and passwords are NOT case sensitive.
 
 A real time travel adventure through the password rules of 2005!
 
@@ -178,6 +178,15 @@ For a bank account with all your money in one of the largest financial instituti
 **Exactly** eight characters.
 
 |Bendigo Bank|
+
+`BDO <https://www.bdo.com.ph/personal>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Please nominate a password which contains UPPERCASE, lowercase, numbers and symbols.
+Password should not be the same as the user ID.
+Avoid using consecutive characters such (ex. abc, DEF, 678) and invalid characters such as [!#$%^&';"].
+
+|BDO|
 
 `Best Buy <https://www-ssl.bestbuy.com/identity/changePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -256,6 +265,13 @@ Here are the (only fairly poor) rules for a new password. Enter 64 character pas
 |Chegg2|
 |Chegg3|
 
+`Canadian Imperial Bank of Commerce <https://www.cibconline.cibc.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Letters and numbers only, no symbols. Also an undocumented maximum of 12 characters!
+
+|CIBC|
+
 `Comcast <https://customer.xfinity.com/#/settings/security/xfinity-access/password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -270,6 +286,13 @@ characters long.
 I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
+
+`DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``[[:digit:]]{6,8}``
+
+|DBS|
 
 `Dell <https://www.dell.com/Identity/global/LoginOrRegister>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -340,6 +363,23 @@ programmers. We don't want you to hack the mainframe.
 
 |Fidelity|
 
+
+`Fidelity National Information Services <https://www.fisglobal.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+White label online banking provider. Typically appears as `BANK.ibanking-services.com` or `BANK.ebanking-services.com`. If your small local bank has a crappy online banking experience, these guys probably provide it.
+
+``\<>'`` and spaces prohibited, upper bound. Passwords of exactly the maximum length are truncated by one character. Unlisted prohibited characters.
+
+|FIS Global|
+
+`EON <https://www.eonenergy.com/for-your-home/your-account/forgotten-password/non-link-reset/Reset>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+By the time I'd finished reading the rules I've forgotten all of them.
+
+|EON|
+
 `Global Entry <https://goes-app.cbp.dhs.gov/goes/PasswordChangePreAction.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -369,6 +409,20 @@ We store basically all of your data, but we can't store your password.
 
 |Her Majesty’s Revenue & Customs|
 
+`Hetzner <https://hetzner.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 8 or more characters
+- At least one uppercase and one lowercase letter
+- At least one number or special character 
+
+Okay, fair enough, but after putting in a password with some special characters this message appears:
+
+- Invalid characters, allowed are: A-Z a-z 0-9 ä ö ü ß Ä Ö Ü ^ ! $ % / ( ) = ? + # - . , ; : ~ * @ [ ] { } _ ° §
+
+You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
+
+|Hetzner|
 
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
@@ -391,6 +445,17 @@ this was march 2018.
 "Added security" by randomising the positions on the keypad. Must be clicked.
 
 |ING Australia|
+
+
+`ING Romania's Internet Banking Portal <https://www.homebank.ro/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+No more, no less than 5 digits. This is the password you use to log in and to confirm
+online transactions. They used to have "normal" passwords and they forced everybody to
+change to the 5 digits versions. They said they've made it "so it's easier for you" and it's
+OK, because everybody has 2FA.
+
+|ING Romania|
 
 
 `Inria <https://vpn1-roc.national.inria.fr/+CSCOE+/logon.html>`__
@@ -453,6 +518,13 @@ While not the dumbest password rule, still dumb.
 
 |Jitterbit|
 
+`LibraryThing <https://www.librarything.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"Your password cannot be longer than 20 characters"
+
+|LibraryThing|
+
 `Maxpreps <http://www.maxpreps.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
@@ -476,7 +548,7 @@ When creating a new account they enforce some password rules like: length must b
 between 8 and 15 characters and there must be one upper case, one lower case letter
 and one number.
 
-|MetLife|
+|MLB|
 
 `MetLife <https://online.metlife.com/edge/web/profile/viewProfile?show=profileSettings>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -484,7 +556,7 @@ Max length of 20 characters, no special characters allowed.
 Pasting into the second password field is disabled even with
 the Chrome extension Don't Fuck With Paste.
 
-|MLB|
+|MetLife|
 
 `Microsoft (work accounts) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -551,7 +623,7 @@ Has been that way for more than 10 years.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can't make this up - no dictionary words, no more than 2 repeating
-characters, no alphabetic sequences, no whitespace, 3 character sets, 
+characters, no alphabetic sequences, no whitespace, 3 character sets,
 maximum of 32 characters.
 
 
@@ -590,7 +662,7 @@ Password must be between 8 and 16 characters long
 `PagoMisCuentas <https://www.pagomiscuentas.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password must be between 8 and 15 alphanumeric characters, and have 
+Password must be between 8 and 15 alphanumeric characters, and have
 at least one uppercase and one lowercase letter.
 
 |PagoMisCuentas|
@@ -598,7 +670,7 @@ at least one uppercase and one lowercase letter.
 `Parnassus Investments <https://www.parnassus.com/your-account/newaccount/open-account-intro/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A site responsible for protecting your investments limiting you to a 
+A site responsible for protecting your investments limiting you to a
 four character range with a bunch of other stupid rules? Shocking.
 
 |Parnassus|
@@ -673,12 +745,37 @@ Your new password must be at least 4 characters long and no longer than 40 chara
 
 |Roll 20|
 
+`Rushmore Loan Management Services <https://rushmore.customercarenet.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hmmm.. why are they afraid of double and single quotes in my passwords?
+
+|Rushmore|
+
 `SAP Cloud Appliance Library <https://cal.sap.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Passwords between 8 and 9 characters are the best.
 
 |SAP Cloud Appliance Library|
+
+`Scandinavian Airlines <https://www.flysas.com/us-en/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password rules itself is fine, but, it doesn't inform about the max length of the password.
+Their max length is 14 characters, so even if you enter a password of 42 chars, you can login with the first 14 of it.
+In this case, I changed my password to **Super_l0ng_password_that_fits_all_criteria**, and could login with **Super_l0ng_pas**
+
+Answer form SAS customer service::
+
+> Hi,
+> Thank you for your e-mail.
+> Our website only takes 14 characters as a password, so somehow when you registered > it took all 49.
+> But since our website only asks for 14 characters anything after will be valid.
+> I would advice you to change your password.
+> Have a wonderful day.
+
+|Scandinavian Airlines|
 
 `Safeway <https://shop.safeway.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -702,6 +799,15 @@ Cannot be or contain your username or email address"
 ``/\d{6}/``
 
 |Singapore Airlines|
+
+`Sky Ticket <https://skyticket.sky.de/home/login/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sky is a german pay-TV provider with over 23 million subscribed users worldwide. They also have an online streaming service called "Sky Ticket".
+
+You can only set a **4 digit long PIN** with no option for two-factor authentication or any additional security mechanisms.
+
+|Sky Ticket|
 
 `Slovenska sporitelna <https://mysecurity.slsp.sk/zmena-hesla>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -780,6 +886,21 @@ We prefer to not tell you which characters you can use up front.
 
 |T-Mobile|
 
+`Techcombank <https://ib.techcombank.com.vn/servlet/BrowserServlet>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must:
+
+- Be between 6 and 8 characters long
+- Contains at least 1 number character
+- Contains at least 1 lowercase character
+- Contains at least 1 uppercase character
+- Neither space nor unicode character is allowed. In fact,
+  NO special characters is allowed
+- Must be changed every 90 days
+
+|Techcombank|
+
 `Telekom/T-Systems MyWorkplace <https://www.websso.t-systems.com/MyWorkplace/General/TSIPageContainer.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -807,6 +928,17 @@ they do not say up front - but the password they accepted contained lots
 of other special characters.
 
 |TradeMe|
+
+`TreasuryDirect <https://www.treasurydirect.gov/RS/UN-Display.do>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Will allow most passwords longer than 8 characters. Doesn't tell you there is a 
+maximum length of 16 characters. Then forces you to type it with an on-screen keyboard 
+with no capital letters.
+
+|Treasury1|
+
+|Treasury2|
 
 `TwinSpires <https://www.twinspires.com/account/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -866,7 +998,7 @@ Password cannot be longer than 12 characters but they don't tell you that until 
 
 `URSSAF (French employers tax collection service) <https://www.autoentrepreneur.urssaf.fr>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-When setting a new password: 
+When setting a new password:
 Password must be exactly 8 characters, at least 1 letter, at least 1 number, but no special characters.
 
 
@@ -882,9 +1014,17 @@ Personal Access Code (or PAC–they are too ashamed to call it a password), must
 `Very.co.uk <https://www.very.co.uk/account/myaccount/changePassword.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password field allows *only* the listed Special Characters ($ . , ! % ^ *). You're also forced to use both upper, and lower letters, as well as a number.
+Password field allows *only* the listed Special Characters ($ . , ! % ^ \*).
+You're also forced to use both upper, and lower letters, as well as a number.
 
 |Very|
+
+`Vietnam Airlines <https://www.vietnamairlines.com/lotusmiles/enroll-new>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``[[:alnum:]]{6,8}``
+
+|Vietnam Airlines|
 
 `Vio Bank <https://www.viobank.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -990,6 +1130,7 @@ your password.
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
 .. |BBVA| image:: /screenshots/bbva.png
+.. |BDO| image:: /screenshots/bdo.png
 .. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
@@ -1000,11 +1141,13 @@ your password.
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
+.. |CIBC| image:: /screenshots/CIBC.png
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
@@ -1012,17 +1155,22 @@ your password.
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |e-learning (Unipd)| image:: /screenshots/elearning.math.unipd.png
+.. |EON| image:: /screenshots/eon.png
 .. |Fidelity| image:: /screenshots/fidelity.png
+.. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
+.. |Hetzner| image:: /screenshots/hetzner.png
 .. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Australia| image:: /screenshots/ingaustralia.png
+.. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
+.. |LibraryThing| image:: /screenshots/librarything.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Maxpreps| image:: /screenshots/maxpreps.png
@@ -1050,19 +1198,25 @@ your password.
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
+.. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
+.. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Sears| image:: /screenshots/sears.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
+.. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
 .. |SBI| image:: /screenshots/sbi.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
+.. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
 .. |TradeMe| image:: /screenshots/trademe.jpg
+.. |Treasury1| image:: /screenshots/treasury1.png
+.. |Treasury2| image:: /screenshots/treasury2.png
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |United States Postal Service| image:: /screenshots/usps.png
@@ -1073,6 +1227,7 @@ your password.
 .. |URSSAF| image:: /screenshots/urssaf.png
 .. |Vancity Credit Union| image:: /screenshots/vancity.png
 .. |Very| image:: /screenshots/very.png
+.. |Vietnam Airlines| image:: /screenshots/vietnamairlines.png
 .. |Viobank| image:: /screenshots/viobank.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
