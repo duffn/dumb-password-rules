@@ -810,7 +810,7 @@ Cannot be or contain your username or email address"
 `Singapore Airlines <https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-``/\d{6}/``
+``/[0-9]{6}/``
 
 |Singapore Airlines|
 
