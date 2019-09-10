@@ -322,7 +322,7 @@ It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
 
-`Easybank (Austrian direct bank, subsidiary of BAWAG PSK) <https://www.easybank.at/de/>`__
+`Easybank (Austrian direct bank) <https://www.easybank.at/de/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - At least 8 and at most 16 (!) characters
@@ -330,7 +330,7 @@ It's not like hashing passwords is a thing or something.
 - At least one uppercase and one lowercase letter
 - (Some) special characters are permitted, most are not
 - "Simple" patterns are prohibited
-- PINs are case sensitive (at least its something)
+- PINs are case sensitive (at least it's something)
 
 |Easybank|
 
