@@ -385,6 +385,21 @@ We store basically all of your data, but we can't store your password.
 
 |Her Majesty’s Revenue & Customs|
 
+`Hetzner <https://hetzner.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 8 or more characters
+- At least one uppercase and one lowercase letter
+- At least one number or special character 
+
+Okay, fair enough, but after putting in a password with some special characters this message appears:
+
+- Invalid characters, allowed are: A-Z a-z 0-9 ä ö ü ß Ä Ö Ü ^ ! $ % / ( ) = ? + # - . , ; : ~ * @ [ ] { } _ ° §
+
+You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
+
+|Hetzner|
+
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1093,6 +1108,7 @@ your password.
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
+.. |Hetzner| image:: /screenshots/hetzner.png
 .. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |ING Bank| image:: /screenshots/ingbank.png
