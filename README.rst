@@ -938,11 +938,11 @@ Pick from an arbitrary list of symbols, and no repeating characters.
 
 |United States Postal Service|
 
-`Unicaja, Spanish bank <https://areaprivada.unicajabanco.es/PortalServlet?pag=1533643502465&np=S>`__
+`Unicaja <https://areaprivada.unicajabanco.es/PortalServlet?pag=1533643502465&np=S>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your user is your Spanish ID. 
-You password must be 6 characters length. You can't type, only select characters from the virtual keyboard
+Username is your national Spanish ID (easy to find).
+Your password must be 6 characters length. You can't type, only select characters from the virtual keyboard
 
 |Unicaja|
 
