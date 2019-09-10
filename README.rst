@@ -257,6 +257,13 @@ Here are the (only fairly poor) rules for a new password. Enter 64 character pas
 |Chegg2|
 |Chegg3|
 
+`Canadian Imperial Bank of Commerce <https://www.cibconline.cibc.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Letters and numbers only, no symbols. Also an undocumented maximum of 12 characters!
+
+|CIBC|
+
 `Comcast <https://customer.xfinity.com/#/settings/security/xfinity-access/password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1109,6 +1116,7 @@ your password.
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
+.. |CIBC| image:: /screenshots/CIBC.png
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
