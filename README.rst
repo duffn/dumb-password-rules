@@ -98,6 +98,13 @@ Your password needs to be between 6 and 12 characters long, must contain only le
 
 |AmiAmi|
 
+`ANZ Bank <https://anz.com.au/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password needs to be between 8 and 16 characters long - no special characters allowed.
+
+|ANZBank|
+
 `AOL <https://aol.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1175,6 +1182,7 @@ your password.
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AmiAmi| image:: /screenshots/amiami.jpg
+.. |ANZBank| image:: /screenshots/anz_bank.png
 .. |AOL| image:: /screenshots/aol.png
 .. |Apple| image:: /screenshots/apple.jpg
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
