@@ -877,6 +877,14 @@ The odd one out is Sparda-Bank Berlin, which has different rules:
 
 |Sparda B|
 
+`Southwest <https://https://www.southwest.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 8 and 16 characters in length and include at least one uppercase letter
+and one number. Certain special characters are also allowed, but the first character of the password must be alphanumeric.
+
+|Southwest|
+
 `Sparkasse <https://s-jena.de>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -886,14 +894,6 @@ personal identification number), the rules are pretty horrific and its
 not even a number, even though it is called as such! Here is a
 screenshot from the branch where I am from (Jena, Germany), but since
 they have a central IT, I think it will be identical in other branches:
-
-`Southwest <https://https://www.southwest.com>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Password must be between 8 and 16 characters in length and include at least one uppercase letter
-and one number. Certain special characters are also allowed, but the first character of the password must be alphanumeric.
-
-|Southwest|
 
 |Sparkasse Jena|
 
