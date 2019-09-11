@@ -877,6 +877,14 @@ The odd one out is Sparda-Bank Berlin, which has different rules:
 
 |Sparda B|
 
+`Southwest <https://https://www.southwest.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 8 and 16 characters in length and include at least one uppercase letter
+and one number. Certain special characters are also allowed, but the first character of the password must be alphanumeric.
+
+|Southwest|
+
 `Sparkasse <https://s-jena.de>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1272,6 +1280,7 @@ your password.
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
+.. |Southwest| image:: /screenshots/southwest.png
 .. |Sparda M 1| image:: /screenshots/sparda-m-1.png
 .. |Sparda M 2| image:: /screenshots/sparda-m-2.png
 .. |Sparda B| image:: /screenshots/sparda-b.png
