@@ -263,6 +263,13 @@ plus a weird restriction that makes random generation harder.
 
 |CenturyLink|
 
+`Chase Bank <https://www.chase.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Most symbols are denied, no spaces.
+
+|Chase|
+
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1204,6 +1211,7 @@ your password.
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CIBC| image:: /screenshots/CIBC.png
+.. |Chase| image:: /screenshots/chase.png
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
 .. |Chegg3| image:: /screenshots/chegg3.png
