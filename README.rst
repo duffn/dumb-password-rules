@@ -330,6 +330,14 @@ But hiding the fact that it has a max of 20, now THAT is dumb!
 
 |Dell|
 
+`Deloitte GlobalAdvantage <http://www.ga.deloitte.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Rules that are completely arbitrary that basically make all safe passwords wrong,
+instead forcing pseudo-safe password combinations.
+
+|Deloitte GlobalAdvantage|
+
 `Delta <https://www.delta.com/us/en/advisories/other-alerts/password-security>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1232,6 +1240,7 @@ your password.
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
+.. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
 .. |Easybank| image:: /screenshots/easybank.png 
