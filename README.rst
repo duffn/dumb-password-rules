@@ -1280,6 +1280,7 @@ your password.
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
+.. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |Omnivox| image:: /screenshots/omnivox.png
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
