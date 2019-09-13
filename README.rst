@@ -1041,6 +1041,14 @@ up window.
 
 |Ubisoft|
 
+`Unicaja <https://areaprivada.unicajabanco.es/PortalServlet?pag=1533643502465&np=S>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Username is your national Spanish ID (easy to find).
+Your password must be 6 characters long. You can't type, only select characters from the virtual keyboard
+
+|Unicaja|
+
 `United States Postal Service <https://reg.usps.com/entreg/secure/ChangePasswordAction_input>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1316,6 +1324,7 @@ your password.
 .. |Treasury2| image:: /screenshots/treasury2.png
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
+.. |Unicaja| image:: /screenshots/unicaja.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
