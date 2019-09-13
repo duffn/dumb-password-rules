@@ -585,6 +585,18 @@ While not the dumbest password rule, still dumb.
     at least one: number, special char ``!#$%-_=+<>``, capital letter,
     and lowercase letter.
 
+|Janney|
+
+`Janney <https://www.myjanney.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Length between 7 and 20 characters, with:
+- one or more letters
+- at least one number
+- one (and they mean exactly one) of ``!@#$%^&*()_``
+Those are the only special characters allowed, and you must use exactly one of them, once.
+Also, after entering and confirming the new password, a popup requests your old password. I no longer had my old password, so I entered nothing, and my new password was still successfully updated.
+
 |Jitterbit|
 
 `LibraryThing <https://www.librarything.com/>`__
