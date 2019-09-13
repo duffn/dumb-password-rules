@@ -274,7 +274,7 @@ Prevents spaces and a set list of characters, limits to 30 characters and can on
 `Chase Bank <https://secure01a.chase.com/web/auth/dashboard>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Can't use any special characters except ! # $ % + / = @ ~ 
+* Can't use any special characters except ! # $ % + / = @ ~
 * Max length restriction (32 characters).
 * No runs of identical characters ("aaa") or sequential characters ("abc").
 
@@ -439,6 +439,16 @@ Must be exactly 6 alphanumeric characters, does not show special characters are 
 
 |Fundatec|
 
+`Getin Bank <https://secure.getinbank.pl/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The new password should contain at least 10 and a maximum of 20 characters.
+The password must contain at least one upper case letter, one lower case
+letter and one number. The password cannot contain non-ASCII Polish alphabet
+characters, special characters ``&<'"`` or spaces.
+
+|Getin Bank|
+
 `Global Entry <https://goes-app.cbp.dhs.gov/goes/PasswordChangePreAction.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -473,7 +483,7 @@ We store basically all of your data, but we can't store your password.
 
 - 8 or more characters
 - At least one uppercase and one lowercase letter
-- At least one number or special character 
+- At least one number or special character
 
 Okay, fair enough, but after putting in a password with some special characters this message appears:
 
@@ -1026,8 +1036,8 @@ of other special characters.
 `TreasuryDirect <https://www.treasurydirect.gov/RS/UN-Display.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Will allow most passwords longer than 8 characters. Doesn't tell you there is a 
-maximum length of 16 characters. Then forces you to type it with an on-screen keyboard 
+Will allow most passwords longer than 8 characters. Doesn't tell you there is a
+maximum length of 16 characters. Then forces you to type it with an on-screen keyboard
 with no capital letters.
 
 |Treasury1|
@@ -1258,7 +1268,7 @@ your password.
 .. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
 .. |Delta| image:: /screenshots/delta.jpg
 .. |DJI| image:: /screenshots/dji-drones.png
-.. |Easybank| image:: /screenshots/easybank.png 
+.. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
@@ -1267,6 +1277,7 @@ your password.
 .. |Fidelity| image:: /screenshots/fidelity.png
 .. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Fundatec| image:: /screenshots/fundatec.png
+.. |Getin Bank| image:: /screenshots/getin.png
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
@@ -1354,4 +1365,3 @@ your password.
 .. |Westpac Live Online Banking| image:: /screenshots/westpac.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
-
