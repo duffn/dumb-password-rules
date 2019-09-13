@@ -255,6 +255,7 @@ you can't use a password manager.
 
 |California DMV|
 
+
 `CenturyLink <https://eam.centurylink.com/eam/login.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -263,6 +264,12 @@ plus a weird restriction that makes random generation harder.
 
 |CenturyLink|
 
+`Charles Sturt University <https://www.csu.edu.au/division/dit/services/services/access-and-logins/password-management>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Prevents spaces and a set list of characters, limits to 30 characters and can only change your password twice per day.
+
+|csu.edu.au|
 
 `Chase Bank <https://secure01a.chase.com/web/auth/dashboard>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -272,7 +279,6 @@ plus a weird restriction that makes random generation harder.
 * No runs of identical characters ("aaa") or sequential characters ("abc").
 
 |Chase|
-
 
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1230,6 +1236,7 @@ your password.
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Commsec| image:: /screenshots/commsec.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Delta| image:: /screenshots/delta.jpg
