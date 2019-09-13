@@ -587,6 +587,13 @@ While not the dumbest password rule, still dumb.
 
 |Jitterbit|
 
+`Laika <https://www.wearelaika.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Minimum length of 8 characters and it must have lowercase letter, an uppercase letter and a digit. Because, security!
+
+|Laika|
+
 `LibraryThing <https://www.librarything.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -713,6 +720,13 @@ maximum of 32 characters.
 User ID *has to* contain special characters, password *may not* contain (basically) any special characters.
 
 |NBank|
+
+`NLB klik <https://www.nlbklik.com.mk>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Dumb password complexity meter
+- Can't calculate the correct password length
+|NLBKlik|
 
 `Omnivox <https://cegep-ste-foy.omnivox.ca/Login/Account/Login>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1059,6 +1073,13 @@ up window.
 
 |Ubisoft|
 
+`UJP(IRS) <https://e-pdd.ujp.gov.mk>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Minimum length of 8 characters, one uppercase, one lowercase and special sign, but only if it belongs to our predefined set of special characters.
+
+|UJP(IRS)|
+
 `Unicaja <https://areaprivada.unicajabanco.es/PortalServlet?pag=1533643502465&np=S>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1290,6 +1311,7 @@ your password.
 .. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
+.. |Laika| image:: /screenshots/laika.png
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
@@ -1304,6 +1326,7 @@ your password.
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
+.. |NLBKlik| image:: /screenshots/nlbTutunska.png
 .. |Omnivox| image:: /screenshots/omnivox.png
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
@@ -1344,6 +1367,7 @@ your password.
 .. |Treasury2| image:: /screenshots/treasury2.png
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
+.. |UJP(IRS)| image:: /screenshots/e-ppd.png
 .. |Unicaja| image:: /screenshots/unicaja.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
