@@ -1181,6 +1181,13 @@ Your password length is limited between 6 and 12 characters.
 
 |Walmart|
 
+`Waze <https://www.waze.com/forgot_password>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After you request a password reset and you receive an email with instructions and link to reset your password, you are presented with this password reset form. Your password length is limited between 8 and 16 characters. Additionally the form breaks with an error if you use any special characters. The form does not mention anything about special characters. Waze is owned by Google.
+
+|Waze|
+
 `WeatherBug <https://www.weatherbug.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1359,6 +1366,7 @@ your password.
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |Walmart| image:: /screenshots/walmart.png
+.. |Waze| image:: /screenshots/waze.png
 .. |WeatherBug| image:: /screenshots/weatherbug.png
 .. |WellStar MyChart| image:: /screenshots/wellstar-mychart.png
 .. |Wells Fargo| image:: /screenshots/wells-fargo.png
