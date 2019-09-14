@@ -975,6 +975,13 @@ Your password must:
 
 |SBI|
 
+`SunTrust <https://www.suntrust.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+At least there are a variety of special characters to choose from.
+
+|SunTrust|
+
 `Synchrony Financial <https://consumercenter.mysynchrony.com/consumercenter/securityinfoaction_change_password_review_cancel.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1334,6 +1341,7 @@ your password.
 .. |Sparkasse Jena| image:: /screenshots/sparkasse_jena.png
 .. |Sprint| image:: /screenshots/sprint.png
 .. |SBI| image:: /screenshots/sbi.png
+.. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
 .. |Techcombank| image:: /screenshots/techcombank.png
