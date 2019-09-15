@@ -595,6 +595,16 @@ While not the dumbest password rule, still dumb.
 
 |LibraryThing|
 
+`Lowes <https://www.lowes.com/mylowes/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Be 8 to 12 characters in length
+- Include at least 1 letter and 1 number
+- Contain no spaces
+- Contain no more than 3 of the same consecutive characters
+
+|Lowes|
+
 `Maxpreps <http://www.maxpreps.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
@@ -1317,6 +1327,7 @@ your password.
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |LibraryThing| image:: /screenshots/librarything.png
+.. |Lowes| image:: /screenshots/lowes.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Maxpreps| image:: /screenshots/maxpreps.png
