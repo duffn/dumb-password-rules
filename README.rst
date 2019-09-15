@@ -707,6 +707,13 @@ maximum of 32 characters.
 
 |Mycanal|
 
+`MySwissLife <https://myswisslife.fr/#/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User ID *has to* be 8 characters exactly, password *has to be* 8 characters and numbers only.
+
+|MySwisslife|
+
 `NBank <https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
