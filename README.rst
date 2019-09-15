@@ -277,6 +277,7 @@ Prevents spaces and a set list of characters, limits to 30 characters and can on
 * Can't use any special characters except ! # $ % + / = @ ~
 * Max length restriction (32 characters).
 * No runs of identical characters ("aaa") or sequential characters ("abc").
+* Password check is case-insensitive
 
 |Chase|
 
