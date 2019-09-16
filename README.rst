@@ -55,6 +55,14 @@ could use proper grammar in their rule list.
 - Between 8 to 12 characters
 - Should contain capital, lowercase letters and numbers
 
+|Aigues de Barcelona|
+
+`Aigües de Barcelona <https://www.aiguesdebarcelona.cat/oficinaenxarxa/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Between 6 to 10 characters
+- Only letters and numbers, without spaces
+
 |Air France|
 
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
@@ -1264,6 +1272,7 @@ your password.
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
+.. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
 .. |Air France| image:: /screenshots/airfrance.png
 .. |ameli.fr| image:: /screenshots/ameli.fr.png
 .. |American Express| image:: /screenshots/american-express.jpg
