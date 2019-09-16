@@ -1096,6 +1096,22 @@ Your password must be 6 characters long. You can't type, only select characters 
 
 |Unicaja|
 
++`United Parcel Service of America <https://www.ups.com/doapp/signup>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must:
+
+- Be between 7 and 26 characters long
+- Contain at least 1 lowercase character
+- Contain at least 1 uppercase character
+- Contain at least 1 number character
+- Contain one special character (!@#$%*)
+- NOT contain first or last name
+- NOT contain UPS user ID
+- NOT contain email address
+
+|United Parcel Service of America|
+
 `United States Postal Service <https://reg.usps.com/entreg/secure/ChangePasswordAction_input>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1384,6 +1400,7 @@ your password.
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |Unicaja| image:: /screenshots/unicaja.png
+.. |United Parcel Service of America| image:: /screenshots/ups.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
