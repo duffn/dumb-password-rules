@@ -1380,6 +1380,7 @@ your password.
 .. |SBI| image:: /screenshots/sbi.png
 .. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
+.. |Tangerine| image:: /screenshots/tangerine.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
