@@ -1078,6 +1078,13 @@ limited to a certain set.
 
 |MyWorkplace|
 
+`Thames Water <https://www.thameswater.co.uk/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Can only use the "special" characters on that very limited list, excluding symbols so exotic as an underscore, even. This is despite their own strength checker saying the password is strong.
+
+|ThamesWater|
+
 `Ticketmaster.de <https://www.ticketmaster.de/myAccount/editProfile>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
