@@ -1252,7 +1252,7 @@ Your password must be between 8 and 20 characters.
 `Westpac Live Online Banking <https://banking.westpac.com.au/secure/banking/administration/changepassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-6 characters [exactly].  no blanks, spaces or special characters.
+6 non-case sensitive characters [exactly].  no blanks, spaces or special characters.
 
 |Westpac Live Online Banking|
 
