@@ -622,6 +622,19 @@ While not the dumbest password rule, still dumb.
  can't sign in because her's lastname is offensive language for the website
 |Maxpreps|
 
+`ME Bank <https://ib.mebank.com.au/authR5/ib/login.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Must be all numerals.
+- Be 7 to 20 digits.
+- Cannot have the same number three times in a row.
+- Cannot have four ascending or descending numbers.
+- Cannot have the same number appear more than five times.
+- Cannot have pairs next to each other if the second pair is one number higher.
+- Cannot be the same as 8 previous ones.
+
+|ME Bank|
+
 `Merrill Lynch <https://www.benefits.ml.com/Core/User/ChangePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1340,6 +1353,7 @@ your password.
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
+.. |ME Bank| image:: /screenshots/me-bank.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Maxpreps| image:: /screenshots/maxpreps.png
