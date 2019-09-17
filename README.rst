@@ -577,6 +577,17 @@ Oh and also look we got pages **NOT TRANSLATED IN FRENCH** because duh.
 
 |Izly by Crous|
 
+`Lloyds Bank <https://online.lloydsbank.co.uk/personal/logon/login.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max 15 characters, min 8. You cannot use **ANY** special characters -
+alpha-numerics only. This amazingly terrible password policy combines
+with a known phrase (The "Memorable Information") of which you will be
+asked for a random 3 characters of if you get your password right.
+This phrase has similar alpha-numeric restrictions applied.
+
+|Lloyds|
+
 `Jitterbit <https://www.jitterbit.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1327,6 +1338,7 @@ your password.
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |LibraryThing| image:: /screenshots/librarything.png
+.. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
