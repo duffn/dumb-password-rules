@@ -55,7 +55,7 @@ could use proper grammar in their rule list.
 - Between 8 to 12 characters
 - Should contain capital, lowercase letters and numbers
 
-|Aigues de Barcelona|
+|Air France|
 
 `Aigües de Barcelona <https://www.aiguesdebarcelona.cat/oficinaenxarxa/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -63,7 +63,7 @@ could use proper grammar in their rule list.
 - Between 6 to 10 characters
 - Only letters and numbers, without spaces
 
-|Air France|
+|Aigues de Barcelona|
 
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
