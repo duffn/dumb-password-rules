@@ -316,7 +316,7 @@ characters long.
 `Commsec <https://www2.commsec.com.au/selfservice/resetpassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Another financial institution certainly storing passwords in plaintext.
+Another financial institution with short password requirements. They also block pasting in to the field, making it a pain to use a password manager.
 
 |Commsec|
 
