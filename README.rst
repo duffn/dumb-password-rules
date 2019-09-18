@@ -55,6 +55,14 @@ could use proper grammar in their rule list.
 - Between 8 to 12 characters
 - Should contain capital, lowercase letters and numbers
 
+|Aigues de Barcelona|
+
+`Aigües de Barcelona <https://www.aiguesdebarcelona.cat/oficinaenxarxa/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Between 6 to 10 characters
+- Only letters and numbers, without spaces
+
 |Air France|
 
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
@@ -308,7 +316,7 @@ characters long.
 `Commsec <https://www2.commsec.com.au/selfservice/resetpassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Another financial institution certainly storing passwords in plaintext.
+Another financial institution with short password requirements. They also block pasting in to the field, making it a pain to use a password manager.
 
 |Commsec|
 
@@ -577,6 +585,17 @@ Oh and also look we got pages **NOT TRANSLATED IN FRENCH** because duh.
 
 |Izly by Crous|
 
+`Lloyds Bank <https://online.lloydsbank.co.uk/personal/logon/login.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max 15 characters, min 8. You cannot use **ANY** special characters -
+alpha-numerics only. This amazingly terrible password policy combines
+with a known phrase (The "Memorable Information") of which you will be
+asked for a random 3 characters of if you get your password right.
+This phrase has similar alpha-numeric restrictions applied.
+
+|Lloyds|
+
 `Jitterbit <https://www.jitterbit.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -610,6 +629,19 @@ While not the dumbest password rule, still dumb.
 `Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
  can't sign in because her's lastname is offensive language for the website
 |Maxpreps|
+
+`ME Bank <https://ib.mebank.com.au/authR5/ib/login.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Must be all numerals.
+- Be 7 to 20 digits.
+- Cannot have the same number three times in a row.
+- Cannot have four ascending or descending numbers.
+- Cannot have the same number appear more than five times.
+- Cannot have pairs next to each other if the second pair is one number higher.
+- Cannot be the same as 8 previous ones.
+
+|ME Bank|
 
 `Merrill Lynch <https://www.benefits.ml.com/Core/User/ChangePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1046,6 +1078,13 @@ limited to a certain set.
 
 |MyWorkplace|
 
+`Thames Water <https://www.thameswater.co.uk/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Can only use the "special" characters on that very limited list, excluding symbols so exotic as an underscore, even. This is despite their own strength checker saying the password is strong.
+
+|ThamesWater|
+
 `Ticketmaster.de <https://www.ticketmaster.de/myAccount/editProfile>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1257,7 +1296,7 @@ Your password must be between 8 and 20 characters.
 `Westpac Live Online Banking <https://banking.westpac.com.au/secure/banking/administration/changepassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-6 characters [exactly].  no blanks, spaces or special characters.
+6 non-case sensitive characters [exactly].  no blanks, spaces or special characters.
 
 |Westpac Live Online Banking|
 
@@ -1280,6 +1319,7 @@ your password.
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
+.. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
 .. |Air France| image:: /screenshots/airfrance.png
 .. |ameli.fr| image:: /screenshots/ameli.fr.png
 .. |American Express| image:: /screenshots/american-express.jpg
@@ -1343,7 +1383,9 @@ your password.
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |LibraryThing| image:: /screenshots/librarything.png
+.. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
+.. |ME Bank| image:: /screenshots/me-bank.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Maxpreps| image:: /screenshots/maxpreps.png
@@ -1393,6 +1435,7 @@ your password.
 .. |T-Mobile| image:: /screenshots/tmobile.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
+.. |ThamesWater| image:: /screenshots/ThamesWater.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
 .. |TradeMe| image:: /screenshots/trademe.jpg
 .. |Treasury1| image:: /screenshots/treasury1.png
