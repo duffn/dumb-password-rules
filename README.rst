@@ -624,6 +624,15 @@ While not the dumbest password rule, still dumb.
 
 |Lowes|
 
+`MarketWatch <http://www.marketwatch.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Cannot be longer than 15 characters.
+- Must contain one number.
+- Cannot contain spaces, %, & or +.
+
+|MarketWatch|
+
 `Maxpreps <http://www.maxpreps.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `Natalie Weiner <https://twitter.com/natalieweiner/status/1034533245839450113?s=19>`__
@@ -1391,6 +1400,7 @@ your password.
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
+.. |MarketWatch| image:: /screenshots/marketwatch.png
 .. |ME Bank| image:: /screenshots/me-bank.png
 .. |MLB| image:: /screenshots/mlb.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
