@@ -1044,6 +1044,12 @@ password possible.
 
 |Synchrony Financial|
 
+`Tangerine <https://www.tangerine.ca>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your PIN can only contain numbers and must be between 4 and 6 numbers.
+|Tangerine|
+
 `T-Mobile <https://account.t-mobile.com/oauth2/v1/changePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1432,6 +1438,7 @@ your password.
 .. |SBI| image:: /screenshots/sbi.png
 .. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
+.. |Tangerine| image:: /screenshots/tangerine.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
