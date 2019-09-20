@@ -31,6 +31,17 @@ Restrict the inclusion of a % character.
 
 |Admiral|
 
+`Adobe <https://adobeid-na1.services.adobe.com/renga-idprovider/pages/create_account?client_id=adobedotcom2&callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fadobedotcom2%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fcc_redirect_router_page.html%253Forigin%253D%252Fca%252Fcreativecloud.html%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26scope%3Dcreative_cloud%252CAdobeID%252Copenid%252Cgnav%252Cread_organizations%252Cadditional_info.projectedProductContext%252Csao.ACOM_CLOUD_STORAGE%252Csao.stock%252Csao.cce_private%252Cadditional_info.roles&denied_callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fdenied%2Fadobedotcom2%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fcc_redirect_router_page.html%253Forigin%253D%252Fca%252Fcreativecloud.html%2523from_ims%253Dtrue%2526old_hash%253D%2526api%253Dauthorize%26response_type%3Dtoken&locale=en_US&relay=77650c05-e990-400b-a924-fc84fa9bf981&flow=true&flow_type=token&idp_flow_type=login&s_account=adbadobenonacdcprod%2Cadbims>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password needs to:
+
+- Include at least one number or symbol (Usual punctuation marks are allowed, as well as various symbols like: ^ = + $ # or @)
+- Include both lower and upper case latin characters (Allowed latin characters are A to Z and a to z).
+- Be at least 8 character long.
+
+|Adobe|
+
 `ADP <https://login.adp.nl/selfservice/private/passchange/#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1332,6 +1343,7 @@ your password.
 |Wells Fargo Identity Theft Protection|
 
 .. |Admiral| image:: /screenshots/admiral.png
+.. |Adobe| image:: /screenshots/adobe.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
 .. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
