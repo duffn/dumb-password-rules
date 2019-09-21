@@ -263,6 +263,24 @@ you can't use a password manager.
 
 |California DMV|
 
+`Canada Revenue Agency <https://cms-sgj.cra-arc.gc.ca/gol-ged/awsc/cms/registration/start>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password checklist:
+
+- 8 to 16 charcacters
+- At least 1 upper-case character
+- At least 1 lower-case character
+- At least 1 digit
+- No space
+- No accented characters
+- No special characters except: dot (.), dash (-), underscore (_), and apostrophe (')
+- No more than 4 consequetive identical characters
+
+
+
+
+
 
 `CenturyLink <https://eam.centurylink.com/eam/login.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
