@@ -277,7 +277,7 @@ Password checklist:
 - No special characters except: dot (.), dash (-), underscore (_), and apostrophe (')
 - No more than 4 consequetive identical characters
 
-
+|Canada Revenue Agency|
 
 
 
@@ -1378,6 +1378,7 @@ your password.
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
+.. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CIBC| image:: /screenshots/CIBC.png
 .. |Chase| image:: /screenshots/chase.jpg
