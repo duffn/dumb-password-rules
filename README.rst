@@ -789,7 +789,7 @@ User ID *has to* contain special characters, password *may not* contain (basical
 
 Password length must be 8 to 20 characters long with lower case characters and numbers only.
 
-|Nevada DMV|
+|Omnivox|
 
 `Nevada DMV <https://dmvnv.com/onlineservices.htm>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -800,7 +800,7 @@ Password length must be 8 to 20 characters long with lower case characters and n
 - Password must contain one of the following special characters: @ # $
 - Password is not case sensitive
 
-|Omnivox|
+|Nevada DMV|
 
 `Oracle <https://profile.oracle.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
