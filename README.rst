@@ -229,13 +229,6 @@ information.
 
 |Blue Cross Blue Shield Massachusetts|
 
-`BMO Bank of Montreal <https://www12.bmo.com/onlinebanking/OLB/ppr/cmp>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Password must be exactly 6 characters long and no special character.
-
-|BMO Bank of Montreal|
-
 `BMW ConnectedDrive <https://www.bmw-connecteddrive.co.uk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1375,7 +1368,6 @@ your password.
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
-.. |BMO Bank of Montreal| image:: /screenshots/bmo.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
