@@ -618,6 +618,18 @@ While not the dumbest password rule, still dumb.
 
 |Jitterbit|
 
+`Keimyung University <https://sso.kmu.ac.kr/kmusso/ext/edward/login_form.do/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Okay, doesn't looks that hard... But wait, there are hidden rules!
+
+    Hidden rules: your password can't have 3 times the same character in a row or more than 2 consecutive numbers.
+    Also if your password is 20 characters or more you won't be able to write it in the mobile app.
+
+|Keimyung1|
+|Keimyung2|
+|Keimyung3|
+
 `LibraryThing <https://www.librarything.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1408,6 +1420,9 @@ your password.
 .. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
+.. |Keimyung1| image:: /screenshots/keimyung1.png
+.. |Keimyung2| image:: /screenshots/keimyung2.png
+.. |Keimyung3| image:: /screenshots/keimyung3.png
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
