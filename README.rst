@@ -1123,6 +1123,16 @@ Can only use the "special" characters on that very limited list, excluding symbo
 
 |ThamesWater|
 
+`Three <https://www.three.co.uk>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be at least 7 characters long.
+The maximum length is inconsistent, however: when changing password, the maximum length is 30, but when resetting password via email link, the maximum length is 12.
+
+|Three-Change|
+
+|Three-Reset|
+
 `Ticketmaster.de <https://www.ticketmaster.de/myAccount/editProfile>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1479,6 +1489,8 @@ your password.
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |ThamesWater| image:: /screenshots/ThamesWater.png
+.. |Three-Change| image:: /screenshots/three-change.png
+.. |Three-Reset| image:: /screenshots/three-reset.png
 .. |Ticketmaster.de| image:: /screenshots/ticketmaster-de.png
 .. |TradeMe| image:: /screenshots/trademe.jpg
 .. |Treasury1| image:: /screenshots/treasury1.png
