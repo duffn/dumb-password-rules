@@ -578,6 +578,28 @@ the other ones.
 
 |Intel|
 
+`Interactive Brokers <https://ndcdyn.interactivebrokers.com/Universal/servlet/Application.ApplicationSelector>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Usual dumb password restrictions, but this one has incredibly dumb **username**
+restrictions too:
+
+**Username:**
+
+- **Length of 8 or 9 letters and numbers**
+- **Contain at least 3 letters and 3 numbers**
+- Begin with a letter
+- Lower case only, no spaces, no special characters
+
+**Password:**
+
+- Cannot match username
+- Length of 8 to 40 characters
+- Contain at least 1 letter
+- Contain at least 1 number
+- Case sensitive, **no spaces, no special characters**
+
+|Interactive Brokers|
 
 `Izly by Crous <https://mon-espace.izly.fr/Home/Logon>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1425,6 +1447,7 @@ your password.
 .. |Hetzner| image:: /screenshots/hetzner.png
 .. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
+.. |Interactive Brokers| image:: /screenshots/interactive_brokers.png
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Australia| image:: /screenshots/ingaustralia.png
 .. |ING Romania| image:: /screenshots/ingromania.jpg
