@@ -187,6 +187,16 @@ For a bank account with all your money in one of the largest financial instituti
 
 |BBVA|
 
+`BCV <https://www.bcv.ch/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Username is a random generated one like 'H2487414' and your password must have **6** digits only.
+
+Password can only be changed from the mobile application:
+
+|BCV Web|
+|BCV Mobile|
+
 `Bendigo Bank <https://banking.bendigobank.com.au/Logon/passwd.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1425,6 +1435,8 @@ your password.
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
 .. |BBVA| image:: /screenshots/bbva.png
+.. |BCV Mobile| image:: /screenshots/bcv_mobile_password.png
+.. |BCV Web| image:: /screenshots/bcv_web.png
 .. |BDO| image:: /screenshots/bdo.png
 .. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
