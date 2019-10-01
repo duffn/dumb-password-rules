@@ -190,7 +190,7 @@ For a bank account with all your money in one of the largest financial instituti
 `BCV <https://www.bcv.ch/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Username is a random generated one like 'H2487414' and your password must have **6** digits only.
+Username is randomly generated, example: 'H2487414'. The password must have **6** digits only.
 
 Password can only be changed from the mobile application:
 
