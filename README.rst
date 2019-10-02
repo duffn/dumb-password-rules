@@ -549,6 +549,12 @@ You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
 
 |Hetzner|
 
+`IHG <https://www.ihg.com/rewardsclub/us/en/join/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4, yes 4, digits only.
+
+|IHG|
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1516,6 +1522,7 @@ your password.
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
+.. |IHG| image:: /screenshots/ihg.png
 .. |Inria| image:: /screenshots/inria.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |Interactive Brokers| image:: /screenshots/interactive_brokers.png
