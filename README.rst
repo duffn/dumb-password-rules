@@ -187,6 +187,16 @@ For a bank account with all your money in one of the largest financial instituti
 
 |BBVA|
 
+`BCV <https://www.bcv.ch/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Username is randomly generated, example: 'H2487414'. The password must have **6** digits only.
+
+Password can only be changed from the mobile application:
+
+|BCV Web|
+|BCV Mobile|
+
 `Bendigo Bank <https://banking.bendigobank.com.au/Logon/passwd.page>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -430,8 +440,8 @@ letter, at least 1 uppercase letter, at least 1 number and at least 1
 `EllieMae Access <https://access.elliemae.com/home>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Must reset password every 6 months and password requirements are not displayed _anywhere_. 
-Reset uses a Security Question, and you have to choose from a list of 5. 
+Must reset password every 6 months and password requirements are not displayed _anywhere_.
+Reset uses a Security Question, and you have to choose from a list of 5.
 
 |EllieMae1|
 |EllieMae2|
@@ -1425,6 +1435,8 @@ your password.
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
 .. |BBVA| image:: /screenshots/bbva.png
+.. |BCV Mobile| image:: /screenshots/bcv_mobile_password.png
+.. |BCV Web| image:: /screenshots/bcv_web.png
 .. |BDO| image:: /screenshots/bdo.png
 .. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
