@@ -374,6 +374,13 @@ I wonder if they cooperate with NSA to enforce the password rules.
 
 |Copyright.gov|
 
+`Coventry Building Society <https://www.coventrybuildingsociety.co.uk/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password has to be between 6 and 10 characters, can't contain any punctuation and you have to give characters from it on the phone to confirm identity.
+
+|Coventry Building Society|
+
 `DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1509,6 +1516,7 @@ your password.
 .. |Commsec| image:: /screenshots/commsec.png
 .. |Copart| image:: /screenshots/copart.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
