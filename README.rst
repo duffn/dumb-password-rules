@@ -132,9 +132,10 @@ one of the most common special characters!
 `Apple <https://apple.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Can't contain 3 or more consecutive identical characters.
+Can't contain 3 or more consecutive identical characters, nor can it be more than 32 characters long.
 
-|Apple|
+|Apple1|
+|Apple2|
 
 `Arbeitnehmeronline <https://www.arbeitnehmeronline.de>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1468,7 +1469,8 @@ your password.
 .. |AmiAmi| image:: /screenshots/amiami.jpg
 .. |ANZBank| image:: /screenshots/anz_bank.png
 .. |AOL| image:: /screenshots/aol.png
-.. |Apple| image:: /screenshots/apple.jpg
+.. |Apple1| image:: /screenshots/apple1.jpg
+.. |Apple2| image:: /screenshots/apple2.png
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |ATT| image:: /screenshots/att.png
