@@ -1131,6 +1131,24 @@ We prefer to not tell you which characters you can use up front.
 
 |T-Mobile|
 
+`Taiwan Pingtung University <https://webap.nptu.edu.tw/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must:
+
+- Be between 8 ~ 15 characters long.
+    - Exceeding 15 will result in an account lockout instead of 
+    erroring on submit. Otherwise, the max character 
+    length should be 20.
+- Contains at least 1 number character
+- Contains at least 1 lowercase character
+- Contains at least 1 uppercase character
+- NOT contain any special character
+    - This rule is not listed on the official page; however, 
+    attempting to use a special character will result in an exception.
+
+|NPTU|
+
 `Techcombank <https://ib.techcombank.com.vn/servlet/BrowserServlet>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1533,6 +1551,7 @@ your password.
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |Tangerine| image:: /screenshots/tangerine.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
+.. |NPTU| image:: /screenshots/nptu.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |ThamesWater| image:: /screenshots/ThamesWater.png
