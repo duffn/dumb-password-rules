@@ -338,11 +338,7 @@ Copart: "The security of our members is extremely imporant to us."
 
 Also Copart: "We're gonna need you to keep your password between 5-10 characters."
 
-|Copart1|
-
-They have an undocumented password history rule too.
-
-|Copart2|
+|Copart|
 
 `Copyright.gov <https://www.copyright.gov/eco/help-password-userid.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1455,8 +1451,7 @@ your password.
 .. |Chegg3| image:: /screenshots/chegg3.png
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Commsec| image:: /screenshots/commsec.png
-.. |Copart1| image:: /screenshots/copart-1.png
-.. |Copart2| image:: /screenshots/copart-2.png
+.. |Copart| image:: /screenshots/copart.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |DBS| image:: /screenshots/dbs.png
