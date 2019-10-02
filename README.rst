@@ -49,6 +49,14 @@ could use proper grammar in their rule list.
 
 |Advanzia|
 
+`Air Asia <https://www.airasia.com/member/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Only allows 16 characters in the password input, but does not tell you that.
+Why is your password invalid? It's up to you to find out!
+
+|Air Asia|
+
 `Air France <https://www.airfrance.fr/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1446,6 +1454,7 @@ your password.
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
 .. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
+.. |Air Asia| image:: /screenshots/airaisa.png
 .. |Air France| image:: /screenshots/airfrance.png
 .. |ameli.fr| image:: /screenshots/ameli.fr.png
 .. |American Express| image:: /screenshots/american-express.jpg
