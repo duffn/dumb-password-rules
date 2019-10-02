@@ -152,6 +152,14 @@ The only special characters allowed are underscores and hyphens.
 
 |ATT|
 
+`Bank of America <https://secure.bankofamerica.com/auth/forgot/reset-entry/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+20 character max and lots of special character restrictions.
+Bank of America - keeping your money safe.
+
+|Bank of America|
+
 `Banco Mercantil <https://www.mercantilbanco.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1431,6 +1439,7 @@ your password.
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |ATT| image:: /screenshots/att.png
+.. |Bank of America| image:: /screenshots/boa.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
