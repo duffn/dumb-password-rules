@@ -990,6 +990,18 @@ A maximum password length of 12. The hidden requirements are:
 
 |Rediff|
 
+`Rogers <https://rogers.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I can only use 4 special characters?
+
+Password guidelines
+
+- Your password should be between 8-20 characters and have at least one number and one letter.
+- The following special characters are allowed: ! @ # $
+
+|Rogers|
+
 `Roll 20 <https://app.roll20.net/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1588,6 +1600,7 @@ your password.
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
+.. |Rogers| image:: /screenshots/rogers.png
 .. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
