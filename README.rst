@@ -818,7 +818,7 @@ necessarily tell you which ones.
 
 `Minecraft <https://my.minecraft.net>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Using a 16 letter password seems to work. Everything else above does not always work.
+Using a 16 character password seems to work. Everything else above does not always work.
 Also, passwords that are too long are still changed, so you have to reset them by email.
 
 |Minecraft|
