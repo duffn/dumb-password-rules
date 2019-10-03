@@ -1536,6 +1536,7 @@ your password.
 .. |Apple2| image:: /screenshots/apple2.png
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
 .. |Arlo| image:: /screenshots/arlo.png
+.. |asnbank| image:: /screenshots/asnbank.png
 .. |ATT| image:: /screenshots/att.png
 .. |Bank of America| image:: /screenshots/boa.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
