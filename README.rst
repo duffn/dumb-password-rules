@@ -161,6 +161,14 @@ The only special characters allowed are underscores and hyphens.
 
 |ATT|
 
+`AWS <https://us-east-1.signin.aws.amazon.com/changepassword>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Confusing description about why you cannot enter certain password.
+Also, you have to guess which password password policy was set by the admin.
+
+|AWS|
+
 `Bank of America <https://secure.bankofamerica.com/auth/forgot/reset-entry/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -330,7 +338,7 @@ Prevents spaces and a set list of characters, limits to 30 characters and can on
 `Chegg <https://www.chegg.com/auth?action=signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Here are the (only fairly poor) rules for a new password. Enter 64 character password that matches all the rules (notice no rules on maximum length). That password you entered looks good! But we didn't change it. And your old password doesn't work. Or the new one. ¯\\\_(ツ)\_/¯
+Here are the (only fairly poor) rules for a new password. Enter 64 character password that matches all the rules (notice no rules on maximum length). That password you entered looks good! But we didn't change it. And your old password doesn't work. Or the new one. ¯\\\_(?)\_/¯
 
 |Chegg1|
 |Chegg2|
@@ -1499,6 +1507,7 @@ your password.
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |ATT| image:: /screenshots/att.png
+.. |AWS| image:: /screenshots/aws.png
 .. |Bank of America| image:: /screenshots/boa.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
