@@ -165,7 +165,7 @@ The only special characters allowed are underscores and hyphens.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Confusing description about why you cannot enter certain password.
-Also, you have to guess which password password policy was set by the admin.
+Also, you have to guess which password policy was set by the admin.
 
 |AWS|
 
