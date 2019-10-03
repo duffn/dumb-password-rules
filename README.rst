@@ -630,6 +630,16 @@ the other ones.
 
 |Inria|
 
+`INSS (Instituto Nacional do Seguro Social) <https://www.inss.gov.br/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The National Social Security Institute (INSS) is an autarchy of the Government of Brazil linked to the Ministry of Economy that receives the contributions for the maintenance of the General Social Security System, responsible for the payment of pensions, maternity pay, death pay, sickness pay, accident pay, seclusion pay and other benefits for those who acquire the right to these benefits as provided by law. The INSS works with Dataprev, a technology company that processes all Social Security data. But:
+
+- Special characters is not required
+- Exact 9 digits
+- At least 1 lowercase, 1 uppercase letter and a 1 number
+
+|INSS|
 
 `Intel <https://www-ssl.intel.com/content/www/uk/en/my-intel/reseller-sign-in-help.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1185,14 +1195,14 @@ We prefer to not tell you which characters you can use up front.
 Password must:
 
 - Be between 8 ~ 15 characters long.
-    - Exceeding 15 will result in an account lockout instead of 
-    erroring on submit. Otherwise, the max character 
+    - Exceeding 15 will result in an account lockout instead of
+    erroring on submit. Otherwise, the max character
     length should be 20.
 - Contains at least 1 number character
 - Contains at least 1 lowercase character
 - Contains at least 1 uppercase character
 - NOT contain any special character
-    - This rule is not listed on the official page; however, 
+    - This rule is not listed on the official page; however,
     attempting to use a special character will result in an exception.
 
 |NPTU|
@@ -1543,6 +1553,7 @@ your password.
 .. |Hetzner| image:: /screenshots/hetzner.png
 .. |IHG| image:: /screenshots/ihg.png
 .. |Inria| image:: /screenshots/inria.png
+.. |INSS| image:: /screenshots/inss.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |Interactive Brokers| image:: /screenshots/interactive_brokers.png
 .. |ING Bank| image:: /screenshots/ingbank.png
