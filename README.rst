@@ -565,6 +565,14 @@ You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
 
 |Hetzner|
 
+`IBM <https://www.ibm.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password cannot be longer then 31 characters.
+Spaces, ?, ../, curly braces and double byte character not allowed
+
+|IBM|
+
 `IHG <https://www.ihg.com/rewardsclub/us/en/join/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1551,6 +1559,7 @@ your password.
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
+.. |IBM| image:: /screenshots/ibm.png
 .. |IHG| image:: /screenshots/ihg.png
 .. |Inria| image:: /screenshots/inria.png
 .. |INSS| image:: /screenshots/inss.png
