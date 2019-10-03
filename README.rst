@@ -381,6 +381,16 @@ Password has to be between 6 and 10 characters, can't contain any punctuation an
 
 |Coventry Building Society|
 
+`CVent <https://www.cvent.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password Rules
+
+- 8 to 20 characters with at least 1 number and 1 letter.
+- No symbols or spaces.
+
+|CVent|
+
 `DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1548,6 +1558,7 @@ your password.
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
+.. |CVent| image:: /screenshots/cvent.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
