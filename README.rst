@@ -154,6 +154,14 @@ match.
 
 |Arlo|
 
+
+`ASN Bank <https://www.asnbank.nl/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password needs to be between 8 and 20 characters long - at least 1 number, 1 lower case letter, 1 upper case letter, 1 special character.
+
+|ASNBank|
+
 `AT&T <https://www.att.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
