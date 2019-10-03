@@ -816,6 +816,14 @@ necessarily tell you which ones.
 | |Mindware|
 | |Mindware|
 
+`Minecraft <https://my.minecraft.net>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Using a 16 character password seems to work. Everything else above does not always work.
+Also, passwords that are too long are still changed, so you have to reset them by email.
+
+|Minecraft|
+
+
 `MKB NetBankár <https://www.mkbnetbankar.hu/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1574,6 +1582,7 @@ your password.
 .. |Maxpreps| image:: /screenshots/maxpreps.png
 .. |MetLife| image:: /screenshots/metlife.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
+.. |Minecraft| image:: /screenshots/Minecraft.png
 .. |Mindware| image:: /screenshots/mindware1.png
 .. |Mindware2| image:: /screenshots/mindware2.png
 .. |MKB NetBankár| image:: /screenshots/mkb.png
