@@ -357,7 +357,13 @@ Letters and numbers only, no symbols. Also an undocumented maximum of 12 charact
 Your password should be difficult to guess as long as it's not over 16
 characters long.
 
-|Comcast|
+`Cigna <https://my.cigna.com/web/secure/my/profile/change-password>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A max of 12 characters... Can't handle most symbols (only 5 supported). At least they have two factor auth via email or sms * *sigh* *
+
+
+|Cigna|
 
 `Commsec <https://www2.commsec.com.au/selfservice/resetpassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1565,6 +1571,7 @@ your password.
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CIBC| image:: /screenshots/CIBC.png
+.. |Cigna| image:: /screenshots/my.cigna.com.png
 .. |Chase| image:: /screenshots/chase.jpg
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
