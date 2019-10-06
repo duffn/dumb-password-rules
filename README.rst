@@ -395,6 +395,13 @@ Password has to be between 6 and 10 characters, can't contain any punctuation an
 
 |Coventry Building Society|
 
+`Crédit Agricole Centre-Est <https://www.ca-centrest.fr>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You have to enter your 6-digit password using this Frenchy keypad.
+
+|ca-centrest.fr|
+
 `CVent <https://www.cvent.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1582,6 +1589,7 @@ your password.
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
+.. |ca-centrest.fr| image:: /screenshots/ca-centrest.png
 .. |CVent| image:: /screenshots/cvent.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
