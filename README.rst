@@ -752,6 +752,14 @@ Okay, doesn't looks that hard... But wait, there are hidden rules!
 |Keimyung2|
 |Keimyung3|
 
+`LCL <https://www.lcl.fr>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You have to enter your 6-digit password using this Frenchy keypad.
+
+|lcl.fr|
+
+
 `LibraryThing <https://www.librarything.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1620,6 +1628,7 @@ your password.
 .. |Keimyung1| image:: /screenshots/keimyung1.png
 .. |Keimyung2| image:: /screenshots/keimyung2.png
 .. |Keimyung3| image:: /screenshots/keimyung3.png
+.. |lcl.fr| image:: /screenshots/lcl.png
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
