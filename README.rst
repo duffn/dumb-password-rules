@@ -282,6 +282,13 @@ with the digits in the wrong order.
 
 |Boursorama|
 
+`CAF (French Family Allowance Fund) <https://www.caf.fr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You have to enter your 8-digit password using this Frenchy keypad.
+
+|caf.fr|
+
 `California Department of Motor Vehicles <https://www.dmv.ca.gov/FIM/sps/uscfed/usc/self/account/create>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1567,6 +1574,7 @@ your password.
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
+.. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
