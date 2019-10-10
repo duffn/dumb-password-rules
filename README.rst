@@ -1210,6 +1210,16 @@ like:
 -  Commom combinations like 123ab or 55555
 -  Full or parts of your login credentials
 
+They also have this Android app for 2FA (called Push-TAN), but the rules are
+diffrent:
+
+|push-tan|
+
+- At least 8 characters
+- At least one digit
+- At least one special character
+- Upper- and lowercase letters
+
 `Sprint <https://mysprint.sprint.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1676,6 +1686,7 @@ your password.
 .. |PizzaHut-2| image:: /screenshots/pizzahut2.png
 .. |PizzaHut-3| image:: /screenshots/pizzahut3.png
 .. |PoleEmploi| image:: /screenshots/pole-emploi.png
+.. |push-tan| image:: /screenshots/push-tan.png
 .. |Premera| image:: /screenshots/premera.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
