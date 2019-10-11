@@ -419,6 +419,17 @@ Password Rules
 
 |CVent|
 
+`CWT Business Travel Management Company <https://travel.mycwt.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password:
+- 8 to 32 characters long
+- Must contain a combination of letters, numbers and symbols
+- Must be different from your username
+- Must be different from 5 previous passwords
+
+|CWT|
+
 `DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1617,6 +1628,7 @@ your password.
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |ca-centrest.fr| image:: /screenshots/ca-centrest.png
 .. |CVent| image:: /screenshots/cvent.png
+.. |CWT| image:: /screenshots/cwt.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
