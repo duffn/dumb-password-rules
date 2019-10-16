@@ -1042,6 +1042,23 @@ Password must contain 8-30 characters, including one letter and one number.
 
 |Premera Blue Cross|
 
+`Progressive Home by Homesite <https://progressivedirect.homesite.com/OnlineServicing/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be a minimum of 8 characters. 
+Passwords must have one lowercase character.
+Passwords must have one uppercase character.
+Passwords must have one number.
+Passwords must have one special character in the following list: ``!'#$ ~`!@#$%^&*()-_+=?<,>.{}[]|;:``
+
+Furthermore, when resetting your password using this URL, it allows for up to 20 (i haven't tested past this) characters.
+
+https://progressivedirect.homesite.com/OnlineServicing/Welcome.aspx#RecoverPassword/CreateNewPassword
+
+However, when you log in, it only allows passwords up to 12 characters in length. So that newly created password will work once and only once.
+
+|Progressive Home by Homesite|
+
 `Raiffeisen Bank Serbia <https://rol.raiffeisenbank.rs/Retail/home/login/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1700,6 +1717,7 @@ your password.
 .. |PoleEmploi| image:: /screenshots/pole-emploi.png
 .. |push-tan| image:: /screenshots/push-tan.png
 .. |Premera| image:: /screenshots/premera.png
+.. |Progressive Home by Homesite| image:: /screenshots/progressive-homesite.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
