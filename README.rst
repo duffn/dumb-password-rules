@@ -1277,6 +1277,22 @@ password possible.
 Your PIN can only contain numbers and must be between 4 and 6 numbers.
 |Tangerine|
 
+`Targobank <https://www.targobank.de/de/banque/change_password/UA_Gestion_ChPw.aspx/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must:
+
+- must not be your username
+- must at least eight characters
+- must contain at least one number character
+- must contain at least one uppercase character and 1 lowercase character
+- must not contain spaces
+- must not contain three identical characters in a row
+- must not contain three consecutive characters
+- must not contain special characters or umlauts
+
+|Targobank|
+
 `T-Mobile <https://account.t-mobile.com/oauth2/v1/changePassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1723,6 +1739,7 @@ your password.
 .. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |Tangerine| image:: /screenshots/tangerine.png
+.. |Targobank| image:: /screenshots/targobank.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
 .. |NPTU| image:: /screenshots/nptu.png
 .. |Techcombank| image:: /screenshots/techcombank.png
