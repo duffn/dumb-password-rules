@@ -1016,6 +1016,14 @@ as characters.
 
 |Paytm|
 
+`PCPartPicker <https://pcpartpicker.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There are no rules for passwords. Passwords can be any length (including one character)
+of any complexity. No password change confirmation emails are sent.
+
+|PCPartPicker|
+
 `PizzaHut <https://www.pizzahut.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1727,6 +1735,7 @@ your password.
 .. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
+.. |PCPartPicker| image:: /screenshots/pcpartpicker.png
 .. |PizzaHut-1| image:: /screenshots/pizzahut1.png
 .. |PizzaHut-2| image:: /screenshots/pizzahut2.png
 .. |PizzaHut-3| image:: /screenshots/pizzahut3.png
