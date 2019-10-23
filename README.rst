@@ -1053,7 +1053,7 @@ Password must contain 8-30 characters, including one letter and one number.
 `Progressive Home by Homesite <https://progressivedirect.homesite.com/OnlineServicing/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password must be a minimum of 8 characters. 
+Password must be a minimum of 8 characters.
 Passwords must have one lowercase character.
 Passwords must have one uppercase character.
 Passwords must have one number.
@@ -1618,6 +1618,14 @@ your password.
 
 |Wells Fargo Identity Theft Protection|
 
+Xfinity Modem
+~~~~~~~~~~~~~~
+
+Only letters and numbers are valid. No spaces or special characters.
+Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
+
+|Xfinity Modem|
+
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
@@ -1803,3 +1811,4 @@ your password.
 .. |Westpac Live Online Banking| image:: /screenshots/westpac.png
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
+.. |Xfinity Modem| image:: /screenshots/xfinity-modem.png
