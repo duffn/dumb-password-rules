@@ -273,6 +273,13 @@ shown in the prompt
 
 |BMW ConnectedDrive|
 
+`Boligøen (Danish resident renting bureau) <https://boligøen.dk/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Red text: "Your password has to be at least 8 characters, but NOT over 20 characters."
+
+|Boligøen|
+
 `Boursorama <https://www.boursorama.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1650,6 +1657,7 @@ your password.
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
+.. |Boligøen| image:: /screenshots/boligoen.png
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
