@@ -1657,7 +1657,7 @@ your password.
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
-.. |Boligøen| image:: /screenshots/boligoen.png
+.. |Boligøen| image:: /screenshots/boligoen.jpg
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
