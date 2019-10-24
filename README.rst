@@ -276,7 +276,7 @@ shown in the prompt
 `Boligøen (Danish resident renting bureau) <https://boligøen.dk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Red text: "Your password has to be at least 8 characters, but NOT over 20 characters."
+Red text: "Your password has to be at least 6 characters, but NOT over 20 characters."
 
 |Boligøen|
 
