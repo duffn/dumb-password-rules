@@ -177,6 +177,18 @@ Bank of America - keeping your money safe.
 
 |Bank of America|
 
+`Banca Intesa Serbia <https://online.bancaintesa.rs/Retail/home/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Online banking portal of Banca Intesa Serbia has some password restrictions.
+This is the translation of the requirements:
+No special characters, minimum number of characters is 8, maximum number of
+characters is 22, minimum number of upper case letters is 1, lower case also 1,
+numeric characters is 2, first character must be a upper or lower case letter
+and maximum number of character repeats is 2.
+
+|Banca Intesa Serbia|
+
 `Banco Mercantil <https://www.mercantilbanco.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1637,6 +1649,7 @@ your password.
 .. |asnbank| image:: /screenshots/asnbank.png
 .. |ATT| image:: /screenshots/att.png
 .. |Bank of America| image:: /screenshots/boa.png
+.. |Banca Intesa Serbia| image:: /screenshots/banca_intesa_serbia.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Battle.net| image:: /screenshots/battlenet.png
