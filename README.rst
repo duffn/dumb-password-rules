@@ -326,7 +326,13 @@ Password checklist:
 
 |Canada Revenue Agency|
 
+`Capital One <https://myaccounts.capitalone.com/security/changePassword>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- May only use the following characters: Aa-Zz 0-9 - _ . / \\ @ $ * & ! #
+- No spaces
+
+|Capital One|
 
 
 `CenturyLink <https://eam.centurylink.com/eam/login.do>`__
@@ -1675,6 +1681,7 @@ Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
 .. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
+.. |Capital One| image:: /screenshots/capitalone.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CIBC| image:: /screenshots/CIBC.png
 .. |Cigna| image:: /screenshots/my.cigna.com.png
