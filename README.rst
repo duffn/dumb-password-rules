@@ -285,6 +285,13 @@ shown in the prompt
 
 |BMW ConnectedDrive|
 
+`Boligøen (Danish resident renting bureau) <https://boligøen.dk/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Red text: "Your password has to be at least 6 characters, but NOT over 20 characters."
+
+|Boligøen|
+
 `Boursorama <https://www.boursorama.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1679,6 +1686,7 @@ Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
+.. |Boligøen| image:: /screenshots/boligoen.jpg
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
