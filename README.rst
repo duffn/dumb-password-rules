@@ -989,6 +989,13 @@ Password length must be 8 to 20 characters long with lower case characters and n
 
 |Nevada DMV|
 
+`NVV (Nordhessische VerkehrsVerbund) <https://nvv.mobilesticket.de/ticketportal/register.jsf>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+|NVV|
+
+Password length must be 4 to 10 characters with only a few special characters allowed.
+
 `Oracle <https://profile.oracle.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1765,6 +1772,7 @@ Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
+.. |NVV| image:: /screenshots/nvv.png
 .. |Omnivox| image:: /screenshots/omnivox.png
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
