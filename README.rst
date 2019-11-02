@@ -1189,6 +1189,7 @@ Passwords limited to 8-12 characters.
 |Safeway|
 
 `Sears <https://www.sears.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 "cAsE sensitive, no spaces, ! or ?
 8 characters min - 1 letter, 1 number
@@ -1196,6 +1197,14 @@ Can't repeat same character more than 3 times in a row
 Cannot be or contain your username or email address"
 
 |Sears|
+
+`Sharekhan <https://www.sharekhan.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- At least 8 characters.
+- At most 12 characters.
+
+|Sharekhan|
 
 `Singapore Airlines <https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1805,6 +1814,7 @@ Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Sears| image:: /screenshots/sears.png
+.. |Sharekhan| image:: /screenshots/sharekhan.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
