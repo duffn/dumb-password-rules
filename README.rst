@@ -1660,6 +1660,17 @@ Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
 
 |Xfinity Modem|
 
+`Zurich <https://www.zurichlife.ie/bgsi/log_on/password.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be EXACTLY 8 characters long.
+Alpha numeric characters ONLY.
+The first character must be alphabetic.
+NO spaces.
+The new Password cannot be the same as the last 32 passwords you have used. (they actually store your last 32 passwords)
+
+|Zurich|
+
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
@@ -1850,3 +1861,4 @@ Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
 .. |Williams-Sonoma| image:: /screenshots/williams-sonoma.png
 .. |Wells Fargo Identity Theft Protection| image:: /screenshots/wells-fargo-identity-theft-protection.png
 .. |Xfinity Modem| image:: /screenshots/xfinity-modem.png
+.. |Zurich| image:: /screenshots/zurich.png
