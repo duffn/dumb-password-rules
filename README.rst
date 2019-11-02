@@ -1165,6 +1165,13 @@ Cannot be or contain your username or email address"
 
 |Sears|
 
+`Sharekhan <https://www.sharekhan.com/>`__
+
+- At least 8 characters.
+- At most 12 characters.
+
+|Sharekhan|
+
 `Singapore Airlines <https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1761,6 +1768,7 @@ your password.
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Sears| image:: /screenshots/sears.png
+.. |Sharekhan| image:: /screenshots/sharekhan.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
