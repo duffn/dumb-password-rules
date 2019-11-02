@@ -1157,6 +1157,7 @@ Passwords limited to 8-12 characters.
 |Safeway|
 
 `Sears <https://www.sears.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 "cAsE sensitive, no spaces, ! or ?
 8 characters min - 1 letter, 1 number
@@ -1166,6 +1167,7 @@ Cannot be or contain your username or email address"
 |Sears|
 
 `Sharekhan <https://www.sharekhan.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - At least 8 characters.
 - At most 12 characters.
