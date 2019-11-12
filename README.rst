@@ -394,8 +394,17 @@ characters long.
 
 A max of 12 characters... Can't handle most symbols (only 5 supported). At least they have two factor auth via email or sms * *sigh* *
 
-
 |Cigna|
+
+`Citi <https://www.citi.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Password is case-insensitive
+* Can't use ANY special characters (although, adding special characters increases the "password strength" meter?!)
+* Allows for a minimum password length of 6 characters
+* No runs of more than two identical characters (eg. "aaa" is not allowed.)
+
+|Citi|
 
 `Commsec <https://www2.commsec.com.au/selfservice/resetpassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1728,6 +1737,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CIBC| image:: /screenshots/CIBC.png
 .. |Cigna| image:: /screenshots/my.cigna.com.png
+.. |Citi| image:: /screenshots/citi.png
 .. |Chase| image:: /screenshots/chase.jpg
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
