@@ -986,12 +986,6 @@ User ID *has to* contain special characters, password *may not* contain (basical
 
 |NBank|
 
-`Omnivox <https://cegep-ste-foy.omnivox.ca/Login/Account/Login>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Password length must be 8 to 20 characters long with lower case characters and numbers only.
-
-|Omnivox|
 
 `Nevada DMV <https://dmvnv.com/onlineservices.htm>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1011,10 +1005,18 @@ Password length must be 8 to 20 characters long with lower case characters and n
 
 Password length must be 4 to 10 characters with only a few special characters allowed.
 
+`Omnivox <https://cegep-ste-foy.omnivox.ca/Login/Account/Login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password length must be 8 to 20 characters long with lower case characters and numbers only.
+
+|Omnivox|
+
 `Oracle <https://profile.oracle.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Should not* or *must not*? RFC 2119 may want a word with you.
+
 
 |Oracle|
 
@@ -1811,6 +1813,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |NVV| image:: /screenshots/nvv.png
 .. |Omnivox| image:: /screenshots/omnivox.png
+.. |Onleihe| image:: /screenshots/onleihe.png
 .. |Oracle| image:: /screenshots/oracle.png
 .. |Origin| image:: /screenshots/origin.png
 .. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
