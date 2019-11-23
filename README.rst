@@ -1012,6 +1012,15 @@ Password length must be 8 to 20 characters long with lower case characters and n
 
 |Omnivox|
 
+`Onleihe <https://www4.onleihe.de/essen/frontend/myBib,0-0-0-100-0-0-0-0-0-0-0.html>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password is your birthday in format ddmmyyyy. Users are not allowed to change their passwords
+
+|Onleihe|
+
+
+
 `Oracle <https://profile.oracle.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
