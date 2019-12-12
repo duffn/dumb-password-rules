@@ -1052,17 +1052,12 @@ four character range with a bunch of other stupid rules? Shocking.
 
 |Parnassus|
 
-`PayPal <https://www.paypal.com/myaccount/settings/password/edit/>`__
+`PayPal <https://www.paypal.com/welcome/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We'll tell you not to use your name as your password, but we won't tell
-you how we restrict your password choice otherwise.
+Must be between 8 and 20 characters, no spaces, uppercase and lowercase, one symbol...
 
 |PayPal|
-
-Must be between 8 and 20 characters, no spaces, uppercase and lowercase, one symbol
-
-|PayPalNewPassword|
 
 `Paytm <https://paytm.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
