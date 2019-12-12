@@ -1827,7 +1827,6 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
 .. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
-.. |PayPalNewPassword| image:: /screenshots/paypalnewpassword.png
 .. |Paytm| image:: /screenshots/paytm.png
 .. |PCPartPicker| image:: /screenshots/pcpartpicker.png
 .. |PizzaHut-1| image:: /screenshots/pizzahut1.png
