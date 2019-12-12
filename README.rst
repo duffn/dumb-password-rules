@@ -1060,6 +1060,10 @@ you how we restrict your password choice otherwise.
 
 |PayPal|
 
+Must be between 8 and 20 characters, no spaces, uppercase and lowercase, one symbol
+
+|PayPalNewPassword|
+
 `Paytm <https://paytm.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1828,6 +1832,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
 .. |Parnassus| image:: /screenshots/parnassus.png
 .. |PayPal| image:: /screenshots/paypal.png
+.. |PayPalNewPassword| image:: /screenshots/paypalnewpassword.png
 .. |Paytm| image:: /screenshots/paytm.png
 .. |PCPartPicker| image:: /screenshots/pcpartpicker.png
 .. |PizzaHut-1| image:: /screenshots/pizzahut1.png
