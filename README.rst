@@ -496,6 +496,15 @@ It's a good thing they don't store personal information such as your passport nu
 
 |Delta|
 
+`Discovery Benefits <https://benefitslogin.discoverybenefits.com/Login.aspx>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Requires at least one symbol, but must be one of `! @ # $ % & * ?`, and also
+has an unstated max length of 20 characters.
+
+|Discovery Benefits 1|
+|Discovery Benefits 2|
+
 `DJI <https://account.dji.com/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1765,6 +1774,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Dell| image:: /screenshots/dell.png
 .. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
 .. |Delta| image:: /screenshots/delta.jpg
+.. |Discovery Benefits 1| image:: /screenshots/discovery-benefits-1.png
+.. |Discovery Benefits 2| image:: /screenshots/discovery-benefits-2.png
 .. |DJI| image:: /screenshots/dji-drones.png
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
