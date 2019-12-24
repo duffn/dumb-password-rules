@@ -350,6 +350,14 @@ plus a weird restriction that makes random generation harder.
 
 |CenturyLink|
 
+`Credit Agricole <https://www.credit-agricole.fr/ca-paris/particulier/acceder-a-mes-comptes.html0>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Login is a predefined 11 digits long identifier that you can not change
+* Password is a 6 digits long identifier that you need to input using your mouse
+
+|Credit Agricole|
+
 `Charles Sturt University <https://www.csu.edu.au/division/dit/services/services/access-and-logins/password-management>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1766,6 +1774,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Copart| image:: /screenshots/copart.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
+.. |Credit Agricole| image:: /screenshots/ca-paris.png
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |ca-centrest.fr| image:: /screenshots/ca-centrest.png
 .. |CVent| image:: /screenshots/cvent.png
