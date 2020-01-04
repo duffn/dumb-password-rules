@@ -611,6 +611,13 @@ Must be exactly 6 alphanumeric characters, does not show special characters are 
 
 |Fundatec|
 
+`Gebührenfrei MasterCard <https://www.gebuhrenfrei.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The new password can only have 6-12 characters. It *may* contain letters, numbers and a fixed set of special characters.
+
+|Gebührenfrei MasterCard|
+
 `Getin Bank <https://secure.getinbank.pl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1799,6 +1806,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Fundatec| image:: /screenshots/fundatec.png
 .. |Getin Bank| image:: /screenshots/getin.png
+.. |Gebührenfrei MasterCard| image:: /screenshots/gebuhrenfrei-mastercard.png
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
