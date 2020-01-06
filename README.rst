@@ -1657,6 +1657,21 @@ confusion when the password wouldn't work.
 
 Your password length is limited between 6 and 12 characters.
 
+|Wageworks|
+
+`Wageworks <https://participant.wageworks.com/Home.aspx>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In addition to the following rules regarding passwords...
+
+- 8-20 characters in length
+- Include at least 4 of the following: lowercase letter, uppercase letter, number AND symbol
+- Not include your last name, first name or space
+
+Your new password should be different from your previous twenty passwords.
+
+Ok. _Password21!_, it is.
+
 |Walmart|
 
 `Waze <https://www.waze.com/forgot_password>`__
@@ -1918,6 +1933,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
+.. |WageWorks| image:: /screenshots/wageworks.png
 .. |Walmart| image:: /screenshots/walmart.png
 .. |Waze| image:: /screenshots/waze.png
 .. |WeatherBug| image:: /screenshots/weatherbug.png
