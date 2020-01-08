@@ -1674,6 +1674,21 @@ Ok. _Password21!_, it is.
 
 |Walmart|
 
+`Wageworks <https://participant.wageworks.com/Home.aspx>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In addition to the following rules regarding passwords...
+
+- 8-20 characters in length
+- Include at least 4 of the following: lowercase letter, uppercase letter, number AND symbol
+- Not include your last name, first name or space
+
+Your new password should be different from your previous twenty passwords.
+
+Ok. Password21!, it is.
+
+|Wageworks|
+
 `Waze <https://www.waze.com/forgot_password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
