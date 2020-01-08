@@ -1657,7 +1657,7 @@ confusion when the password wouldn't work.
 
 Your password length is limited between 6 and 12 characters.
 
-|Wageworks|
+|Walmart|
 
 `Wageworks <https://participant.wageworks.com/Home.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1670,9 +1670,9 @@ In addition to the following rules regarding passwords...
 
 Your new password should be different from your previous twenty passwords.
 
-Ok. _Password21!_, it is.
+Ok. Password21!, it is.
 
-|Walmart|
+|Wageworks|
 
 `Waze <https://www.waze.com/forgot_password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
