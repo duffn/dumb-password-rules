@@ -268,6 +268,13 @@ they lecture you on how to create a strong password.
 
 |Blackrock|
 
+`Bloomingdale's <https://www.bloomingdales.com/account/createaccount?cm_sp=my_account-_-sign_in-_-create_account>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+16 characters maximum, no ``.`` ``,`` ``-`` ``|`` ``/`` ``=`` or ``_`` allowed.
+
+|Bloomingdale's|
+
 `Blue Cross Blue Shield Massachusetts <https://www.bluecrossma.com/wps/portal/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1790,6 +1797,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
 .. |Blackrock| image:: /screenshots/blackrock.png
+.. |Bloomingdale's| image:: /screenshots/bloomingdales.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
 .. |Boligøen| image:: /screenshots/boligoen.jpg
