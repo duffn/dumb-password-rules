@@ -842,6 +842,13 @@ Okay, doesn't looks that hard... But wait, there are hidden rules!
 |Keimyung2|
 |Keimyung3|
 
+`Kryterion Webassessor <https://webassessor.com/googlecloud>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I was quite suprised to see this when I was registering for my Google Professional Cloud **Security** Engineer certification. Nice part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)  
+
+|Kryterion Webassessor|
+
 `LCL <https://www.lcl.fr>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1864,6 +1871,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Keimyung1| image:: /screenshots/keimyung1.png
 .. |Keimyung2| image:: /screenshots/keimyung2.png
 .. |Keimyung3| image:: /screenshots/keimyung3.png
+.. |Kryterion Webassessor| image:: /screenshots/webassessor.png
 .. |lcl.fr| image:: /screenshots/lcl.png
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
