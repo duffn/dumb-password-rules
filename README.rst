@@ -817,6 +817,13 @@ with a known phrase (The "Memorable Information") of which you will be
 asked for a random 3 characters of if you get your password right.
 This phrase has similar alpha-numeric restrictions applied.
 
+|Kryterion Webassessor|
+
+`Kryterion Webassessor <https://webassessor.com/googlecloud>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I was quite suprised to see this when I was registering for my [Professional Google Cloud **Security** Engineer certification](https://cloud.google.com/certification/cloud-security-engineer). Suspicious part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)  
+
 |Lloyds|
 
 `Jitterbit <https://www.jitterbit.com/>`__
