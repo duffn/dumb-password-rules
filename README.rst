@@ -845,7 +845,7 @@ Okay, doesn't looks that hard... But wait, there are hidden rules!
 `Kryterion Webassessor <https://webassessor.com/googlecloud>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I was quite suprised to see this when I was registering for my Google `Professional Cloud Security Engineer certification <https://cloud.google.com/certification/cloud-security-engineer>`. Suspicious part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)  
+I was quite suprised to see this when I was registering for my Google Professional Cloud **Security** Engineer certification. Nice part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)  
 
 |Kryterion Webassessor|
 
