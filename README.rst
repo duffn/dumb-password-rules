@@ -283,6 +283,13 @@ information.
 
 |Blue Cross Blue Shield Massachusetts|
 
+`BMO Bank of Montreal <https://www1.bmo.com/onlinebanking/cgi-bin/netbnx/NBmain?product=5>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password requires at least one special character but disallows backtick `````, backslash ``\``, vertical bar ``|``, and underscore ``_``.
+
+|BMO Bank of Montreal|
+
 `BMW ConnectedDrive <https://www.bmw-connecteddrive.co.uk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1817,6 +1824,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |Boursorama| image:: /screenshots/boursorama.png
 .. |Boligøen| image:: /screenshots/boligoen.jpg
+.. |BMO Bank of Montreal| image:: /screenshots/bmo.jpg
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
 .. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
