@@ -861,7 +861,7 @@ Okay, doesn't looks that hard... But wait, there are hidden rules!
 `Kryterion Webassessor <https://webassessor.com/googlecloud>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I was quite suprised to see this when I was registering for my Google Professional Cloud **Security** Engineer certification. Nice part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)  
+I was quite suprised to see this when I was registering for my Google Professional Cloud **Security** Engineer certification. Nice part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)
 
 |Kryterion Webassessor|
 
@@ -1666,6 +1666,14 @@ must be a letter.
 
 |Virgin Media|
 
+Feb 2020 Update: dumb password policy remains but now you have to guess
+the acceptable length/chars because the password policy has been removed
+from the page leaving users with helpful hints after JS validation.
+
+|Virgin Media Too Long|
+
+|Virgin Media Invalid|
+
 `Virgin Mobile <https://myaccount.virginmobileusa.com/primary/my-account-settings-change-pin>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1981,6 +1989,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Vietnam Airlines| image:: /screenshots/vietnamairlines.png
 .. |Viobank| image:: /screenshots/viobank.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
+.. |Virgin Media Too Long| image:: /screenshots/virginmediatoolong.png
+.. |Virgin Media Invalid| image:: /screenshots/virginmediainvalid.png
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |WageWorks| image:: /screenshots/wageworks.png
