@@ -1666,9 +1666,9 @@ must be a letter.
 
 |Virgin Media|
 
-Feb 2020 Update: dumb password policy remains but now you have to guess
-the acceptable length/chars because the password policy has been removed
-from the page leaving users with helpful hints after JS validation.
+Feb 2020 Update: policy remains the same but the description is hidden
+leaving you to guess the acceptable length/chars.  Users are now left
+with helpful hints after JS validation.
 
 |Virgin Media Too Long|
 
