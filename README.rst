@@ -583,6 +583,13 @@ letter, at least 1 uppercase letter, at least 1 number and at least 1
 
 |e-learning (Unipd)|
 
+`Electronic Arts (EA) <https://www.ea.com/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must be 8 - 16 characters, and include at least one lowercase letter, one uppercase letter, and a number.
+
+|Electronic Arts|
+
 `EllieMae Access <https://access.elliemae.com/home>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1867,6 +1874,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
+.. |Electronic Arts| image:: /screenshots/electronic-arts.png
 .. |EllieMae1| image:: /screenshots/elliemae1.png
 .. |EllieMae2| image:: /screenshots/elliemae2.png
 .. |EllieMae3| image:: /screenshots/elliemae3.png
