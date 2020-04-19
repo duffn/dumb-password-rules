@@ -671,6 +671,15 @@ Max 14 characters for the most important password in your shared hosting environ
 
 |GoDaddy SFTP|
 
+`GoFundMe <https://www.gofundme.com/sign-up>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- At least one uppercase and one lowercase letter
+- At least one number and one special symbol
+- Does not specify which characters are considered special symbols; did not recognize spaces as special symbols
+
+|GoFundMe|
+
 `Green Flag <https://www.greenflag.com//>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1888,6 +1897,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Global Entry| image:: /screenshots/global-entry.png
 .. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
+.. |GoFundMe| image:: /screenshots/gofundme.png
 .. |GreenFlag1| image:: /screenshots/green-flag-1.png
 .. |GreenFlag2| image:: /screenshots/green-flag-2.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
