@@ -992,6 +992,11 @@ Also, passwords that are too long are still changed, so you have to reset them b
 
 |Minecraft|
 
+`Minnesota Unemployment Insurance <https://uimn.org>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Locked to *exactly* 6 chars, alphanumeric only, not special chars.
+
+|Minnesota UI|
 
 `MKB NetBankár <https://www.mkbnetbankar.hu/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1929,6 +1934,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |MetLife| image:: /screenshots/metlife.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Minecraft| image:: /screenshots/Minecraft.png
+.. |Minnesota UI| image:: /screenshots/minnesota_ui.png
 .. |Mindware| image:: /screenshots/mindware1.png
 .. |Mindware2| image:: /screenshots/mindware2.png
 .. |MKB NetBankár| image:: /screenshots/mkb.png
