@@ -1064,7 +1064,11 @@ User ID *has to* contain special characters, password *may not* contain (basical
 `NBC (National Bank of Canada) <https://www.nbc.ca>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Password cannot contains spaces. Copy/paste is not allowed when trying to set a new password.
+- Password length must be 8 to 25 characters
+- Password must contain at least one lower letter (any position)
+- Password must contain at least one digit (any position)
+- Password cannot contain spaces. 
+- Copy/paste is not allowed when trying to set a new password
 
 |NationalBankOfCanada|
 
