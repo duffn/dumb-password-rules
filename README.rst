@@ -1071,6 +1071,15 @@ User ID *has to* contain special characters, password *may not* contain (basical
 - Copy/paste is not allowed when trying to set a new password
 
 |NationalBankOfCanada|
+`Nectar API <https://api.nectar.com/oauth/authorize>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Nectar website allows strong passwords.
+However, when trying to link my Sainsbury's account, I found the API has different ideas...
+
+- Password field length capped to 16 characters
+
+|NectarApi|
 
 `Nevada DMV <https://dmvnv.com/onlineservices.htm>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1954,6 +1963,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |NationalBankOfCanada| image:: /screenshots/nbc.png
+.. |NectarApi| image:: /screenshots/nectar-api.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |NVV| image:: /screenshots/nvv.png
 .. |Omnivox| image:: /screenshots/omnivox.png
