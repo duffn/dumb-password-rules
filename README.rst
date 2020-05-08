@@ -534,6 +534,14 @@ The symbol `\\` is banned without a notice, it'll probably escape whatever you'l
 
 |DJI|
 
+
+`Dnevnik.ru <https://login.dnevnik.ru/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Silently (sic!) trim password to 30 symbols.
+
+That causes the stupid case when you could successfully registrate an account with password length of 52 and can't login with the password.
+
 `Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
