@@ -542,6 +542,9 @@ Silently (sic!) trim password to 30 symbols.
 
 That causes the stupid case when you could successfully registrate an account with password length of 52 and can't login with the password.
 
+|dnevnik|
+
+
 `Dutch Tax Authorities (Belastingdienst) <https://www.belastingdienst.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1911,6 +1914,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Discovery Benefits 1| image:: /screenshots/discovery-benefits-1.png
 .. |Discovery Benefits 2| image:: /screenshots/discovery-benefits-2.png
 .. |DJI| image:: /screenshots/dji-drones.png
+.. |dnevnik| image:: /screenshots/dnevnik.png
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
