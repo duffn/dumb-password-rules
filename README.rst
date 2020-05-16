@@ -1484,6 +1484,13 @@ password possible.
 
 |Synchrony Financial|
 
+`Taco Bell <https://www.tacobell.com/login/pw/change?token=***>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password may include special characters, except for #.
+
+|Taco Bell|
+
 `Tangerine <https://www.tangerine.ca>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2034,6 +2041,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |SBI| image:: /screenshots/sbi.png
 .. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
+.. |Taco Bell| image:: /screenshots/taco-bell.png
 .. |Tangerine| image:: /screenshots/tangerine.png
 .. |Targobank| image:: /screenshots/targobank.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
