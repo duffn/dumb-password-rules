@@ -800,7 +800,7 @@ Passwords must be greater than 6 characters, and have an arbitrary set of rules 
 Password must contain 8-30 characters, including one letter and one number.
 "Special characters allowed" seems to mean a very small handful of choices you can only find through trial and error  ``-_'.@``
 
-|Premera Blue Cross|
+|Premera|
 
 `Raiffeisen Bank Serbia <https://rol.raiffeisenbank.rs/Retail/home/login/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~
