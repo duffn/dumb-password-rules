@@ -1080,6 +1080,14 @@ maximum of 32 characters.
 
 |Mycanal|
 
+`MySwissLife <https://myswisslife.fr/#/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+User ID *has to* be 8 characters exactly, password *has to be* 8 characters and numbers only.
+
+|myswisslife-1|
+|myswisslife-2|
+
 `NBank <https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1219,7 +1227,7 @@ forcing you to manually type your 32-letters-long generated password.
 Password must contain 8-30 characters, including one letter and one number.
 "Special characters allowed" seems to mean a very small handful of choices you can only find through trial and error  ``-_'.@``
 
-|Premera Blue Cross|
+|Premera|
 
 `Progressive Home by Homesite <https://progressivedirect.homesite.com/OnlineServicing/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1996,6 +2004,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |MobileIron| image:: /screenshots/mobileiron.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
+.. |myswisslife-1| image:: /screenshots/myswisslife-1.jpg
+.. |myswisslife-2| image:: /screenshots/myswisslife-2.jpg
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |NationalBankOfCanada| image:: /screenshots/nbc.png
 .. |NectarApi| image:: /screenshots/nectar-api.png
