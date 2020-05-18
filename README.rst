@@ -712,7 +712,8 @@ maximum of 32 characters.
 
 User ID *has to* be 8 characters exactly, password *has to be* 8 characters and numbers only.
 
-|MySwisslife|
+|myswisslife-1|
+|myswisslife-2|
 
 `NBank <https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1321,6 +1322,8 @@ your password.
 .. |MobileIron| image:: /screenshots/mobileiron.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
+.. |myswisslife-1| image:: /screenshots/myswisslife-1.jpg
+.. |myswisslife-2| image:: /screenshots/myswisslife-2.jpg
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |Omnivox| image:: /screenshots/omnivox.png
