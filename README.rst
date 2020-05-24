@@ -1705,6 +1705,8 @@ No warning. No error message.
 If you subsequently try to login with the untruncated password,
 it doesn't work.
 
+Passwords must be changed every 6 months.
+
 |University of Western Australia Pheme|
 
 |University of Western Australia Pheme inspector|
