@@ -1686,6 +1686,28 @@ presented in the `xkcd comic <https://xkcd.com/936/>`__ are allowed.
 
 |University of Texas as Austin|
 
+`University of Western Australia (Pheme) <https://www.pheme.uwa.edu.au/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords:
+
+1. Must contain at least 8 characters;
+2. Must contain at least 3 out of 4 types of characters
+   (uppercase, lowercase, digits, special characters);
+   and
+3. Must not contain
+   "the user's account name or parts of the user's full name
+   that exceed two consecutive characters".
+
+Also passwords are **silently truncated to 30 characters**
+(need to inspect element to see this).
+No warning. No error message.
+If you subsequently try to login with the untruncated password,
+it doesn't work.
+
+|University of Western Australia Pheme|
+|University of Western Australia Pheme inspector|
+
 `University of Windsor <https://uwindsor.teamdynamix.com/TDClient/KB/ArticleDet?ID=46793>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2080,6 +2102,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
+.. |University of Western Australia Pheme| image:: /screenshots/uwa-pheme.png
+.. |University of Western Australia Pheme inspector| image:: /screenshots/uwa-pheme-inspector.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |USAA| image:: /screenshots/usaa.png
 .. |URSSAF| image:: /screenshots/urssaf.png
