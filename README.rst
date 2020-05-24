@@ -1693,19 +1693,20 @@ Passwords:
 
 1. Must contain at least 8 characters;
 2. Must contain at least 3 out of 4 types of characters
-   (uppercase, lowercase, digits, special characters);
+   (uppercase letters, lowercase letters, digits, special characters);
    and
 3. Must not contain
    "the user's account name or parts of the user's full name
    that exceed two consecutive characters".
 
-Also passwords are **silently truncated to 30 characters**
+Also **passwords are silently truncated to 30 characters**
 (need to inspect element to see this).
 No warning. No error message.
 If you subsequently try to login with the untruncated password,
 it doesn't work.
 
 |University of Western Australia Pheme|
+
 |University of Western Australia Pheme inspector|
 
 `University of Windsor <https://uwindsor.teamdynamix.com/TDClient/KB/ArticleDet?ID=46793>`__
