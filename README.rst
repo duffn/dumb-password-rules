@@ -1699,11 +1699,17 @@ Passwords:
    "the user's account name or parts of the user's full name
    that exceed two consecutive characters".
 
-Also **passwords are silently truncated to 30 characters**
-(need to inspect element to see this).
-No warning. No error message.
+**New passwords are silently truncated to 30 characters.**
+Inspecting the change password input field
+reveals a ``maxlength="30"`` attribute,
+but this isn't obvious to the average user because
+the field isn't physically wide enough to see the truncation.
+There is no warning or error message.
+
 If you subsequently try to login with the untruncated password,
-it doesn't work.
+it doesn't work because the password input field on the *login* page
+*doesn't* have a ``maxlength="30"`` attribute
+(and neither does the input field for Outlook email).
 
 Passwords must be changed every 6 months.
 
