@@ -124,8 +124,7 @@ Your password needs to be between 8 and 16 characters long - no special characte
 `AOL <https://aol.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Between 8 and 16, so I can't go up to 20. Oh, and thanks for restricting
-one of the most common special characters!
+Between 8 and 16, so I can't go up to 20.
 
 |AOL|
 
