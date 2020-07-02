@@ -121,6 +121,28 @@ Your password needs to be between 8 and 16 characters long - no special characte
 
 |ANZBank|
 
+`AOK (German Health Insurance) <https://meine.aok.de/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is the online customer portal of the German health insurance company AOK. They have an extensive set of rules for both passwords and usernames.
+
+The password rules are:
+
+- Length between 8 and 14 characters
+- At least one letter, one number and one special character
+- Special characters are: !@$%/=?`+@#_.;:{}|
+- The password must not start with ? or !
+- The password must not include the username
+- The password must not be the same as any of your previous passwords
+
+The rules for the username are:
+
+- Length between 1 and 12 characters
+- No umlauts allowed (äöü), no special characters, no spaces, no ., no _, no ß
+
+|AOK1|
+|AOK2|
+
 `AOL <https://aol.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1942,6 +1964,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AmiAmi| image:: /screenshots/amiami.jpg
 .. |ANZBank| image:: /screenshots/anz_bank.png
+.. |AOK1| image:: /screenshots/aok1.png
+.. |AOK2| image:: /screenshots/aok2.png
 .. |AOL| image:: /screenshots/aol.png
 .. |Apple1| image:: /screenshots/apple1.jpg
 .. |Apple2| image:: /screenshots/apple2.png
