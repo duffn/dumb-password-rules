@@ -449,6 +449,15 @@ A max of 12 characters... Can't handle most symbols (only 5 supported). At least
 
 |Citi|
 
+`CloverSecurity <https://cloversecurity.com/safemaker/merchant-portal/account/details>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Password restricts quantity of characters "of same case", making `correcthorsebatterystaple <https://xkcd.com/936/>`_-style passwords problematic
+* No feedback for which rules are broken
+* Unlisted prohibited characters
+
+|CloverSecurity|
+
 `Commsec <https://www2.commsec.com.au/selfservice/resetpassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2000,6 +2009,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |CIBC| image:: /screenshots/CIBC.png
 .. |Cigna| image:: /screenshots/my.cigna.com.png
 .. |Citi| image:: /screenshots/citi.png
+.. |CloverSecurity| image:: /screenshots/cloversecurity.png
 .. |Chase| image:: /screenshots/chase.jpg
 .. |Chegg1| image:: /screenshots/chegg1.png
 .. |Chegg2| image:: /screenshots/chegg2.png
