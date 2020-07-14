@@ -281,6 +281,16 @@ login again.
 | |Best Buy|
 | |Best Buy2|
 
+`BinckBank <https://www.binck.nl/klanten/faq/veelgestelde-vragen-inloggen>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Between 10 and 16 letters and/or digits. No special characters are allowed.
+Must be renewed at least every 180 days, but you can configure to let the password expire sooner.
+When changing the password, the new password cannot be too similar to the existing password.
+
+|BinckBank|
+|BinckBank-validity|
+
 `Blackrock <https://nge01.bnymellon.com/NextGenV4/dflt/Login.blk>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
