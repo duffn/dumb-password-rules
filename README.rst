@@ -2004,6 +2004,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
 .. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
+.. |BinckBank| image:: /screenshots/binckbank.png
+.. |BinckBank-validity| image:: /screenshots/binckbank-validity.png
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Bloomingdale's| image:: /screenshots/bloomingdales.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
