@@ -1232,6 +1232,14 @@ maximum of 32 characters.
 |Mycanal|
 
 
+`My Prepaid Center <https://www.myprepaidcenter.com/redeem/new_profile>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Only six legal special characters; maximum password length is 20 characters.
+
+|MyPrepaidCenter|
+
+
 `MySwissLife <https://myswisslife.fr/#/login>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2289,6 +2297,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |MobileIron| image:: /screenshots/mobileiron.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
+.. |MyPrepaidCenter| image:: /screenshots/myprepaidcenter.png
 .. |myswisslife-1| image:: /screenshots/myswisslife-1.jpg
 .. |myswisslife-2| image:: /screenshots/myswisslife-2.jpg
 .. |NBank| image:: /screenshots/nbank.jpg
