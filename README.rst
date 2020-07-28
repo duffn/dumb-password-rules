@@ -1871,6 +1871,30 @@ Your password must be 6 characters long. You can't type, only select characters 
 |Unicaja|
 
 
+`UniSuper <https://www.unisuper.com.au/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords need:
+
+- a lower case letter
+- a number
+- a capital letter
+- at least 8 characters
+
+In the 'Change password' form,
+passwords are now restricted to a ``maxlength`` of 18.
+
+If your current password is longer than 18 characters,
+you won't be able to change your password.
+When I contacted them about this,
+they "passed on" my "experience and concerns" for review
+and simply reset my password.
+
+Now I wish I'd just said nothing and kept my 50-character password.
+
+|UniSuper|
+
+
 `United Parcel Service of America <https://www.ups.com/doapp/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2363,6 +2387,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |TwinSpires| image:: /screenshots/twinspires.png
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |Unicaja| image:: /screenshots/unicaja.png
+.. |UniSuper| image:: /screenshots/unisuper.png
 .. |United Parcel Service of America| image:: /screenshots/ups.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
