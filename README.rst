@@ -1134,7 +1134,7 @@ the Chrome extension Don't Fuck With Paste.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Max of 16 character oh and please don't use any characters we don'y know how to escape properly 
-also if it starts with ? you may break our shitty website. What out with your password generator 
+also if it starts with ? you may break our wonderful website. What out with your password generator 
 duplicated charaters is far too insecure to allow here.
 
 |Microsoft (e company store)|
