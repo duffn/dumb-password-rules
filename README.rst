@@ -1130,7 +1130,7 @@ the Chrome extension Don't Fuck With Paste.
 
 |MetLife|
 
-`Microsoft (e company store) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
+`Microsoft (e company store) <https://store.ecompanystore.com/microsoftevents/Shop/Register/PASSHOLDER#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Max of 16 character oh and please don't use any characters we don'y know how to escape properly 
