@@ -1130,6 +1130,16 @@ the Chrome extension Don't Fuck With Paste.
 
 |MetLife|
 
+`Microsoft (e company store) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max of 16 character oh and please don't use any characters we don'y know how to escape properly 
+also if it starts with ? you may break our shitty website. What out with your password generator 
+duplicated charaters is far too insecure to allow here.
+
+|Microsoft (e company store)|
+
+
 
 `Microsoft (work accounts) <https://account.activedirectory.windowsazure.com/ChangePassword.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2311,6 +2321,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |Maxpreps| image:: /screenshots/maxpreps.png
 .. |MetLife| image:: /screenshots/metlife.png
+.. |Microsoft (e company store)| image:: /screenshots/Microsoft-ecompanystore.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Minecraft| image:: /screenshots/Minecraft.png
 .. |Minnesota UI| image:: /screenshots/minnesota_ui.png
