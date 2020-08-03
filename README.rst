@@ -1327,6 +1327,14 @@ It seems to be only written down to irritate customers.
 Password length must be 4 to 10 characters with only a few special characters allowed.
 
 
+`O2 Spain <https://o2online.es>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When registering in *Mi O2* app, password length must be exactly 7 or 8 characters (numbers and letters only). As O2 is part of Telefónica (Movistar), it seems to use the same backend (at least in Spain), so it has the `same password requirements <#movistar>`__.
+
+|O2-Spain|
+
+
 `Omnivox <https://cegep-ste-foy.omnivox.ca/Login/Account/Login>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2341,6 +2349,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Netflix| image:: /screenshots/netflix.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |NVV| image:: /screenshots/nvv.png
+.. |O2-Spain| image:: /screenshots/o2-spain.png
 .. |Omnivox| image:: /screenshots/omnivox.png
 .. |Onleihe| image:: /screenshots/onleihe.png
 .. |Oracle| image:: /screenshots/oracle.png
