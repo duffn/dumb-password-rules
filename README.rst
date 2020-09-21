@@ -70,6 +70,14 @@ Why is your password invalid? It's up to you to find out!
 |Air France|
 
 
+`Air Miles <https://www.airmiles.ca/arrow/ChangePin>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Exactly 4 numbers.
+
+|Air Miles|
+
+
 `Aigües de Barcelona <https://www.aiguesdebarcelona.cat/oficinaenxarxa/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2213,6 +2221,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
 .. |Air Asia| image:: /screenshots/airaisa.png
 .. |Air France| image:: /screenshots/airfrance.png
+.. |Air Miles| image:: /screenshots/airmiles.png
 .. |ameli.fr| image:: /screenshots/ameli.fr.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
