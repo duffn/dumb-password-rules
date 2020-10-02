@@ -442,7 +442,7 @@ plus a weird restriction that makes random generation harder.
 `CenturyLink Residential <https://eam.centurylink.com/eam/mySettings.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your password is too long. But how long should it be? Oh, we won't tell you.
+Your password is too long. But how long can it be? Oh, we won't tell you.
 
 |CenturyLink Residential|
 
