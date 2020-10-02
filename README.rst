@@ -439,6 +439,13 @@ plus a weird restriction that makes random generation harder.
 
 |CenturyLink|
 
+`CenturyLink Residential <https://eam.centurylink.com/eam/mySettings.do>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password is too long. But how long can it be? Oh, we won't tell you.
+
+|CenturyLink Residential|
+
 
 `Credit Agricole <https://www.credit-agricole.fr/ca-paris/particulier/acceder-a-mes-comptes.html0>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2262,6 +2269,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
 .. |Capital One| image:: /screenshots/capitalone.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
+.. |CenturyLink Residential| image:: /screenshots/centurylink-residential.png
 .. |CIBC| image:: /screenshots/CIBC.png
 .. |Cigna| image:: /screenshots/my.cigna.com.png
 .. |Citi| image:: /screenshots/citi.png
