@@ -1084,6 +1084,20 @@ You have to enter your 6-digit password using this Frenchy keypad.
 
 |Lowes|
 
+`Lufthansa <https://www.lufthansa.com/au/en/registration>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+- minimum of 8 character(s)
+- minimum of 1 lowercase letter(s)
+- minimum of 1 uppercase letter(s)
+- minimum of 1 number(s)
+- minimum of 1 special character (s)!\"$%&()*+,-./:;#<>?_@\\
+- does not match the Username
+- Not used before, not easy to guess
+
+|Lufthansa|
+
 
 `MarketWatch <http://www.marketwatch.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2340,6 +2354,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
+.. |Lufthansa| image:: /screenshots/lufthansa.png
 .. |MarketWatch| image:: /screenshots/marketwatch.png
 .. |ME Bank| image:: /screenshots/me-bank.png
 .. |MLB| image:: /screenshots/mlb.png
