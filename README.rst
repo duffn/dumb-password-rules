@@ -887,6 +887,20 @@ Spaces, ?, ../, curly braces and double byte character not allowed
 |IBM|
 
 
+`IBM TSO/E Logon terminal <https://www.ibm.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It might not be a web site, but that does not make it less dumb.
+Since many don't know about IBM mainframes, it seems they don't think you need to up the policies.
+
+Default old password policy is: 6-8 characters long, A-Z, 0-9
+
+Over the last few years they have updated their policies a bit, but due to many of their
+subsystems are incompatible, they can't enforce the new options for safer passwords.
+
+|IBM-TSO|
+
+
 `IHG <https://www.ihg.com/rewardsclub/us/en/join/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2336,6 +2350,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
 .. |IBM| image:: /screenshots/ibm.png
+.. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
 .. |IHG| image:: /screenshots/ihg.png
 .. |Inria| image:: /screenshots/inria.png
 .. |INSS| image:: /screenshots/inss.png
