@@ -2427,6 +2427,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Rediff| image:: /screenshots/rediff.png
 .. |Roll 20| image:: /screenshots/Roll20.png
 .. |Rogers| image:: /screenshots/rogers.png
+.. |Runescape| image:: /screenshots/runescape.png
 .. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
