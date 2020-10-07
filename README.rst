@@ -1556,6 +1556,15 @@ Your new password must be at least 4 characters long and no longer than 40 chara
 |Roll 20|
 
 
+`Runescape <https://secure.runescape.com/m=account-creation/create_account>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A minimum password length of 5, and maximum password length of 20.    
+Does not tell you that your password is NOT case sensitive.   
+Hidden requirements: Alphanumeric only, no symbols, no repeated characters.
+
+|Runescape|
+
 `Rushmore Loan Management Services <https://rushmore.customercarenet.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
