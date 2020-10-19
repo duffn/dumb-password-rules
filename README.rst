@@ -1618,6 +1618,18 @@ Cannot be or contain your username or email address"
 
 |Sears|
 
+`SecureAccess Washington <https://secureaccess.wa.gov>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Central authentication for all Washington State services
+(DoL, ESD, etc).
+
+Password must have *exactly* 10 characters, but form happily
+lets you enter more and only throws errors after submit, 
+providing no useful feedback.
+
+|SecureAccess Washington|
+
 
 `Sharekhan <https://www.sharekhan.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2433,6 +2445,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Sears| image:: /screenshots/sears.png
+.. |SecureAccess Washington| image:: /screenshots/secureaccess-wa.png
 .. |Sharekhan| image:: /screenshots/sharekhan.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
