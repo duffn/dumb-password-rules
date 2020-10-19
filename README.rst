@@ -1657,6 +1657,15 @@ providing no useful feedback.
 |SecureAccess Washington|
 
 
+`Seur <https://www.seur.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 8 and 12 characters...
+Also no symbols are allowed. But this isn't displayed.
+
+|Seur|
+
+
 `Sharekhan <https://www.sharekhan.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2474,6 +2483,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Safeway| image:: /screenshots/safeway.png
 .. |Sears| image:: /screenshots/sears.png
 .. |SecureAccess Washington| image:: /screenshots/secureaccess-wa.png
+.. |Seur| image:: /screenshots/seur.png
 .. |Sharekhan| image:: /screenshots/sharekhan.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
