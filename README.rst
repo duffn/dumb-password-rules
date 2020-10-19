@@ -879,6 +879,7 @@ You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
 
 
 `HSA Bank <https://www.hsabank.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Must be minimum 12 characters
 - Must not be one of user's past 5 passwords
