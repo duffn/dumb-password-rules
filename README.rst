@@ -1367,7 +1367,7 @@ It seems to be only written down to irritate customers.
 
 Claims to protect your security. Can't even hash a password.
 
-- Password cannot be longer than 48 letters.
+- Password cannot be longer than 48 characters.
 
 |NordVPN|
 
