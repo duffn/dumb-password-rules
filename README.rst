@@ -52,6 +52,16 @@ could use proper grammar in their rule list.
 |Advanzia|
 
 
+`Aetna Health Insurance <https://www.aetna.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Password cannot be longer than 20 characters
+- Password cannot have spaces and more 2 characters repeated in a row
+- Password cannot have user's first name, last name or username
+
+|Aetna|
+
+
 `Air Asia <https://www.airasia.com/member/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2309,6 +2319,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
+.. |Aetna| image:: /screenshots/aetna.png
 .. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
 .. |Air Asia| image:: /screenshots/airaisa.png
 .. |Air France| image:: /screenshots/airfrance.png
