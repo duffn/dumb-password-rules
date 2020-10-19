@@ -878,6 +878,21 @@ You can't use ``&<>'"\|´```, spaces and any other non-ascii character.
 |Hetzner|
 
 
+`HSA Bank <https://www.hsabank.com>`__
+
+- Must be minimum 12 characters
+- Must not be one of user's past 5 passwords
+- Must contain uppercase and lowercase letters
+- Must contain a number
+- Must not be the same as user's account number or login/username
+
+But also...
+
+- Cannot be longer than 20 characters
+
+|HSABank|
+
+
 `IBM <https://www.ibm.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2380,6 +2395,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |GreenFlag2| image:: /screenshots/green-flag-2.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
+.. |HSABank| image:: /screenshots/hsabank.png
 .. |IBM| image:: /screenshots/ibm.png
 .. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
 .. |IHG| image:: /screenshots/ihg.png
