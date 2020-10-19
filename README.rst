@@ -2319,7 +2319,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Admiral| image:: /screenshots/admiral.png
 .. |ADP| image:: /screenshots/adp.png
 .. |Advanzia| image:: /screenshots/advanzia.png
-.. |Aetna| iamge:: /screenshots/aetna.png
+.. |Aetna| image:: /screenshots/aetna.png
 .. |Aigues de Barcelona| image:: /screenshots/aigues_barcelona.png
 .. |Air Asia| image:: /screenshots/airaisa.png
 .. |Air France| image:: /screenshots/airfrance.png
