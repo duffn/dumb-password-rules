@@ -680,6 +680,12 @@ It's not like hashing passwords is a thing or something.
 
 |Dutch Tax Authorities|
 
+`Dwr Cymru (Welsh Water)  <https://login.dwrcymru.com/>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Limits password length to a maximum of 16 characters
+
+|dwrcymru|
 
 `Easybank (Austrian direct bank) <https://www.easybank.at/de/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2399,6 +2405,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Discovery Benefits 2| image:: /screenshots/discovery-benefits-2.png
 .. |DJI| image:: /screenshots/dji-drones.png
 .. |dnevnik| image:: /screenshots/dnevnik.png
+.. |dwrcymru| image:: /screenshots/dwrcymru.PNG
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
