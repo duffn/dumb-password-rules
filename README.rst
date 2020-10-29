@@ -2405,7 +2405,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Discovery Benefits 2| image:: /screenshots/discovery-benefits-2.png
 .. |DJI| image:: /screenshots/dji-drones.png
 .. |dnevnik| image:: /screenshots/dnevnik.png
-.. |dwrcymru| image:: /screenshots/dwrcymru.PNG
+.. |dwrcymru| image:: /screenshots/dwrcymru.png
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
