@@ -97,6 +97,23 @@ Why is your password invalid? It's up to you to find out!
 |Aigues de Barcelona|
 
 
+`Alibaba <https://passport.alibaba.com/ac/password_modify.htm?fromSite=4&lang=en_US>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- At least 2 uppercase letters
+- Plus 2 lowercase letters
+- Plus 2 numbers
+- Plus 2 punctuation marks
+
+Phew, too many rules, because why not, if `Ma thinks AI stands for Alibaba Intelligence <https://www.youtube.com/watch?v=f3lUEnMaiAU>`_, then password rules can be equally intelligent too. 
+
+Also, this gibberish if you intentionally left the "confirm password" field empty and that's even after a `en_US` redirection. 
+
+- 请输入新的登录密码.
+
+|Alibaba|
+
+
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2339,6 +2356,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Air France| image:: /screenshots/airfrance.png
 .. |Air Miles| image:: /screenshots/airmiles.png
 .. |ameli.fr| image:: /screenshots/ameli.fr.png
+.. |Alibaba| image:: /screenshots/alibaba.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AmiAmi| image:: /screenshots/amiami.jpg
