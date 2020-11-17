@@ -956,6 +956,8 @@ subsystems are incompatible, they can't enforce the new options for safer passwo
 Observed on November 17, 2020:
 "Password must contain between 8 and 15 characters. Password must contain at least one special character."
 
+They don't seem to have a public registration form. You receive a registration link after completing a course with one of their accredited providers.
+
 |ICAgile|
 
 
