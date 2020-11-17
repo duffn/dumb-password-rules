@@ -589,6 +589,13 @@ Password has to be between 6 and 10 characters, can't contain any punctuation an
 
 |Coventry Building Society|
 
+`Credit Union Australia (CUA) Health <https://www.cua.com.au/health-insurance>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 7 and 10 characters, contain both an uppercase and a lowercase letter and have at least one number.
+
+|Credit Union Australia (CUA) Health|
+
 
 `Crédit Agricole Centre-Est <https://www.ca-centrest.fr>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2428,6 +2435,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Copart| image:: /screenshots/copart.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
+.. |Credit Union Australia (CUA) Health| image:: /screenshots/cua-health.png
 .. |Credit Agricole| image:: /screenshots/ca-paris.png
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |ca-centrest.fr| image:: /screenshots/ca-centrest.png
