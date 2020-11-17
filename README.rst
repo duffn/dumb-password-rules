@@ -950,6 +950,15 @@ subsystems are incompatible, they can't enforce the new options for safer passwo
 |IBM-TSO|
 
 
+`ICAgile <https://member.icagile.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Observed on November 17, 2020:
+"Password must contain between 8 and 15 characters. Password must contain at least one special character."
+
+|ICAgile|
+
+
 `IHG <https://www.ihg.com/rewardsclub/us/en/join/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2452,6 +2461,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |HSABank| image:: /screenshots/hsabank.png
 .. |IBM| image:: /screenshots/ibm.png
 .. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
+.. |ICAgile| image:: /screenshots/icagile.png
 .. |IHG| image:: /screenshots/ihg.png
 .. |Inria| image:: /screenshots/inria.png
 .. |INSS| image:: /screenshots/inss.png
