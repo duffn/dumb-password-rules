@@ -19,3 +19,6 @@ Icon
 .AppleDesktop
 Network Trash Folder
 Temporary Items
+
+# VS Code
+.vscode/
