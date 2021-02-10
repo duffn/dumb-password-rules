@@ -2223,6 +2223,16 @@ It took under 5 minutes to find the bug after looking at the source for the firs
 |Viobank|
 
 
+`Vip Mobile Serbia <https://www.vipmobile.rs/privatni/sso/registracija>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Vip mobile Serbia is a mobile provider in Serbia that imposes poor password rules.
+
+Translation: "Length of the password must be between 8 and 20 characters and can only have letters and digits."
+
+|Vip Mobile Serbia|
+
+
 `Virgin Media <https://my.virginmedia.com/forgot-details/reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2605,6 +2615,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Very| image:: /screenshots/very.png
 .. |Vietnam Airlines| image:: /screenshots/vietnamairlines.png
 .. |Viobank| image:: /screenshots/viobank.png
+.. |Vip Mobile Serbia| image:: /screenshots/vip_mobile_srb.png
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Media Too Long| image:: /screenshots/virginmediatoolong.png
 .. |Virgin Media Invalid| image:: /screenshots/virginmediainvalid.png
