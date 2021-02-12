@@ -542,6 +542,7 @@ A max of 12 characters... Can't handle most symbols (only 5 supported). At least
 * Can't use ANY special characters (although, adding special characters increases the "password strength" meter?!)
 * Allows for a minimum password length of 6 characters
 * No runs of more than two identical characters (eg. "aaa" is not allowed.)
+* Does not allow you to paste passwords.
 
 |Citi|
 
