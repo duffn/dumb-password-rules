@@ -1016,7 +1016,7 @@ OK, because everybody has 2FA.
 |ING Romania|
 
 
-`Inpost`__
+`Inpost <https://inpost.pl/en/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allows between 8 to 16 characters. Password is being used to log in and view packages sent to you, or for shipping packages.
