@@ -1015,6 +1015,13 @@ OK, because everybody has 2FA.
 
 |ING Romania|
 
+`inpost <https://inpost.pl/en>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Must be from 8 to 16 characters. This is the password used when you want to track your packages, or send them.
+
+|inpost|
+
 
 `Inria <https://vpn1-roc.national.inria.fr/+CSCOE+/logon.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
