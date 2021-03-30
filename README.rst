@@ -1016,6 +1016,14 @@ OK, because everybody has 2FA.
 |ING Romania|
 
 
+`Inpost <https://inpost.pl/en/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Allows between 8 to 16 characters. Password is being used to log in and view packages sent to you, or for shipping packages.
+
+|Inpost|
+
+
 `Inria <https://vpn1-roc.national.inria.fr/+CSCOE+/logon.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2504,6 +2512,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
 .. |ICAgile| image:: /screenshots/icagile.png
 .. |IHG| image:: /screenshots/ihg.png
+.. |Inpost| image:: /screenshots/inpost.png
 .. |Inria| image:: /screenshots/inria.png
 .. |INSS| image:: /screenshots/inss.png
 .. |Intel| image:: /screenshots/intel.jpg
