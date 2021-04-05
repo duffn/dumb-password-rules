@@ -1353,7 +1353,7 @@ surname of the user with some characters replaced by digits :)
 
 Has been that way for more than 10 years.
 
-|MobileIron|
+|Movistar|
 
 
 `MobileIron MDM <https://www.mobileiron.com/>`__
@@ -1363,8 +1363,17 @@ You can't make this up - no dictionary words, no more than 2 repeating
 characters, no alphabetic sequences, no whitespace, 3 character sets,
 maximum of 32 characters.
 
+|MobileIron|
 
-|Movistar|
+
+`Mobility <https://www.mobility.ch/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The username is the customer number, which is sequential and cannot be changed, currently 7 digits long for new customers.
+
+The password has to be exactly 6 digits long, only numbers allowed.
+
+|Mobility|
 
 
 `Mycanal <https://www.mycanal.fr/>`__
@@ -2547,6 +2556,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |MKB NetBankár| image:: /screenshots/mkb.png
 .. |Mobi Bike Share| image:: /screenshots/mobibikes.png
 .. |MobileIron| image:: /screenshots/mobileiron.png
+.. |Mobility| image:: /screenshots/mobility.png
 .. |Movistar| image:: /screenshots/movistar.jpg
 .. |Mycanal| image:: /screenshots/mycanal.png
 .. |MyPrepaidCenter| image:: /screenshots/myprepaidcenter.png
