@@ -788,6 +788,22 @@ You must reduce your password to 26 characters in order to login with a token.
 |ETrade|
 
 
+`Equifax - The Work Number <https://secure.theworknumber.talx.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Eight to sixteen characters, numeric digits only, not the same as the User ID.
+
+* Number of permutations: 1E+16
+* Number of permutations for the weakest length: 1E+8
+* vs permutations for a 8-16 password using standard characters: 4E+31
+* vs permutations for the weakest length of 8 using standard characters: 7E+15
+* Other issues: allows and encourages the use of sequences like "12345678", SSN, DOB, today's date
+* At stake: last 4 digits of SSN, current and past addresses, and detailed work history of millions of Americans, down to how much their paycheck was in the third week of September 2007
+* Past security screwups by this company: https://en.wikipedia.org/wiki/Equifax#Security_Failings
+
+|EquifaxTheWorkNumber|
+
+
 `FACE IT Ltd. (Faceit) <https://www.faceit.com/en/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2493,6 +2509,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |dwrcymru| image:: /screenshots/dwrcymru.png
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
+.. |EquifaxTheWorkNumber| image:: /screenshots/EquifaxTheWorkNumber.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |Electronic Arts| image:: /screenshots/electronic-arts.png
