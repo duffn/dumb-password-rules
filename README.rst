@@ -788,6 +788,23 @@ You must reduce your password to 26 characters in order to login with a token.
 |ETrade|
 
 
+`Equifax - The Work Number <https://secure.theworknumber.talx.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Eight to sixteen characters, numeric digits only, not the same as the User ID.
+
+* Number of permutations: 1E+16
+* Number of permutations for the weakest length: 1E+8
+* vs permutations for a 8-16 password using standard characters: 4E+31
+* vs permutations for the weakest length of 8 using standard characters: 6E+15
+* Other issues: allows and encourages the use of sequences like "12345678", SSN, DOB, today's date
+* Compounding factors: I bet $50 the password is stored as an unhashed BIGINT
+* At stake: last 4 digits of SSN, address, and detailed work history of millions of Americans, down to what how much their paycheck was in the third week of September 2007
+* Past security screwups by this company: https://en.wikipedia.org/wiki/Equifax#Security_Failings
+
+|EquifaxTheWorkNumber|
+
+
 `FACE IT Ltd. (Faceit) <https://www.faceit.com/en/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
