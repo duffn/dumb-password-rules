@@ -2510,6 +2510,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |dwrcymru| image:: /screenshots/dwrcymru.png
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
+.. |EquifaxTheWorkNumber| image:: /screenshots/EquifaxTheWorkNumber.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |Electronic Arts| image:: /screenshots/electronic-arts.png
