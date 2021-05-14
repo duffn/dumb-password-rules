@@ -1920,6 +1920,14 @@ Your password must:
 
 |Standard Chartered Bank|
 
+`SunLife <https://www.sunlife.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 8 to 10 characters
+- At least 1 letter and 1 number
+- No spaces, symbols, or accents
+
+|SunTrust|
 
 `SunTrust <https://www.suntrust.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
