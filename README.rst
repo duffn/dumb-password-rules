@@ -1927,7 +1927,7 @@ Your password must:
 - At least 1 letter and 1 number
 - No spaces, symbols, or accents
 
-|SunTrust|
+|SunLife|
 
 `SunTrust <https://www.suntrust.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
