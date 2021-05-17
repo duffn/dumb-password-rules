@@ -1920,6 +1920,14 @@ Your password must:
 
 |Standard Chartered Bank|
 
+`SunLife <https://www.sunlife.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 8 to 10 characters
+- At least 1 letter and 1 number
+- No spaces, symbols, or accents
+
+|SunLife|
 
 `SunTrust <https://www.suntrust.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2629,6 +2637,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Sprint| image:: /screenshots/sprint.png
 .. |Standard Chartered Bank| image:: /screenshots/standard-chartered-bank.png
 .. |SBI| image:: /screenshots/sbi.png
+.. |SunLife| image:: /screenshots/sunlife.png
 .. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |Taco Bell| image:: /screenshots/taco-bell.png
