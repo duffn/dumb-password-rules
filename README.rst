@@ -1564,6 +1564,15 @@ four character range with a bunch of other stupid rules? Shocking.
 |Parnassus|
 
 
+`Parsec <https://parsec.app/signup>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A service for screen sharing and enabling online multiplayer gaming, when the software itself
+only supports offline multiplayer.
+
+|Parsec|
+
+
 `PayPal <https://www.paypal.com/welcome/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2602,6 +2611,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Origin| image:: /screenshots/origin.png
 .. |PagoMisCuentas| image:: /screenshots/pagomiscuentas.png
 .. |Parnassus| image:: /screenshots/parnassus.png
+.. |Parsec| image:: /screenshots/parsec.png
 .. |PayPal| image:: /screenshots/paypal.png
 .. |Paytm| image:: /screenshots/paytm.png
 .. |PCPartPicker| image:: /screenshots/pcpartpicker.png
