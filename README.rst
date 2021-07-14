@@ -2671,6 +2671,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |United Parcel Service of America| image:: /screenshots/ups.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
+.. |University of New Brunswick| image:: /screenshots/Uni_Security.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
 .. |University of Western Australia Pheme| image:: /screenshots/uwa-pheme.png
 .. |University of Western Australia Pheme inspector| image:: /screenshots/uwa-pheme-inspector.png
