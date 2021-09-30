@@ -801,7 +801,7 @@ Eight to sixteen characters, numeric digits only, not the same as the User ID.
 * At stake: last 4 digits of SSN, current and past addresses, and detailed work history of millions of Americans, down to how much their paycheck was in the third week of September 2007
 * Past security screwups by this company: https://en.wikipedia.org/wiki/Equifax#Security_Failings
 
-|Eurocircuits|
+|EquifaxTheWorkNumber|
 
 
 `Eurocircuits <https://eurocircuits.com>`__
