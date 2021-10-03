@@ -804,6 +804,14 @@ Eight to sixteen characters, numeric digits only, not the same as the User ID.
 |EquifaxTheWorkNumber|
 
 
+`Eurocircuits <https://eurocircuits.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Minimum 4 and maximum 30 chars. Use only letters (a-z), numbers (0-9) and underscore (_)
+
+|Eurocircuits|
+
+
 `FACE IT Ltd. (Faceit) <https://www.faceit.com/en/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2527,6 +2535,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Easybank| image:: /screenshots/easybank.png
 .. |Easyjet| image:: /screenshots/easyjet.png
 .. |EquifaxTheWorkNumber| image:: /screenshots/EquifaxTheWorkNumber.png
+.. |Eurocircuits| image:: /screenshots/eurocircuits.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |El Corte Ingles| image:: /screenshots/elcorteingles.png
 .. |Electronic Arts| image:: /screenshots/electronic-arts.png
