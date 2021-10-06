@@ -2051,6 +2051,14 @@ limited to a certain set.
 |MyWorkplace|
 
 
+`Testprep Training <https://www.testpreptraining.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The max password size is 20 characters
+
+|testpreptraining|
+
+
 `Thames Water <https://www.thameswater.co.uk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2666,6 +2674,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |NPTU| image:: /screenshots/nptu.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
+.. |testpreptraining| image:: /screenshots/testpreptraining.png
 .. |ThamesWater| image:: /screenshots/ThamesWater.png
 .. |Three-Change| image:: /screenshots/three-change.png
 .. |Three-Reset| image:: /screenshots/three-reset.png
