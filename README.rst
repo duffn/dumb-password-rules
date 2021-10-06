@@ -629,6 +629,15 @@ Password:
 |CWT|
 
 
+`Daybreak Games <https://www.daybreakgames.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max password length is 15 characters
+The only special characters that can be used are !"#$%
+
+|daybreakgames|
+
+
 `DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2523,6 +2532,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |ca-centrest.fr| image:: /screenshots/ca-centrest.png
 .. |CVent| image:: /screenshots/cvent.png
 .. |CWT| image:: /screenshots/cwt.png
+.. |daybreakgames| image:: /screenshots/daybreakgames.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
