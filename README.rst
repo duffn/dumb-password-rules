@@ -396,6 +396,14 @@ shown in the prompt
 |BMW ConnectedDrive|
 
 
+`BOINC Bakerlab <https://boinc.bakerlab.org/rosetta/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords may only include ASCII characters, not even extended ASCII.
+
+|BOINC Bakerlab|
+
+
 `Boligøen (Danish resident renting bureau) <https://boligøen.dk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2498,6 +2506,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Boligøen| image:: /screenshots/boligoen.jpg
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.jpg
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
+.. |BOINC Bakerlab| image:: /screenshots/BOINC_Bakerlab.png
 .. |caf.fr| image:: /screenshots/caf.png
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
