@@ -1691,6 +1691,15 @@ A maximum password length of 12. The hidden requirements are:
 |Rediff|
 
 
+`Return of Reckoning <https://www.returnofreckoning.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 6 and 100 characters.
+It doesn't say on the website, but the password only works in the related game client if it is purely alphanumeric. Not even special characters like % or $ are allowed.
+
+|returnofreckoning|
+
+
 `Rogers <https://rogers.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2634,6 +2643,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
+.. |returnofreckoning| image:: /screenshots/returnofreckoning.png
 .. |Roll 20| image:: /screenshots/Roll20.png
 .. |Rogers| image:: /screenshots/rogers.png
 .. |Runescape| image:: /screenshots/runescape.png
