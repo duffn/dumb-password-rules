@@ -2375,6 +2375,7 @@ confusion when the password wouldn't work.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your password must include the following:
+
 - 8–100 characters
 - Upper & lowercase letters
 - At least one number or special character
