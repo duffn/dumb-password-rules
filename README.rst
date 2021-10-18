@@ -2376,22 +2376,6 @@ confusion when the password wouldn't work.
 
 Your password length is limited between 6 and 12 characters.
 
-|Wageworks|
-
-
-`Wageworks <https://participant.wageworks.com/Home.aspx>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-In addition to the following rules regarding passwords...
-
-- 8-20 characters in length
-- Include at least 4 of the following: lowercase letter, uppercase letter, number AND symbol
-- Not include your last name, first name or space
-
-Your new password should be different from your previous twenty passwords.
-
-Ok. _Password21!_, it is.
-
 |Walmart|
 
 
