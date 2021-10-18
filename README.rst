@@ -2374,7 +2374,10 @@ confusion when the password wouldn't work.
 `Walmart <https://www.walmart.com/account/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your password length is limited between 6 and 12 characters.
+Your password must include the following:
+- 8–100 characters
+- Upper & lowercase letters
+- At least one number or special character
 
 |Walmart|
 
