@@ -224,6 +224,18 @@ match.
 |Arlo|
 
 
+`Aruba Cloud <https://www.arubacloud.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Must be different from the last 3 passwords used.
+
+Your password must contain at least an uppercase and lowercase letter and number.
+
+Must contain at least one special symbol.
+
+|ArubaCloud| 
+
+
 `ASN Bank <https://www.asnbank.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2496,6 +2508,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Apple1| image:: /screenshots/apple1.jpg
 .. |Apple2| image:: /screenshots/apple2.png
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
+.. |ArubaCloud| image:: /screenshots/arubacloud.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |asnbank| image:: /screenshots/asnbank.png
 .. |ATT| image:: /screenshots/att.png
