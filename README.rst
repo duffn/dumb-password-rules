@@ -2146,6 +2146,14 @@ with no capital letters.
 |Treasury2|
 
 
+`Twilio <https://www.twilio.com/try-twilio>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Restriction in inclusion of characters such as 'Twilio' in password. Password must be 16 or more characters & Can't include 3 or more consecutive repeated characters.
+
+|Twilio| 
+
+
 `TwinSpires <https://www.twinspires.com/account/register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
