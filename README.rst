@@ -2151,7 +2151,7 @@ with no capital letters.
 
 Restriction in inclusion of characters such as 'Twilio' in password. Password must be 16 or more characters & Can't include 3 or more consecutive repeated characters.
 
-|Twilio| 
+.. image:: screenshots/Twilio.png
 
 
 `TwinSpires <https://www.twinspires.com/account/register>`__
