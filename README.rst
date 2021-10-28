@@ -576,6 +576,14 @@ A max of 12 characters... Can't handle most symbols (only 5 supported). At least
 
 |CloverSecurity|
 
+`Coil <https://coil.com/signup?type=creator>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Does not allow simple characters and sequences such as '4587' or 'efgh' in password & necessarily requires numeric values.
+
+.. image:: screenshots/coil.png
+
+
 
 `Commsec <https://www2.commsec.com.au/selfservice/resetpassword>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
