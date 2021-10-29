@@ -1728,6 +1728,14 @@ A maximum password length of 12. The hidden requirements are:
 |Rediff|
 
 
+`Replit <https://replit.com/signup?from=landing>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Forces to use minimum 8 characters in the password and it must contain atleast one uppercase.
+
+.. image:: screenshots/replit.png
+
+
 `Return of Reckoning <https://www.returnofreckoning.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
