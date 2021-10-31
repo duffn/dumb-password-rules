@@ -1804,7 +1804,7 @@ Passwords between 8 and 9 characters are the best.
 
 Passwords need to be between 8 and 15 characters.
 
-|saturn|
+|Saturn|
 
 
 `Scandinavian Airlines <https://www.flysas.com/us-en/>`__
@@ -2713,6 +2713,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
+.. |Saturn| image:: /screenshots/saturn.png
 .. |SBI| image:: /screenshots/sbi.png
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Sears| image:: /screenshots/sears.png
