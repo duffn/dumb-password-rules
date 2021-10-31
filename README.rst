@@ -1783,6 +1783,14 @@ Hmmm.. why are they afraid of double and single quotes in my passwords?
 |Rushmore|
 
 
+`Safeway <https://shop.safeway.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords limited to 8-12 characters.
+
+|Safeway|
+
+
 `SAP Cloud Appliance Library <https://cal.sap.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1791,12 +1799,12 @@ Passwords between 8 and 9 characters are the best.
 |SAP Cloud Appliance Library|
 
 
-`Safeway <https://shop.safeway.com/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Saturn <https://saturn.de/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Passwords limited to 8-12 characters.
+Passwords need to be between 8 and 15 characters.
 
-|Safeway|
+|saturn|
 
 
 `Scandinavian Airlines <https://www.flysas.com/us-en/>`__
