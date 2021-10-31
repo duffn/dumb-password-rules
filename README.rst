@@ -1791,6 +1791,14 @@ Passwords between 8 and 9 characters are the best.
 |SAP Cloud Appliance Library|
 
 
+`Safeway <https://shop.safeway.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords limited to 8-12 characters.
+
+|Safeway|
+
+
 `Scandinavian Airlines <https://www.flysas.com/us-en/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1809,13 +1817,6 @@ Answer form SAS customer service::
 
 |Scandinavian Airlines|
 
-
-`Safeway <https://shop.safeway.com/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Passwords limited to 8-12 characters.
-
-|Safeway|
 
 
 `Sears <https://www.sears.com/>`__
