@@ -224,6 +224,18 @@ match.
 |Arlo|
 
 
+`Aruba Cloud <https://www.arubacloud.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Must be different from the last 3 passwords used.
+
+Your password must contain at least an uppercase and lowercase letter and number.
+
+Must contain at least one special symbol.
+
+|ArubaCloud| 
+
+
 `ASN Bank <https://www.asnbank.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -396,6 +408,14 @@ shown in the prompt
 |BMW ConnectedDrive|
 
 
+`BOINC Bakerlab <https://boinc.bakerlab.org/rosetta/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords may only include ASCII characters, not even extended ASCII.
+
+|BOINC Bakerlab|
+
+
 `Boligøen (Danish resident renting bureau) <https://boligøen.dk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -540,6 +560,14 @@ A max of 12 characters... Can't handle most symbols (only 5 supported). At least
 
 |CloverSecurity|
 
+`Coil <https://coil.com/signup?type=creator>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Does not allow simple characters and sequences such as '4587' or 'efgh' in password & necessarily requires numeric values.
+
+.. image:: screenshots/coil.png
+
+
 
 `Comcast <https://customer.xfinity.com/#/settings/security/xfinity-access/password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -630,6 +658,15 @@ Password:
 - Must be different from 5 previous passwords
 
 |CWT|
+
+
+`Daybreak Games <https://www.daybreakgames.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Max password length is 15 characters
+The only special characters that can be used are !"#$%
+
+|daybreakgames|
 
 
 `DBS Bank (Singapore) <https://internet-banking.dbs.com.sg/IB/Welcome>`__
@@ -815,6 +852,14 @@ Eight to sixteen characters, numeric digits only, not the same as the User ID.
 * Past security screwups by this company: https://en.wikipedia.org/wiki/Equifax#Security_Failings
 
 |EquifaxTheWorkNumber|
+
+
+`Eurocircuits <https://eurocircuits.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Minimum 4 and maximum 30 chars. Use only letters (a-z), numbers (0-9) and underscore (_)
+
+|Eurocircuits|
 
 
 `FACE IT Ltd. (Faceit) <https://www.faceit.com/en/signup>`__
@@ -1700,6 +1745,23 @@ A maximum password length of 12. The hidden requirements are:
 |Rediff|
 
 
+`Replit <https://replit.com/signup?from=landing>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Forces to use minimum 8 characters in the password and it must contain atleast one uppercase.
+
+.. image:: screenshots/replit.png
+
+
+`Return of Reckoning <https://www.returnofreckoning.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 6 and 100 characters.
+It doesn't say on the website, but the password only works in the related game client if it is purely alphanumeric. Not even special characters like % or $ are allowed.
+
+|returnofreckoning|
+
+
 `Rogers <https://rogers.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1753,6 +1815,14 @@ Passwords limited to 8-12 characters.
 Passwords between 8 and 9 characters are the best.
 
 |SAP Cloud Appliance Library|
+
+
+`Saturn <https://saturn.de/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords need to be between 8 and 15 characters.
+
+|Saturn|
 
 
 `Scandinavian Airlines <https://www.flysas.com/us-en/>`__
@@ -2065,6 +2135,14 @@ limited to a certain set.
 |Telekom/T-Systems MyWorkplace|
 
 
+`Testprep Training <https://www.testpreptraining.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The max password size is 20 characters
+
+|testpreptraining|
+
+
 `Thames Water <https://www.thameswater.co.uk/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2112,6 +2190,14 @@ with no capital letters.
 |Treasury1|
 
 |Treasury2|
+
+
+`Twilio <https://www.twilio.com/try-twilio>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Restriction in inclusion of characters such as 'Twilio' in password. Password must be 16 or more characters & Can't include 3 or more consecutive repeated characters.
+
+.. image:: screenshots/Twilio.png
 
 
 `TwinSpires <https://www.twinspires.com/account/register>`__
@@ -2368,7 +2454,11 @@ Ok. Password21!, it is.
 `Walmart <https://www.walmart.com/account/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your password length is limited between 6 and 12 characters.
+Your password must include the following:
+
+- 8–100 characters
+- Upper & lowercase letters
+- At least one number or special character
 
 |Walmart|
 
@@ -2472,6 +2562,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Apple1| image:: /screenshots/apple1.jpg
 .. |Apple2| image:: /screenshots/apple2.png
 .. |Arbeitnehmeronline| image:: /screenshots/arbeitnehmeronline.png
+.. |ArubaCloud| image:: /screenshots/arubacloud.png
 .. |Arlo| image:: /screenshots/arlo.png
 .. |asnbank| image:: /screenshots/asnbank.png
 .. |ATT| image:: /screenshots/att.png
@@ -2485,15 +2576,16 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |BCV Web| image:: /screenshots/bcv_web.png
 .. |BDO| image:: /screenshots/bdo.png
 .. |Bendigo Bank| image:: /screenshots/bendigo_bank.png
-.. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |Best Buy2| image:: /screenshots/bestbuy2.png
-.. |BinckBank| image:: /screenshots/binckbank.png
+.. |Best Buy| image:: /screenshots/bestbuy1.png
 .. |BinckBank-validity| image:: /screenshots/binckbank-validity.png
+.. |BinckBank| image:: /screenshots/binckbank.png
 .. |Blackrock| image:: /screenshots/blackrock.png
 .. |Bloomingdale's| image:: /screenshots/bloomingdales.png
 .. |Blue Cross Blue Shield Massachusetts| image:: /screenshots/bcbs-massachusetts.png
 .. |BMO Bank of Montreal| image:: /screenshots/bmo.jpg
 .. |BMW ConnectedDrive| image:: /screenshots/bmw-connected.PNG
+.. |BOINC Bakerlab| image:: /screenshots/BOINC_Bakerlab.png
 .. |Boligøen| image:: /screenshots/boligoen.jpg
 .. |Boursorama| image:: /screenshots/boursorama.png
 .. |ca-centrest.fr| image:: /screenshots/ca-centrest.png
@@ -2517,10 +2609,12 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Copart| image:: /screenshots/copart.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
-.. |Credit Union Australia (CUA) Health| image:: /screenshots/cua-health.png
 .. |Credit Agricole| image:: /screenshots/ca-paris.png
+.. |Credit Union Australia (CUA) Health| image:: /screenshots/cua-health.png
+.. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |CVent| image:: /screenshots/cvent.png
 .. |CWT| image:: /screenshots/cwt.png
+.. |daybreakgames| image:: /screenshots/daybreakgames.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
 .. |Deloitte GlobalAdvantage| image:: /screenshots/deloitte.png
@@ -2540,31 +2634,35 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |EllieMae2| image:: /screenshots/elliemae2.png
 .. |EllieMae3| image:: /screenshots/elliemae3.png
 .. |EON| image:: /screenshots/eon.png
-.. |ETrade| image:: /screenshots/etrade.png
 .. |EquifaxTheWorkNumber| image:: /screenshots/EquifaxTheWorkNumber.png
+.. |ETrade| image:: /screenshots/etrade.png
+.. |Eurocircuits| image:: /screenshots/eurocircuits.png
 .. |Faceit| image:: /screenshots/faceit.png
 .. |Fidelity| image:: /screenshots/fidelity.png
 .. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Freepik| image:: /screenshots/freepik.png
 .. |Fundatec| image:: /screenshots/fundatec.png
-.. |Getin Bank| image:: /screenshots/getin.png
 .. |Gebührenfrei MasterCard| image:: /screenshots/gebuhrenfrei-mastercard.png
+.. |Getin Bank| image:: /screenshots/getin.png
 .. |Global Entry| image:: /screenshots/global-entry.png
-.. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoDaddy SFTP| image:: /screenshots/godaddy-sftp.png
+.. |GoDaddy| image:: /screenshots/godaddy.png
 .. |GoFundMe| image:: /screenshots/gofundme.png
 .. |GreenFlag1| image:: /screenshots/green-flag-1.png
 .. |GreenFlag2| image:: /screenshots/green-flag-2.png
 .. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
 .. |HSABank| image:: /screenshots/hsabank.png
-.. |IBM| image:: /screenshots/ibm.png
 .. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
+.. |IBM| image:: /screenshots/ibm.png
 .. |ICAgile| image:: /screenshots/icagile.png
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Australia| image:: /screenshots/ingaustralia.png
 .. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |IHG| image:: /screenshots/ihg.png
+.. |ING Australia| image:: /screenshots/ingaustralia.png
+.. |ING Bank| image:: /screenshots/ingbank.png
+.. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |Inpost| image:: /screenshots/inpost.png
 .. |Inria| image:: /screenshots/inria.png
 .. |INSS| image:: /screenshots/inss.png
@@ -2595,6 +2693,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Minecraft| image:: /screenshots/Minecraft.png
 .. |Minnesota UI| image:: /screenshots/minnesota_ui.png
 .. |MKB NetBankár| image:: /screenshots/mkb.png
+.. |MLB| image:: /screenshots/mlb.png
 .. |Mobi Bike Share| image:: /screenshots/mobibikes.png
 .. |MobileIron| image:: /screenshots/mobileiron.png
 .. |Mobility| image:: /screenshots/mobility.png
@@ -2603,6 +2702,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |MyPrepaidCenter| image:: /screenshots/myprepaidcenter.png
 .. |myswisslife-1| image:: /screenshots/myswisslife-1.jpg
 .. |myswisslife-2| image:: /screenshots/myswisslife-2.jpg
+.. |MyWorkplace| image:: /screenshots/myworkplace.png
 .. |NationalBankOfCanada| image:: /screenshots/nbc.png
 .. |NBAStore| image:: /screenshots/nbastore.png
 .. |NBank| image:: /screenshots/nbank.jpg
@@ -2610,6 +2710,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Netflix| image:: /screenshots/netflix.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |NordVPN| image:: /screenshots/nordvpn.png
+.. |NPTU| image:: /screenshots/nptu.png
 .. |NVV| image:: /screenshots/nvv.png
 .. |O2-Spain| image:: /screenshots/o2-spain.png
 .. |Omnivox| image:: /screenshots/omnivox.png
@@ -2628,15 +2729,19 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |PoleEmploi| image:: /screenshots/pole-emploi.png
 .. |Premera| image:: /screenshots/premera.png
 .. |Progressive Home by Homesite| image:: /screenshots/progressive-homesite.png
+.. |push-tan| image:: /screenshots/push-tan.png
 .. |Raiffeisen Bank Serbia| image:: /screenshots/raiffeisen_bank_srb.png
 .. |Red Hat| image:: /screenshots/redhat.png
 .. |Rediff| image:: /screenshots/rediff.png
+.. |returnofreckoning| image:: /screenshots/returnofreckoning.png
 .. |Rogers| image:: /screenshots/rogers.png
 .. |Roll 20| image:: /screenshots/Roll20.png
 .. |Runescape| image:: /screenshots/runescape.png
 .. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
+.. |Saturn| image:: /screenshots/saturn.png
+.. |SBI| image:: /screenshots/sbi.png
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Sears| image:: /screenshots/sears.png
 .. |SecureAccess Washington| image:: /screenshots/secureaccess-wa.png
@@ -2664,6 +2769,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Targobank| image:: /screenshots/targobank.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |Telekom/T-Systems MyWorkplace| image:: /screenshots/myworkplace.png
+.. |testpreptraining| image:: /screenshots/testpreptraining.png
 .. |ThamesWater| image:: /screenshots/ThamesWater.png
 .. |Three-Change| image:: /screenshots/three-change.png
 .. |Three-Reset| image:: /screenshots/three-reset.png
@@ -2679,8 +2785,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
 .. |University of Texas as Austin| image:: /screenshots/ut-austin.png
-.. |University of Western Australia Pheme| image:: /screenshots/uwa-pheme.png
 .. |University of Western Australia Pheme inspector| image:: /screenshots/uwa-pheme-inspector.png
+.. |University of Western Australia Pheme| image:: /screenshots/uwa-pheme.png
 .. |University of Windsor| image:: /screenshots/uwindsor.png
 .. |URSSAF| image:: /screenshots/urssaf.png
 .. |USAA| image:: /screenshots/usaa.png
@@ -2689,9 +2795,9 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Vietnam Airlines| image:: /screenshots/vietnamairlines.png
 .. |Viobank| image:: /screenshots/viobank.png
 .. |Vip Mobile Serbia| image:: /screenshots/vip_mobile_srb.png
-.. |Virgin Media| image:: /screenshots/virginmedia.jpg
-.. |Virgin Media Too Long| image:: /screenshots/virginmediatoolong.png
 .. |Virgin Media Invalid| image:: /screenshots/virginmediainvalid.png
+.. |Virgin Media Too Long| image:: /screenshots/virginmediatoolong.png
+.. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
 .. |WageWorks| image:: /screenshots/wageworks.png
