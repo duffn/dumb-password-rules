@@ -1783,12 +1783,28 @@ Hmmm.. why are they afraid of double and single quotes in my passwords?
 |Rushmore|
 
 
+`Safeway <https://shop.safeway.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords limited to 8-12 characters.
+
+|Safeway|
+
+
 `SAP Cloud Appliance Library <https://cal.sap.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Passwords between 8 and 9 characters are the best.
 
 |SAP Cloud Appliance Library|
+
+
+`Saturn <https://saturn.de/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords need to be between 8 and 15 characters.
+
+|Saturn|
 
 
 `Scandinavian Airlines <https://www.flysas.com/us-en/>`__
@@ -1809,13 +1825,6 @@ Answer form SAS customer service::
 
 |Scandinavian Airlines|
 
-
-`Safeway <https://shop.safeway.com/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Passwords limited to 8-12 characters.
-
-|Safeway|
 
 
 `Sears <https://www.sears.com/>`__
@@ -2704,6 +2713,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Rushmore| image:: /screenshots/rushmore-loan-managment-services.png
 .. |Safeway| image:: /screenshots/safeway.png
 .. |SAP Cloud Appliance Library| image:: /screenshots/sapcal.png
+.. |Saturn| image:: /screenshots/saturn.png
 .. |SBI| image:: /screenshots/sbi.png
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Sears| image:: /screenshots/sears.png
