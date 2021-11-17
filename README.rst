@@ -1680,6 +1680,21 @@ forcing you to manually type your 32-letters-long generated password.
 |PoleEmploi|
 
 
+`Polytechnique Montreal <https://www.polymtl.ca/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Passwords must have a minimum length of 8 characters
+Passwords must have a maximum length of 30 characters
+Passwords must contain a minimum of 2 digits
+Passwords must contain a minimum of 2 letters
+Password must be different than the last one used 
+Passwords may contain these special characters (! & % $)
+
+
+|PolyMTL|
+
+
 `Premera Blue Cross <https://account.premera.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
