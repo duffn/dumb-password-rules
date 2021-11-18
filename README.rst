@@ -1680,6 +1680,20 @@ forcing you to manually type your 32-letters-long generated password.
 |PoleEmploi|
 
 
+`Polytechnique Montreal <https://www.polymtl.ca/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords must have a minimum length of 8 characters
+Passwords must have a maximum length of 30 characters
+Passwords must contain a minimum of 2 digits
+Passwords must contain a minimum of 2 letters
+Password must be different than the last one used 
+Passwords may contain these special characters (! & % $)
+
+
+|PolyMTL|
+
+
 `Premera Blue Cross <https://account.premera.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2727,6 +2741,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |PizzaHut-2| image:: /screenshots/pizzahut2.png
 .. |PizzaHut-3| image:: /screenshots/pizzahut3.png
 .. |PoleEmploi| image:: /screenshots/pole-emploi.png
+.. |PolyMTL| image:: /screenshots/PolyMTL.png
 .. |Premera| image:: /screenshots/premera.png
 .. |Progressive Home by Homesite| image:: /screenshots/progressive-homesite.png
 .. |push-tan| image:: /screenshots/push-tan.png
