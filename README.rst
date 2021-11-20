@@ -1638,6 +1638,8 @@ only supports offline multiplayer.
 
 Must be between 8 and 20 characters, no spaces, uppercase and lowercase, one symbol...
 
+The rule limits special characters to !@#$%^&*(). but my current password has a "-" in it so someone decided to restrict this further which is totally backwards. Things are meant to get better not worse!
+
 |PayPal|
 
 
