@@ -1224,6 +1224,13 @@ You have to enter your 6-digit password using this Frenchy keypad.
 
 |lcl.fr|
 
+`Liberty Mutual <https://www.libertymutual.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Must not contain spaces or the following characters: @/\*%<&+>
+
+|libertymutual|
+
 
 `LibraryThing <https://www.librarything.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
