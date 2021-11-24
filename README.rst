@@ -156,6 +156,17 @@ Your password needs to be between 6 and 12 characters long, must contain only le
 
 |AmiAmi|
 
+`Ancestry <https://www.ancestry.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password:
+
+- Must be at least 8 characters long
+- Must contain at least 1 number
+- Must contain at least 1 letter or special character
+- Must not be a well known or common password
+
+|Ancestry|
 
 `ANZ Bank <https://anz.com.au/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -567,6 +578,12 @@ Does not allow simple characters and sequences such as '4587' or 'efgh' in passw
 
 .. image:: screenshots/coil.png
 
+`College Board <https://www.collegeboard.org>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be 9-30 characters with at least one upper case letter, one lower case letter, one number and one special character (no spaces) and be different than your username.
+
+|collegeboard|
 
 
 `Comcast <https://customer.xfinity.com/#/settings/security/xfinity-access/password>`__
@@ -1165,6 +1182,16 @@ restrictions too:
 
 |Interactive Brokers|
 
+`IRS <irs.gov>`__
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password rules:
+
+- Between 8 and 32 characters long
+- Must contain at least one numeric and one special character (!@#$%&*)
+- At least one uppercase and at least one lowercase letter
+
+|IRS|
 
 `Izly by Crous <https://mon-espace.izly.fr/Home/Logon>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1215,6 +1242,13 @@ Okay, doesn't looks that hard... But wait, there are hidden rules!
 I was quite suprised to see this when I was registering for my Google Professional Cloud **Security** Engineer certification. Nice part is that they **don't allow quotes** as special character, so I assume there possibly might be some other issues on their backends. :-)
 
 |Kryterion Webassessor|
+
+`La Banque Postale <https://www.labanquepostale.fr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be 6 digits and entered on custom pad.
+
+|La Banque Postale|
 
 
 `LCL <https://www.lcl.fr>`__
@@ -1486,6 +1520,25 @@ User ID *has to* be 8 characters exactly, password *has to be* 8 characters and 
 |myswisslife-1|
 |myswisslife-2|
 
+`NASA Earth Data <https://urs.earthdata.nasa.gov/users/new>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Username must:
+
+- Be a Minimum of 4 characters
+- Be a Maximum of 30 characters
+- Use letters, numbers, periods, and underscores
+- Not contain any blank spaces
+- Not begin, end or contain two consecutive special characters(._)
+
+Password must contain:
+
+- Minimum of 8 characters
+- One Uppercase letter
+- One Lowercase letter
+- One Number
+
+|NASA Earth Data|
 
 `NBA Store <https://store.nba.com>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2578,6 +2631,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AmiAmi| image:: /screenshots/amiami.jpg
+.. |Ancestry| image:: /screenshots/ancestry.png
 .. |ANZBank| image:: /screenshots/anz_bank.png
 .. |AOK1| image:: /screenshots/aok1.png
 .. |AOK2| image:: /screenshots/aok2.png
@@ -2627,6 +2681,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Cigna| image:: /screenshots/my.cigna.com.png
 .. |Citi| image:: /screenshots/citi.png
 .. |CloverSecurity| image:: /screenshots/cloversecurity.png
+.. |collegeboard| image:: /screenshots/collegeboard.png
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Commsec| image:: /screenshots/commsec.png
 .. |Copart| image:: /screenshots/copart.png
@@ -2691,13 +2746,16 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |INSS| image:: /screenshots/inss.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |Interactive Brokers| image:: /screenshots/interactive_brokers.png
+.. |IRS| image:: /screenshots/irs.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |Keimyung1| image:: /screenshots/keimyung1.png
 .. |Keimyung2| image:: /screenshots/keimyung2.png
 .. |Keimyung3| image:: /screenshots/keimyung3.png
 .. |Kryterion Webassessor| image:: /screenshots/webassessor.png
+.. |La Banque Postale| image:: /screenshots/labanquepostale.png
 .. |lcl.fr| image:: /screenshots/lcl.png
+.. |libertymutual| image:: /screenshots/libertymutual.png
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
 .. |Lowes| image:: /screenshots/lowes.png
@@ -2726,6 +2784,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |myswisslife-1| image:: /screenshots/myswisslife-1.jpg
 .. |myswisslife-2| image:: /screenshots/myswisslife-2.jpg
 .. |MyWorkplace| image:: /screenshots/myworkplace.png
+.. |NASA Earth Data| image:: /screenshots/nasaearthdata.png
 .. |NationalBankOfCanada| image:: /screenshots/nbc.png
 .. |NBAStore| image:: /screenshots/nbastore.png
 .. |NBank| image:: /screenshots/nbank.jpg
