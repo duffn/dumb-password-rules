@@ -114,6 +114,14 @@ Also, this gibberish if you intentionally left the "confirm password" field empt
 |Alibaba|
 
 
+`American Airlines <https://https://www.aa.com/loyalty/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Between 6 and 16 characters
+
+|American Airlines|
+
+
 `American Express <https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2628,6 +2636,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Air Miles| image:: /screenshots/airmiles.png
 .. |Alibaba| image:: /screenshots/alibaba.png
 .. |ameli.fr| image:: /screenshots/ameli.fr.png
+.. |American Airlines| image:: /screenshots/american_airlines.png
 .. |American Express| image:: /screenshots/american-express.jpg
 .. |AmeriHealth| image:: /screenshots/amerihealth.png
 .. |AmiAmi| image:: /screenshots/amiami.jpg
