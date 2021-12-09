@@ -636,7 +636,7 @@ Due to Costco's short max password length of 16 characters, I strongly recommend
 
 * Use between 8 and 16 characters
 * Include at least one lowercase (a-z) and one uppercase letter (A-Z)
-* Include at least one special character(e.g. !@#$&)
+* Include at least one special character (e.g. !@#$&) - i.e., any symbol above the 0-9 keys)
 * Does not contain blank spaces or the following special characters: < > ,
 * Include at least one digit (0-9)
 
