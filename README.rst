@@ -636,6 +636,21 @@ Password has to be between 6 and 10 characters, can't contain any punctuation an
 
 |Coventry Building Society|
 
+`Costco.com <https://www.costco.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Due to Costco's short max password length of 16 characters, I strongly recommend using a password manager to make a random password to satisfy all of these conditions below:
+
+* Use between 8 and 16 characters
+* Include at least one lowercase (a-z) and one uppercase letter (A-Z)
+* Include at least one special character(e.g. !@#$&)
+* Does not contain blank spaces or the following special characters: < > ,
+* Include at least one digit (0-9)
+
+For the record, at least Costco.com has greatly improved after the summer of 2021 - before that, the site used to prohibit copying and pasting passwords, which prevented password managers from working properly. I believe the max password length was also longer before the summer of 2021 (either 20 or 32 characters), but I cannot confirm this since I never took a screenshot.
+
+|Costco.com|
+
 
 `Credit Agricole <https://www.credit-agricole.fr/ca-paris/particulier/acceder-a-mes-comptes.html0>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2695,6 +2710,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Commsec| image:: /screenshots/commsec.png
 .. |Copart| image:: /screenshots/copart.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
+.. |Costco.com| image:: /screenshots/Costco.com.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
 .. |Credit Agricole| image:: /screenshots/ca-paris.png
 .. |Credit Union Australia (CUA) Health| image:: /screenshots/cua-health.png
