@@ -629,13 +629,6 @@ I wonder if they cooperate with NSA to enforce the password rules.
 |Copyright.gov|
 
 
-`Coventry Building Society <https://www.coventrybuildingsociety.co.uk/>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Password has to be between 6 and 10 characters, can't contain any punctuation and you have to give characters from it on the phone to confirm identity.
-
-|Coventry Building Society|
-
 `Costco.com <https://www.costco.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -650,6 +643,14 @@ Due to Costco's short max password length of 16 characters, I strongly recommend
 For the record, at least Costco.com has greatly improved after the summer of 2021 - before that, the site used to prohibit copying and pasting passwords, which prevented password managers from working properly. I believe the max password length was also longer before the summer of 2021 (either 20 or 32 characters), but I cannot confirm this since I never took a screenshot.
 
 |Costco.com|
+
+
+`Coventry Building Society <https://www.coventrybuildingsociety.co.uk/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password has to be between 6 and 10 characters, can't contain any punctuation and you have to give characters from it on the phone to confirm identity.
+
+|Coventry Building Society|
 
 
 `Credit Agricole <https://www.credit-agricole.fr/ca-paris/particulier/acceder-a-mes-comptes.html0>`__
