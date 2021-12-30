@@ -2226,7 +2226,7 @@ Your password must:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - The username is the cell phone number (easy to get)
-- The company creates a 9 character password for you
+- The company creates a password between 8 and 12 characters for you
 - Password must contain at least 1 capital letter and no special characters
 
 |Telcel|
