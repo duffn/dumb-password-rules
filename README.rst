@@ -2222,6 +2222,16 @@ Your password must:
 |Techcombank|
 
 
+`Telcel <https://www.mitelcel.com/mitelcel/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- The username is the cell phone number (easy to get)
+- The company creates a password between 8 and 12 characters for you
+- Password must contain at least 1 capital letter and no special characters
+
+|Telcel|
+
+
 `Telekom/T-Systems MyWorkplace <https://www.websso.t-systems.com/MyWorkplace/General/TSIPageContainer.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2877,6 +2887,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Tangerine| image:: /screenshots/tangerine.png
 .. |Targobank| image:: /screenshots/targobank.png
 .. |Techcombank| image:: /screenshots/techcombank.png
+.. |Telcel| image:: /screenshots/Telcel.png
 .. |Telekom/T-Systems MyWorkplace| image:: /screenshots/myworkplace.png
 .. |testpreptraining| image:: /screenshots/testpreptraining.png
 .. |ThamesWater| image:: /screenshots/ThamesWater.png
