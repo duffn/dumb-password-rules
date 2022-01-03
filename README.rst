@@ -2318,6 +2318,22 @@ You can gamble on our site. We'll keep your money secure with a 12 character pas
 |TwinSpires|
 
 
+`TikTok <https://www.tiktok.com/signup/phone-or-email/email>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TikTok, known in China as Douyin, is a video-focused social networking service owned by Chinese company ByteDance. It hosts a variety of short-form user videos, from genres like pranks, stunts, tricks, jokes, dance, and entertainment with durations from 15 seconds to three minutes. TikTok is an international version of Douyin, which was originally released in the Chinese market in September 2016. TikTok was launched in 2017 for iOS and Android in most markets outside of mainland China; however, it became available worldwide only after merging with another Chinese social media service, Musical.ly, on 2 August 2018.
+
+.. image:: screenshots/tiktok.png
+
+The Password Policy:
+
+- You can signin/signup with a phone number or email.
+- You can only use 8-20 character long password.
+- You can use Letters, numbers, and special characters.
+
+|TikTok|
+
+
 `Ubisoft <https://account.ubisoft.com/en-GB/action/change-password>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
