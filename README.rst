@@ -1206,6 +1206,12 @@ restrictions too:
 
 |Interactive Brokers|
 
+`Irodoricomics <https://irodoricomics.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A website to buy english-localized doujins. The password must be between 4 and 20 characters long
+
+|Irodoricomics|
+
 `IRS <irs.gov>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2782,6 +2788,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |INSS| image:: /screenshots/inss.png
 .. |Intel| image:: /screenshots/intel.jpg
 .. |Interactive Brokers| image:: /screenshots/interactive_brokers.png
+.. |Irodoricomics| image:: /screenshots/irodoricomics.png
 .. |IRS| image:: /screenshots/irs.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
