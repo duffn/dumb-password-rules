@@ -1318,6 +1318,17 @@ It seems to be only written down to irritate customers.
 
 |Nevada DMV|
 
+`
+Banco <https://www.novobanco.pt/particulares/login>`__ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+|Novo Banco| 
+
+- Passcode must be entered by using the mouse
+- Keypad layout changes every unique session
+- Slider at bottom of screen is pointless and just changes size of text?!
+- Password is numerical with only 6 characters
+
 
 `NVV (Nordhessische VerkehrsVerbund) <https://nvv.mobilesticket.de/ticketportal/register.jsf>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2340,6 +2351,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |NectarApi| image:: /screenshots/nectar-api.png
 .. |Netflix| image:: /screenshots/netflix.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
+.. |Novo Banco| image:: /screenshots/novo-banco.png
 .. |NVV| image:: /screenshots/nvv.png
 .. |Omnivox| image:: /screenshots/omnivox.png
 .. |Onleihe| image:: /screenshots/onleihe.png
