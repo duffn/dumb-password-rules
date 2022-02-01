@@ -1133,9 +1133,10 @@ the Chrome extension Don't Fuck With Paste.
 `Microsoft (e company store) <https://store.ecompanystore.com/microsoftevents/Shop/Register/PASSHOLDER#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Max of 16 character oh and please don't use any characters we don'y know how to escape properly 
-also if it starts with ? you may break our wonderful website. What out with your password generator 
-duplicated charaters is far too insecure to allow here.
+* Max of 16 character 
+* Limited sub-set of special characters only
+* Not allowed to starts with 
+* No duplicated charaters
 
 |Microsoft (e company store)|
 
