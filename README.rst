@@ -2351,7 +2351,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |NectarApi| image:: /screenshots/nectar-api.png
 .. |Netflix| image:: /screenshots/netflix.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
-.. |Novo Banco| image:: /screenshots/novo-banco.png
+.. |Novo Banco| image:: /screenshots/Novo-banco.png
 .. |NVV| image:: /screenshots/nvv.png
 .. |Omnivox| image:: /screenshots/omnivox.png
 .. |Onleihe| image:: /screenshots/onleihe.png
