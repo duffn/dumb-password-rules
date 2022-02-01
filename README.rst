@@ -1318,8 +1318,7 @@ It seems to be only written down to irritate customers.
 
 |Nevada DMV|
 
-`
-Banco <https://www.novobanco.pt/particulares/login>`__ 
+`Novo Banco <https://www.novobanco.pt/particulares/login>`__ 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |Novo Banco| 
