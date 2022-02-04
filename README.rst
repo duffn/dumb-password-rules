@@ -504,6 +504,17 @@ Letters and numbers only, no symbols. Also an undocumented maximum of 12 charact
 
 |Capital One|
 
+`CENLAR <https://www.loanadministration.com/cenlarfsb/#/login>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Your password can meet all the requirements in the list and still be invalid due to
+an unspecified rule: any "special characters" that are not listed in the help text
+are not allowed. Worse, it provides no useful feedback other than the "New Password"
+field is red.
+
+|CENLAR|
+
 
 `CenturyLink <https://eam.centurylink.com/eam/login.do>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2711,6 +2722,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |California DMV| image:: /screenshots/ca-dmv.png
 .. |Canada Revenue Agency| image:: /screenshots/CanadaRevenueAgency.png
 .. |Capital One| image:: /screenshots/capitalone.png
+.. |CENLAR| image:: /screenshots/cenlar.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CenturyLink Residential| image:: /screenshots/centurylink-residential.png
 .. |Charles Sturt University| image:: /screenshots/csu.edu.au.png
