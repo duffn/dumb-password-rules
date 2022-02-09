@@ -275,7 +275,12 @@ The only special characters allowed are underscores and hyphens.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 20 character max and lots of special character restrictions.
-Bank of America - keeping your money safe.
+Bank of America - keeping your money safe. 
+
+Also: If you paste a password greater than 20 characters, 
+the form truncates it without telling you or giving an 
+error.
+
 
 |Bank of America|
 
