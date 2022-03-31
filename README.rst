@@ -886,6 +886,13 @@ Reset uses a Security Question, and you have to choose from a list of 5.
 |EllieMae2|
 |EllieMae3|
 
+`Entwickler.de <https://entwickler.de>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Your password must be 12-20 characters.
+
+|Entwickler.de|
+
 
 `EON <https://www.eonenergy.com/for-your-home/your-account/forgotten-password/non-link-reset/Reset>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2770,6 +2777,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |EllieMae1| image:: /screenshots/elliemae1.png
 .. |EllieMae2| image:: /screenshots/elliemae2.png
 .. |EllieMae3| image:: /screenshots/elliemae3.png
+.. |Entwickler.de| image:: /screenshots/entwicklerde.png
 .. |EON| image:: /screenshots/eon.png
 .. |EquifaxTheWorkNumber| image:: /screenshots/EquifaxTheWorkNumber.png
 .. |ETrade| image:: /screenshots/etrade.png
