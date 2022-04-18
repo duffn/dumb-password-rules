@@ -2015,6 +2015,26 @@ Also no symbols are allowed. But this isn't displayed.
 |Sharekhan|
 
 
+`SielteID <https://myid.sieltecloud.it/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sielte is one of the four Italian digital identity providers of level 3 (the highest available).
+
+The rules are as such:
+
+- At least 8 characters
+- At most 16 characters
+- Must have both lower and upper characters
+- Must have one or more digits and one or more of the following "special characters": `~!@#$%^&*()_-+={}[]\|:;"'<>,.?/-`
+- Must not have more than two identical consecutive characters
+
+Italian vowels with accents are considered to be invalid.
+
+Both the old and the new password are sent to the server without beign hashed first. Validation happens on the server side only.
+
+|SielteID|
+
+
 `Singapore Airlines <https://www.singaporeair.com/en_UK/ppsclub-krisflyer/registration-form/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
