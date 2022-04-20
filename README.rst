@@ -2918,6 +2918,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |SecureAccess Washington| image:: /screenshots/secureaccess-wa.png
 .. |Seur| image:: /screenshots/seur.png
 .. |Sharekhan| image:: /screenshots/sharekhan.png
+.. |SielteID| image:: /screenshots/sielteid.png
 .. |Singapore Airlines| image:: /screenshots/singaporeairlines.png
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
