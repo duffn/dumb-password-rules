@@ -1664,8 +1664,6 @@ It seems to be only written down to irritate customers.
 `NordVPN <https://nordvpn.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Claims to protect your security. Can't even hash a password.
-
 - Password cannot be longer than 48 characters.
 
 |NordVPN|
