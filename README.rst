@@ -309,6 +309,18 @@ tho.
 |Banco Mercantil|
 
 
+`Banco Nacional (Costa Rica National Bank) <https://www.bncr.fi.cr/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Between 8 and 16 characters.
+Must have 4 numbers and 4 letters.
+Must not contain same letter or number in consecutive order.
+Can't contain vocal letters neither the letter Ñ.
+Password can't be the same as the previous 6 used.
+
+|Banco Nacional CR|
+
+
 `Bank Millennium <https://www.bankmillennium.pl/osobiste2/Retail/Login/MulticodeRequest>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2727,6 +2739,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |ATT| image:: /screenshots/att.png
 .. |Banca Intesa Serbia| image:: /screenshots/banca_intesa_serbia.png
 .. |Banco Mercantil| image:: /screenshots/banco-mercantil.png
+.. |Banco Nacional CR| image:: /screenshots/banco-nacional-cr.png
 .. |Bank Millennium| image:: /screenshots/bank-millennium.png
 .. |Bank of America| image:: /screenshots/boa.png
 .. |Battle.net| image:: /screenshots/battlenet.png
