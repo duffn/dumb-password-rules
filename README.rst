@@ -2080,6 +2080,14 @@ and one number. Certain special characters are also allowed, but the first chara
 |Southwest|
 
 
+`South Western Railway <https://www.southwesternrailway.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Certain special characters disallowed, but notably the phrase " or " is disallowed also. They're probably papering over SQL injection vulnerabilities 🤦
+
+|South Western Railway|
+
+
 `Sparda-Bank <https://banking.sparda-m.de/spm/?institut=7009>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2934,6 +2942,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Sky Ticket| image:: /screenshots/sky-ticket.png
 .. |Slovenska sporitelna| image:: /screenshots/slsp.png
 .. |Southwest| image:: /screenshots/southwest.png
+.. |South Western Railway| image:: /screenshots/southwesternrailway.png
 .. |Sparda B| image:: /screenshots/sparda-b.png
 .. |Sparda M 1| image:: /screenshots/sparda-m-1.png
 .. |Sparda M 2| image:: /screenshots/sparda-m-2.png
