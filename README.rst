@@ -937,6 +937,14 @@ Minimum 4 and maximum 30 chars. Use only letters (a-z), numbers (0-9) and unders
 
 |Eurocircuits|
 
+`Express Energy <https://myexpressenergy.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Retail Electricity Provider (REP) participating in ERCOT.
+
+Minimum 6, maximum 10. Stated requirement of numbers and letters, but special characters are accepted.
+
+|ExpressEnergy|
 
 `FACE IT Ltd. (Faceit) <https://www.faceit.com/en/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
