@@ -944,7 +944,7 @@ Retail Electricity Provider (REP) participating in ERCOT.
 
 Minimum 6, maximum 10. Stated requirement of numbers and letters, but special characters are accepted.
 
-|express_energy_tx_registration|
+|ExpressEnergy|
 
 `FACE IT Ltd. (Faceit) <https://www.faceit.com/en/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2829,6 +2829,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |EquifaxTheWorkNumber| image:: /screenshots/EquifaxTheWorkNumber.png
 .. |ETrade| image:: /screenshots/etrade.png
 .. |Eurocircuits| image:: /screenshots/eurocircuits.png
+.. |ExpressEnergy| image:: /screenshots/express_energy_tx_registration.png
 .. |Faceit| image:: /screenshots/faceit.png
 .. |Fidelity| image:: /screenshots/fidelity.png
 .. |FIS Global| image:: /screenshots/fisglobal.png
