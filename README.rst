@@ -937,7 +937,7 @@ Minimum 4 and maximum 30 chars. Use only letters (a-z), numbers (0-9) and unders
 
 |Eurocircuits|
 
-`Express Energy <https://myexpressenergy.com>`__
+`Express Energy <https://www.myexpressenergy.com/account-register>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Retail Electricity Provider (REP) participating in ERCOT.
