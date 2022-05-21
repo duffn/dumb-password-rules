@@ -648,6 +648,12 @@ Also Copart: "We're gonna need you to keep your password between 5-10 characters
 
 |Copart|
 
+`Coppell, TX - Water Utility <https://munselfservice.coppelltx.gov/prod/tyleridcore/userprovisioning/#/register/new>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Local Utility with a password restriction of 30 characters. Better than some for sure, but still dumb.
+
+|CoppellWaterUtility|
 
 `Copyright.gov <https://www.copyright.gov/eco/help-password-userid.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2797,6 +2803,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Commsec| image:: /screenshots/commsec.png
 .. |Copart| image:: /screenshots/copart.png
+.. |CoppellWaterUtility| image:: /screenshots/coppell_tx_water_utility.png
 .. |Copyright.gov| image:: /screenshots/copyright-gov.png
 .. |Costco.com| image:: /screenshots/Costco.com.png
 .. |Coventry Building Society| image:: /screenshots/coventry-building-society.png
