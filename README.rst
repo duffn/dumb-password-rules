@@ -1462,6 +1462,12 @@ the Chrome extension Don't Fuck With Paste.
 
 |MetLife|
 
+`Michigan.gov <https://milogin.michigan.gov/uisecure/selfservice/anonymous/register.do>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Must use special characters, but only from this list of stuff we think is safe or whatever.
+
+|Michigan.gov|
 
 `Microsoft (e company store) <https://store.ecompanystore.com/microsoftevents/Shop/Register/PASSHOLDER#/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2890,6 +2896,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |ME Bank| image:: /screenshots/me-bank.png
 .. |Merrill Lynch| image:: /screenshots/merrill-lynch.png
 .. |MetLife| image:: /screenshots/metlife.png
+.. |Michigan.gov| image:: /screenshots/michigan.gov.png
 .. |Microsoft (e company store)| image:: /screenshots/Microsoft-ecompanystore.png
 .. |Microsoft (work accounts)| image:: /screenshots/microsoftwork.png
 .. |Mindware| image:: /screenshots/mindware1.png
