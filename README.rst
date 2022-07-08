@@ -1225,12 +1225,21 @@ The National Social Security Institute (INSS) is an autarchy of the Government o
 
 |INSS|
 
-
 `Intel <https://www-ssl.intel.com/content/www/uk/en/my-intel/reseller-sign-in-help.html>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |Intel|
 
+`Intelink Passport <https://passport.intelink.gov>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Intelink is a group of "secure" intranets used by the United States Intelligence Community. Passport is
+an identity and access management service for Intelink.
+
+Rule #3 prohibits three or more consecutive uppercase, lowercase, or digit characters, even if those
+characters are not the same. For example, a password with "ABC" or "829" anywhere in it would not be allowed.
+
+|Intelink|
 
 `Interactive Brokers <https://ndcdyn.interactivebrokers.com/Universal/servlet/Application.ApplicationSelector>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1768,7 +1777,6 @@ A service for screen sharing and enabling online multiplayer gaming, when the so
 only supports offline multiplayer.
 
 |Parsec|
-
 
 `PayPal <https://www.paypal.com/welcome/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2867,6 +2875,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Inria| image:: /screenshots/inria.png
 .. |INSS| image:: /screenshots/inss.png
 .. |Intel| image:: /screenshots/intel.jpg
+.. |Intelink| image:: /screenshots/passport.intelink.gov.png
 .. |Interactive Brokers| image:: /screenshots/interactive_brokers.png
 .. |Irodoricomics| image:: /screenshots/irodoricomics.png
 .. |IRS| image:: /screenshots/irs.png
