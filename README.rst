@@ -996,6 +996,7 @@ Must be exactly 6 alphanumeric characters, does not show special characters are 
 
 
 `GameFly <https://www.gamefly.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Password is 6-12 characters with no other restrictions.  You can easily do 6 numbers, 6 lowercase letters, etc.
 
