@@ -995,6 +995,14 @@ Must be exactly 6 alphanumeric characters, does not show special characters are 
 |Fundatec|
 
 
+`GameFly <https://www.gamefly.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password is 6-12 characters with no other restrictions.  You can easily do 6 numbers, 6 lowercase letters, etc.
+
+|GameFly|
+
+
 `Gebührenfrei MasterCard <https://www.gebuhrenfrei.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2856,6 +2864,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |FIS Global| image:: /screenshots/fisglobal.png
 .. |Freepik| image:: /screenshots/freepik.png
 .. |Fundatec| image:: /screenshots/fundatec.png
+.. |GameFly| image:: /screenshots/Gamefly.png
 .. |Gebührenfrei MasterCard| image:: /screenshots/gebuhrenfrei-mastercard.png
 .. |Getin Bank| image:: /screenshots/getin.png
 .. |Global Entry| image:: /screenshots/global-entry.png
