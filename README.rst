@@ -2237,6 +2237,7 @@ Your password must:
 
 The password must consist of at least 10 and at most 50 characters. It must contain at least one special character, one number, one lower-case letter and one upper-case letter.
 The following characters are permitted for the password:
+
 - Lower-case letters (a-z)
 - Upper-case letters (A-Z)
 - Digits (0-9)
