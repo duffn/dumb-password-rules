@@ -2232,6 +2232,19 @@ Your password must:
 |SunLife|
 
 
+`Sunny Portal <https://www.sunnyportal.com/Account/Register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password must consist of at least 10 and at most 50 characters. It must contain at least one special character, one number, one lower-case letter and one upper-case letter.
+The following characters are permitted for the password:
+- Lower-case letters (a-z)
+- Upper-case letters (A-Z)
+- Digits (0-9)
+- Special characters (!\"§$%&/()=?*+'#-_.:,;|{[]}²³^°)
+
+|Sunny Portal|
+
+
 `SunTrust <https://www.suntrust.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2993,6 +3006,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Standard Chartered Bank| image:: /screenshots/standard-chartered-bank.png
 .. |State Bank of India| image:: /screenshots/sbi.png
 .. |SunLife| image:: /screenshots/sunlife.png
+.. |Sunny Portal| image:: /screenshots/sunny_portal.png
 .. |SunTrust| image:: /screenshots/suntrust.png
 .. |Synchrony Financial| image:: /screenshots/synchrony.png
 .. |T-Mobile| image:: /screenshots/tmobile.png
