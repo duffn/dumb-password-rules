@@ -1318,6 +1318,23 @@ While not the dumbest password rule, still dumb.
 
 |Jitterbit|
 
+`JPMorgan <https://www.jpmorgan.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 8-32 characters
+- Must include one lowercase, on UPPERCASE, and one number
+- Must not have special characters or punctuation
+- Must be different from your 24 previous passwords
+- Must not include your email partly or fully
+- Must not include your first or last name
+- Must not include more than 2 identical characters
+- Must not include more than 2 consecutive characters
+- Must not use the name of the financial institution (JPM, MORGAN, JPMORGAN, CHASE, JPMORGANCHASE, JPMC)
+
+Are you kidding me? 
+
+|JPMorgan|
+
 
 `Keimyung University <https://sso.kmu.ac.kr/kmusso/ext/edward/login_form.do/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
