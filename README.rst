@@ -2042,6 +2042,13 @@ providing no useful feedback.
 
 |SecureAccess Washington|
 
+`Sephora <https://www.sephora.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must be between 6 and 12 characters. No other rules
+specified.
+
+|Sephora|
 
 `Seur <https://www.seur.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2990,6 +2997,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Scandinavian Airlines| image:: /screenshots/sas.no.png
 .. |Sears| image:: /screenshots/sears.png
 .. |SecureAccess Washington| image:: /screenshots/secureaccess-wa.png
+.. |Sephora| image:: /screenshots/sephora.png
 .. |Seur| image:: /screenshots/seur.png
 .. |Sharekhan| image:: /screenshots/sharekhan.png
 .. |SielteID| image:: /screenshots/sielteid.png
