@@ -2483,6 +2483,15 @@ Now I wish I'd just said nothing and kept my 50-character password.
 
 |UniSuper|
 
+`United Airlines <https://united.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Security questions (and their answers!) must both be picked from dropdown
+menus with a limited number of answers and there is no option for unique
+answers.
+
+|United Airlines|
+
 
 `United Parcel Service of America <https://www.ups.com/doapp/signup>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3038,6 +3047,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |Unicaja| image:: /screenshots/unicaja.png
 .. |UniSuper| image:: /screenshots/unisuper.png
+.. |United Airlines| image:: /screenshots/unitedairlines.png
 .. |United Parcel Service of America| image:: /screenshots/ups.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
