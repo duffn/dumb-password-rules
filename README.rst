@@ -1155,6 +1155,22 @@ They don't seem to have a public registration form. You receive a registration l
 
 |IHG|
 
+`IKEA <https://www.ikea.com/in/en/profile/signup/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Dumb restriction for consecutive similar characters. Wonder if someone got more that 2 identical characters in their name then
+it won't allow you to even use name in password. 
+
+Password must contain: 
+
+- 8-20 characters
+- **No more than 2 identical characters in a row**
+- A lowercase letter (a-z)
+- An uppercase letter (A-Z)
+- Number or special character
+
+|IKEA|
+
 
 `ING a dutch bank in almost 50 countries <https://www.ing.nl/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2904,6 +2920,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |ING Australia| image:: /screenshots/ingaustralia.png
 .. |ING Romania| image:: /screenshots/ingromania.jpg
 .. |IHG| image:: /screenshots/ihg.png
+.. |IKEA| image:: /screenshots/ikea.jpg
 .. |ING Australia| image:: /screenshots/ingaustralia.png
 .. |ING Bank| image:: /screenshots/ingbank.png
 .. |ING Romania| image:: /screenshots/ingromania.jpg
