@@ -2329,6 +2329,19 @@ Your PIN can only contain numbers and must be between 4 and 6 numbers.
 |Tangerine|
 
 
+`Tanishq <https://www.tanishq.co.in/myaccount/register?url=https://www.tanishq.co.in/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must contain:
+
+- 6 to 16 characters.
+- Atleast one special character (@, #, $, %, * and & only).
+- Atleast one alphabet.
+- Atleat one number.
+
+|Tanishq|
+
+
 `Targobank <https://www.targobank.de/de/banque/change_password/UA_Gestion_ChPw.aspx/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3048,6 +3061,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Taco Bell| image:: /screenshots/taco-bell.png
 .. |Taiwan Pingtung University| image:: /screenshots/nptu.png
 .. |Tangerine| image:: /screenshots/tangerine.png
+.. |Tanishq| image:: /screenshots/tanishq.png
 .. |Targobank| image:: /screenshots/targobank.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |Telcel| image:: /screenshots/Telcel.png
