@@ -607,6 +607,13 @@ A max of 12 characters... Can't handle most symbols (only 5 supported). At least
 
 |CloverSecurity|
 
+`CodePen <https://codepen.io/accounts/signup/user/free>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The password should be of atleast 8 characters and must include a number, special character, an upper as well as a lowercase letter
+
+|CodePen|
+
 `Coil <https://coil.com/signup?type=creator>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2880,6 +2887,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Cigna| image:: /screenshots/my.cigna.com.png
 .. |Citi| image:: /screenshots/citi.png
 .. |CloverSecurity| image:: /screenshots/cloversecurity.png
+.. |CodePen| image:: /screenshots/codepen.jpg
 .. |collegeboard| image:: /screenshots/collegeboard.png
 .. |Comcast| image:: /screenshots/comcast.png
 .. |Commsec| image:: /screenshots/commsec.png
