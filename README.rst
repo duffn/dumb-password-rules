@@ -2329,6 +2329,19 @@ Your PIN can only contain numbers and must be between 4 and 6 numbers.
 |Tangerine|
 
 
+`Tanishq <https://www.tanishq.co.in/myaccount/register?url=https://www.tanishq.co.in/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must contain:
+
+- 6 to 16 characters.
+- Atleast one special character (@, #, $, %, * and & only).
+- Atleast one alphabet.
+- Atleat one number.
+
+|Tanishq|
+
+
 `Targobank <https://www.targobank.de/de/banque/change_password/UA_Gestion_ChPw.aspx/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2498,6 +2511,15 @@ and simply reset my password.
 Now I wish I'd just said nothing and kept my 50-character password.
 
 |UniSuper|
+
+`United Airlines <https://united.com>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Security questions (and their answers!) must both be picked from dropdown
+menus with a limited number of answers and there is no option for unique
+answers.
+
+|United Airlines|
 
 
 `United Parcel Service of America <https://www.ups.com/doapp/signup>`__
@@ -3039,6 +3061,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Taco Bell| image:: /screenshots/taco-bell.png
 .. |Taiwan Pingtung University| image:: /screenshots/nptu.png
 .. |Tangerine| image:: /screenshots/tangerine.png
+.. |Tanishq| image:: /screenshots/tanishq.png
 .. |Targobank| image:: /screenshots/targobank.png
 .. |Techcombank| image:: /screenshots/techcombank.png
 .. |Telcel| image:: /screenshots/Telcel.png
@@ -3055,6 +3078,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Ubisoft| image:: /screenshots/ubisoft.PNG
 .. |Unicaja| image:: /screenshots/unicaja.png
 .. |UniSuper| image:: /screenshots/unisuper.png
+.. |United Airlines| image:: /screenshots/unitedairlines.png
 .. |United Parcel Service of America| image:: /screenshots/ups.png
 .. |United States Postal Service| image:: /screenshots/usps.png
 .. |University of California San Diego| image:: /screenshots/ucsd.png
