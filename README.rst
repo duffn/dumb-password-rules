@@ -1323,6 +1323,15 @@ Oh and also look we got pages **NOT TRANSLATED IN FRENCH** because duh.
 |Izly by Crous|
 
 
+`Jaa Lifestyle <https://www.jaalifestyle.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When we try to change password and accidentally gave a wrong password for confirm password.
+Lets try to read and figure out what they are trying to point out.
+
+|Jaa|
+
+
 `Jitterbit <https://www.jitterbit.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2955,6 +2964,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Irodoricomics| image:: /screenshots/irodoricomics.png
 .. |IRS| image:: /screenshots/irs.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
+.. |Jaa| image:: /screenshots/JaaLifestyle.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |Keimyung1| image:: /screenshots/keimyung1.png
 .. |Keimyung2| image:: /screenshots/keimyung2.png
