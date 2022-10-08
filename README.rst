@@ -2694,6 +2694,21 @@ confusion when the password wouldn't work.
 |Virgin Trains|
 
 
+`Vistara <https://www.airvistara.com/in/en/club-vistara/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must contain:
+
+- 8 to 12 Characters.
+- Atleast one lowercase and uppercase letter.
+- Atleast one numeric character.
+- Atleast one special character (!, @, #, $, %, %, ^, &, +, =).
+
+Must not contain space, first or last name.
+
+|Vistara|
+
+
 `Wageworks <https://participant.wageworks.com/Home.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3084,6 +3099,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
+.. |Vistara| image:: /screenshots/Vistara.png
 .. |WageWorks| image:: /screenshots/wageworks.png
 .. |Walmart| image:: /screenshots/walmart.png
 .. |Waze| image:: /screenshots/waze.png
