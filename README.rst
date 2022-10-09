@@ -548,6 +548,12 @@ Your password is too long. But how long can it be? Oh, we won't tell you.
 
 |CenturyLink Residential|
 
+`CGHS <https://cghs.nic.in/change%20password/upass.jsp>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Can't use any special characters except @ $ # ? _ * &
+
+|CGHS|
 
 `Charles Sturt University <https://www.csu.edu.au/division/dit/services/services/access-and-logins/password-management>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2902,6 +2908,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |CENLAR| image:: /screenshots/cenlar.png
 .. |CenturyLink| image:: /screenshots/centurylink.png
 .. |CenturyLink Residential| image:: /screenshots/centurylink-residential.png
+.. |CGHS| image:: /screenshots/CGHS.png
 .. |Charles Sturt University| image:: /screenshots/csu.edu.au.png
 .. |Chase| image:: /screenshots/chase.jpg
 .. |Chegg1| image:: /screenshots/chegg1.png
