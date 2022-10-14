@@ -811,8 +811,8 @@ The symbol `\\` is banned without a notice, it'll probably escape whatever you'l
 |DJI|
 
 
-`DKB AG <https://dkb.de>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Deutsche Kreditbank AG (DKB) <https://dkb.de>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Passwords for the online banking web frontend do not have a max length constraint, but using the same password to
 log in to the official iOS DKB app requires the password to be no longer than 38 characters.
