@@ -793,6 +793,15 @@ It's a good thing they don't store personal information such as your passport nu
 |Delta|
 
 
+`Deutsche Kreditbank AG (DKB) <https://dkb.de>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords for the online banking web frontend do not have a max length constraint, but using the same password to
+log in to the official iOS DKB app requires the password to be no longer than 38 characters.
+
+|dkb_app|
+
+
 `Discovery Benefits <https://benefitslogin.discoverybenefits.com/Login.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -809,15 +818,6 @@ has an unstated max length of 20 characters.
 The symbol `\\` is banned without a notice, it'll probably escape whatever you'll put in, just why...
 
 |DJI|
-
-
-`Deutsche Kreditbank AG (DKB) <https://dkb.de>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Passwords for the online banking web frontend do not have a max length constraint, but using the same password to
-log in to the official iOS DKB app requires the password to be no longer than 38 characters.
-
-|dkb_app|
 
 
 `Dnevnik.ru <https://login.dnevnik.ru/login>`__
