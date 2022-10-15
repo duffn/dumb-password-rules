@@ -793,6 +793,15 @@ It's a good thing they don't store personal information such as your passport nu
 |Delta|
 
 
+`Deutsche Kreditbank AG (DKB) <https://dkb.de>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Passwords for the online banking web frontend do not have a max length constraint, but using the same password to
+log in to the official iOS DKB app requires the password to be no longer than 38 characters.
+
+|dkb_app|
+
+
 `Discovery Benefits <https://benefitslogin.discoverybenefits.com/Login.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2940,6 +2949,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Discovery Benefits 1| image:: /screenshots/discovery-benefits-1.png
 .. |Discovery Benefits 2| image:: /screenshots/discovery-benefits-2.png
 .. |DJI| image:: /screenshots/dji-drones.png
+.. |dkb_app| image:: /screenshots/dkb_app.png
 .. |dnevnik| image:: /screenshots/dnevnik.png
 .. |Dutch Tax Authorities| image:: /screenshots/belastingdienst.jpg
 .. |dwrcymru| image:: /screenshots/dwrcymru.png
