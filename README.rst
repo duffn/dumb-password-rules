@@ -1089,12 +1089,12 @@ Max 14 characters for the most important password in your shared hosting environ
 |GreenFlag2|
 
 
-`Her Majesty’s Revenue & Customs (UK Tax) <https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown>`__
+`HM Revenue & Customs (UK Tax) <https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We store basically all of your data, but we can't store your password.
 
-|Her Majesty’s Revenue & Customs|
+|HM Revenue & Customs|
 
 
 `Hetzner <https://hetzner.com>`__
@@ -1726,6 +1726,21 @@ However, when trying to link my Sainsbury's account, I found the API has differe
 - Password field length capped to 16 characters
 
 |NectarApi|
+
+
+`NetBank (Commonwealth Bank of Australia) <https://www.my.commbank.com.au/netbank>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When resetting your NetBank password, the website only informs you that you can create an alphanumeric password, despite the fact that you can use special characters.
+And also, it's password strength calculation is shit.
+An 155 bits of entropy password is "weak."
+This isn't the worst I've seen, but on a bank, it's just bad.
+
+- Password length capped to 16 characters (min. 8)
+- Disallows use of <>^{}~= (interestingly, not quotes. so I wonder why these aren't allowed?)
+- Must include at least one number
+
+|NetBank-overview|
+|NetBank-info|
 
 
 `Netflix <https://www.netflix.com/>`__
@@ -2989,7 +3004,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |GoFundMe| image:: /screenshots/gofundme.png
 .. |GreenFlag1| image:: /screenshots/green-flag-1.png
 .. |GreenFlag2| image:: /screenshots/green-flag-2.png
-.. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
+.. |HM Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
 .. |HSABank| image:: /screenshots/hsabank.png
 .. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
@@ -3056,6 +3071,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |NectarApi| image:: /screenshots/nectar-api.png
 .. |Netflix| image:: /screenshots/netflix.png
+.. |NetBank-info| image:: /screenshots/NetBank-info.png
+.. |NetBank-overview| image:: /screenshots/NetBank-overview.png
 .. |NetworkRail| image:: /screenshots/networkrail.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |NordVPN| image:: /screenshots/nordvpn.png
