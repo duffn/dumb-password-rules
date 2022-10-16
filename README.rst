@@ -1089,12 +1089,12 @@ Max 14 characters for the most important password in your shared hosting environ
 |GreenFlag2|
 
 
-`Her Majesty’s Revenue & Customs (UK Tax) <https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown>`__
+`HM Revenue & Customs (UK Tax) <https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We store basically all of your data, but we can't store your password.
 
-|Her Majesty’s Revenue & Customs|
+|HM Revenue & Customs|
 
 
 `Hetzner <https://hetzner.com>`__
@@ -2996,7 +2996,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |GoFundMe| image:: /screenshots/gofundme.png
 .. |GreenFlag1| image:: /screenshots/green-flag-1.png
 .. |GreenFlag2| image:: /screenshots/green-flag-2.png
-.. |Her Majesty’s Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
+.. |HM Revenue & Customs| image:: /screenshots/tax.service.gov.uk.png
 .. |Hetzner| image:: /screenshots/hetzner.png
 .. |HSABank| image:: /screenshots/hsabank.png
 .. |IBM-TSO| image:: /screenshots/ibm_tso_logon.png
