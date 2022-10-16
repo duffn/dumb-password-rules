@@ -1728,6 +1728,21 @@ However, when trying to link my Sainsbury's account, I found the API has differe
 |NectarApi|
 
 
+`NetBank (Commonwealth Bank of Australia) <https://www.my.commbank.com.au/netbank>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When resetting your NetBank password, the website only informs you that you can create an alphanumeric password, despite the fact that you can use special characters.
+And also, it's password strength calculation is shit.
+An 155 bits of entropy password is "weak."
+This isn't the worst I've seen, but on a bank, it's just bad.
+
+- Password length capped to 16 characters (min. 8)
+- Disallows use of <>^{}~= (interestingly, not quotes. so I wonder why these aren't allowed?)
+- Must include at least one number
+
+|NetBank-overview|
+|NetBank-info|
+
+
 `Netflix <https://www.netflix.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3048,6 +3063,8 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |NBank| image:: /screenshots/nbank.jpg
 .. |NectarApi| image:: /screenshots/nectar-api.png
 .. |Netflix| image:: /screenshots/netflix.png
+.. |NetBank-info| image:: /screenshots/NetBank-info.png
+.. |NetBank-overview| image:: /screenshots/NetBank-overview.png
 .. |Nevada DMV| image:: /screenshots/dmvapp.nv.gov.png
 .. |NordVPN| image:: /screenshots/nordvpn.png
 .. |NPTU| image:: /screenshots/nptu.png
