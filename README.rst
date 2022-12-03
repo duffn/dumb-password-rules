@@ -1401,15 +1401,16 @@ You have to enter your 6-digit password using this Frenchy keypad.
 
 |lcl.fr|
 
-`LepidaID, an italian identity provider <https://id.lepida.it/>`__
+`LepidaID <https://id.lepida.it/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Password must:
+
 - be 8 to 16 characters in length
-- contain at least 1 uppercase letter
-- contain at least 1 lowercase letter
+- contain at least 1 upper-case character
+- contain at least 1 lower-case character
 - contain at least 1 number
-- contain at least 1 non alfanumeric character
+- contain at least 1 non-alfanumeric character
 - not contain more than 2 of the same consecutive characters
 - not contain any public data of the user like username, surname, birthdate, fiscal code, social security number, driver license number, etc.
 - not contain any common word like first names, common surnames, brands, years, words that can be found in dictionaries...
