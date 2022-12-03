@@ -1401,6 +1401,26 @@ You have to enter your 6-digit password using this Frenchy keypad.
 
 |lcl.fr|
 
+`LepidaID <https://id.lepida.it/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must:
+
+- be 8 to 16 characters in length
+- contain at least 1 upper-case character
+- contain at least 1 lower-case character
+- contain at least 1 number
+- contain at least 1 non-alfanumeric character
+- not contain more than 2 of the same consecutive characters
+- not contain any public data of the user like username, surname, birthdate, fiscal code, social security number, driver license number, etc.
+- not contain any common word like first names, common surnames, brands, years, words that can be found in dictionaries...
+- not used before
+Moreover password will expire every 180 days.
+
+Actually, many swear words are permitted.
+
+|LepidaID|
+
 `Liberty Mutual <https://www.libertymutual.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -3035,6 +3055,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Kryterion Webassessor| image:: /screenshots/webassessor.png
 .. |La Banque Postale| image:: /screenshots/labanquepostale.png
 .. |lcl.fr| image:: /screenshots/lcl.png
+.. |LepidaID| image:: /screenshots/Lepida_Id_2.png
 .. |libertymutual| image:: /screenshots/libertymutual.png
 .. |LibraryThing| image:: /screenshots/librarything.png
 .. |Lloyds| image:: /screenshots/lloyds.png
