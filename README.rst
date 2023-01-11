@@ -748,6 +748,17 @@ Password:
 |CWT|
 
 
+`Datart.cz <https://www.datart.cz/zakaznik/registrace/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Czech eshop
+
+Password:
+- Max length is 20 characters
+- No special characters allowed (only alphanumeric)
+
+|Datart|
+
+
 `Daybreak Games <https://www.daybreakgames.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2984,6 +2995,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |csu.edu.au| image:: /screenshots/csu.edu.au.png
 .. |CVent| image:: /screenshots/cvent.png
 .. |CWT| image:: /screenshots/cwt.png
+.. |Datart| image:: /screenshots/datart.png
 .. |daybreakgames| image:: /screenshots/daybreakgames.png
 .. |DBS| image:: /screenshots/dbs.png
 .. |Dell| image:: /screenshots/dell.png
