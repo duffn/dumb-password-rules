@@ -1,0 +1,8 @@
+description: |-
+  - Password cannot be longer than 20 characters
+  - Password cannot have spaces and more 2 characters repeated in a row
+  - Password cannot have user's first name, last name or username
+images:
+  - aetna.png
+name: Aetna Health Insurance
+url: https://www.aetna.com/

@@ -1,0 +1,6 @@
+description: |-
+  Your password must be between 8 and 20 characters.
+images:
+  - wellstar-mychart.png
+name: WellStar MyChart
+url: https://mychart.wellstar.org/mychart/accesscheck.asp

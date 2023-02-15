@@ -1,0 +1,6 @@
+description: |-
+  Sometimes I forget that caps-lock is on, glad it doesn't matter.
+images:
+  - american-express.jpg
+name: American Express
+url: https://sso.americanexpress.com/SSO/request?request_type=un_createid&ssolang=en_NL&inav=at_sitefooter_register

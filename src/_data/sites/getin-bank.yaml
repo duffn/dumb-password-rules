@@ -1,0 +1,9 @@
+description: |-
+  The new password should contain at least 10 and a maximum of 20 characters.
+  The password must contain at least one upper case letter, one lower case
+  letter and one number. The password cannot contain non-ASCII Polish alphabet
+  characters, special characters ``&<'"`` or spaces.
+images:
+  - getin.png
+name: Getin Bank
+url: https://secure.getinbank.pl/

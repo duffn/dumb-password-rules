@@ -1,0 +1,19 @@
+description: |-
+  This is the online customer portal of the German health insurance company AOK. They have an extensive set of rules for both passwords and usernames.
+  The password rules are:
+  - Length between 8 and 14 characters
+  - At least one letter, one number and one special character
+  - Special characters are: !@$%/=?`+@#_.;:{}|
+  - The password must not start with ? or !
+  - The password must not include the username
+  - The password must not be the same as any of your previous passwords
+
+  The rules for the username are:
+
+  - Length between 1 and 12 characters
+  - No umlauts allowed (äöü), no special characters, no spaces, no ., no _, no ß
+images:
+  - aok1.png
+  - aok2.png
+name: AOK (German Health Insurance)
+url: https://meine.aok.de/

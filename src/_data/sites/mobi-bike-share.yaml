@@ -1,0 +1,6 @@
+description: |-
+  Your PIN (which is the password you use to login, which lets you, say, buy hundreds of dollars worth of bike-share subscriptions off the saved credit card) must be four numeric digits. Helpfully, they even give you an example of a PIN: *1234*.
+images:
+  - mobibikes.png
+name: Mobi Bike Share
+url: https://www.mobibikes.ca/en/register

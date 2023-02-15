@@ -1,0 +1,9 @@
+description: |-
+  8 to 15 chars. No special chars allowed but requires special chars. Also
+  requires lowercase, uppercase, and numbers. Consecutive chars are
+  prohibited. Did I mention the page hangs while you type? That eye icon
+  tho.
+images:
+  - banco-mercantil.png
+name: Banco Mercantil
+url: https://www.mercantilbanco.com/

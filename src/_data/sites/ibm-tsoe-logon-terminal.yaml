@@ -1,0 +1,12 @@
+description: |-
+  It might not be a web site, but that does not make it less dumb.
+  Since many don't know about IBM mainframes, it seems they don't think you need to up the policies.
+
+  Default old password policy is: 6-8 characters long, A-Z, 0-9
+
+  Over the last few years they have updated their policies a bit, but due to many of their
+  subsystems are incompatible, they can't enforce the new options for safer passwords.
+images:
+  - ibm_tso_logon.png
+name: IBM TSO/E Logon terminal
+url: https://www.ibm.com/

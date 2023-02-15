@@ -1,0 +1,17 @@
+description: |-
+  Username must:
+  - Be a Minimum of 4 characters
+  - Be a Maximum of 30 characters
+  - Use letters, numbers, periods, and underscores
+  - Not contain any blank spaces
+  - Not begin, end or contain two consecutive special characters(._)
+
+  Password must contain:
+  - Minimum of 8 characters
+  - One Uppercase letter
+  - One Lowercase letter
+  - One Number
+images:
+  - nasaearthdata.png
+name: NASA Earth Data
+url: https://urs.earthdata.nasa.gov/users/new

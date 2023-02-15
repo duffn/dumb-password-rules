@@ -1,0 +1,11 @@
+description: |-
+  Central authentication for all Washington State services
+  (DoL, ESD, etc).
+
+  Password must have *exactly* 10 characters, but form happily
+  lets you enter more and only throws errors after submit,
+  providing no useful feedback.
+images:
+  - secureaccess-wa.png
+name: SecureAccess Washington
+url: https://secureaccess.wa.gov

@@ -1,0 +1,6 @@
+description: |-
+  Password has to be between 6 and 10 characters, can't contain any punctuation and you have to give characters from it on the phone to confirm identity.
+images:
+  - coventry-building-society.png
+name: Coventry Building Society
+url: https://www.coventrybuildingsociety.co.uk/

@@ -1,0 +1,13 @@
+description: |-
+  - Must be between 12 and 24 characters.
+  - Must contain at least one uppercase and one lowercase letter.
+  - Must contain at least one number.
+  - Must contain at least one of the following special characters:
+  ~ ` ! @ # $ % ^ & * ( ) _ - . ? { } [ ] | : ; " ' = + / ,
+  - Password must not match or contain: first name, last name, email address.
+  - Unicode characters are not permitted.
+  - Must not be one of the previous 24 passwords.
+images:
+  - mytravel.state.gov.png
+name: United States Department of State MyTravel.State.Gov
+url: https://caauthservice.state.gov/oaam_server/loginPage.jsp

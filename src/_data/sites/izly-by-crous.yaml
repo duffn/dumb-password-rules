@@ -1,0 +1,12 @@
+description:
+  "Izly by Crous is an **imposed** French payment service for the\nuniversity.\
+  \ You can't pay your daily meal without that because yeah you\nknow cash is an ancient\
+  \ dumb thing.\n\nYour username is firstname.lastname@youruniversity.fr or your phone\n\
+  number. We only allow you a fixed 6 numbers password. Oh yeah we also\nblock your\
+  \ account after three failed atempts. How convenient when the\nonly thing you need\
+  \ to know is the name of someone and where they study.\nHow convenient indeed.\n\n\
+  Oh and also look we got pages **NOT\_TRANSLATED\_IN\_FRENCH** because duh."
+images:
+  - izly-by-crous.png
+name: Izly by Crous
+url: https://mon-espace.izly.fr/Home/Logon

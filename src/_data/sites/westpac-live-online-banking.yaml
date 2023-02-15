@@ -1,0 +1,6 @@
+description: |-
+  6 non-case sensitive characters [exactly].  no blanks, spaces or special characters.
+images:
+  - westpac.png
+name: Westpac Live Online Banking
+url: https://banking.westpac.com.au/secure/banking/administration/changepassword

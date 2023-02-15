@@ -1,0 +1,20 @@
+description: |-
+  Usual dumb password restrictions, but this one has incredibly dumb **username**
+  restrictions too:
+
+  **Username:**
+  - **Length of 8 or 9 letters and numbers**
+  - **Contain at least 3 letters and 3 numbers**
+  - Begin with a letter
+  - Lower case only, no spaces, no special characters
+
+  **Password:**
+  - Cannot match username
+  - Length of 8 to 40 characters
+  - Contain at least 1 letter
+  - Contain at least 1 number
+  - Case sensitive, **no spaces, no special characters**
+images:
+  - interactive_brokers.png
+name: Interactive Brokers
+url: https://ndcdyn.interactivebrokers.com/Universal/servlet/Application.ApplicationSelector

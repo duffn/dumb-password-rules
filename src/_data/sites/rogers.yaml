@@ -1,0 +1,10 @@
+description: |-
+  I can only use 4 special characters?
+
+  Password guidelines
+  - Your password should be between 8-20 characters and have at least one number and one letter.
+  - The following special characters are allowed: ! @ # $
+images:
+  - rogers.png
+name: Rogers
+url: https://rogers.com

@@ -1,0 +1,8 @@
+description:
+  "Certain special characters disallowed, but notably the phrase \" or\
+  \ \" is disallowed also. They're probably papering over SQL injection vulnerabilities\
+  \ \U0001F926"
+images:
+  - southwesternrailway.png
+name: South Western Railway
+url: https://www.southwesternrailway.com

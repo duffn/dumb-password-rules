@@ -1,0 +1,13 @@
+description: |-
+  Due to Costco's short max password length of 16 characters, I strongly recommend using a password manager to make a random password to satisfy all of these conditions below:
+  * Use between 8 and 16 characters
+  * Include at least one lowercase (a-z) and one uppercase letter (A-Z)
+  * Include at least one special character (e.g. !@#$&) - i.e., any symbol above the 0-9 keys)
+  * Does not contain blank spaces or the following special characters: < > ,
+  * Include at least one digit (0-9)
+
+  For the record, at least Costco.com has greatly improved after the summer of 2021 - before that, the site used to prohibit copying and pasting passwords, which prevented password managers from working properly. I believe the max password length was also longer before the summer of 2021 (either 20 or 32 characters), but I cannot confirm this since I never took a screenshot.
+images:
+  - Costco.com.png
+name: Costco.com
+url: https://www.costco.com/

@@ -1,0 +1,7 @@
+description: |-
+  Password must be between 5 and 15 characters. Also, spaces don't count
+  as characters.
+images:
+  - paytm.png
+name: Paytm
+url: https://paytm.com/

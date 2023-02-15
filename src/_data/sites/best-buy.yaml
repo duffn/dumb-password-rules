@@ -1,0 +1,9 @@
+description: |-
+  You can enter whatever password you like! But you probably don't want to
+  make it too long, because you'll break us and you'll never be able to
+  login again.
+images:
+  - bestbuy1.png
+  - bestbuy2.png
+name: Best Buy
+url: https://www-ssl.bestbuy.com/identity/changePassword

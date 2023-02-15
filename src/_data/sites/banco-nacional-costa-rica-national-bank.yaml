@@ -1,0 +1,14 @@
+description: |-
+  Between 8 and 16 characters.
+
+  Must have 4 numbers and 4 letters.
+
+  Must not contain same letter or number in consecutive order.
+
+  Can't contain vocal letters neither the letter Ñ.
+
+  Password can't be the same as the previous 6 used.
+images:
+  - banco-nacional-cr.png
+name: Banco Nacional (Costa Rica National Bank)
+url: https://www.bncr.fi.cr/

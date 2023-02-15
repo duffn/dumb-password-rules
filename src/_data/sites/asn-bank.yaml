@@ -1,0 +1,6 @@
+description: |-
+  Your password needs to be between 8 and 20 characters long - at least 1 number, 1 lower case letter, 1 upper case letter, 1 special character.
+images:
+  - asnbank.png
+name: ASN Bank
+url: https://www.asnbank.nl/

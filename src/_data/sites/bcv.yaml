@@ -1,0 +1,9 @@
+description: |-
+  Username is randomly generated, example: 'H2487414'. The password must have **6** digits only.
+
+  Password can only be changed from the mobile application:
+images:
+  - bcv_web.png
+  - bcv_mobile_password.png
+name: BCV
+url: https://www.bcv.ch/

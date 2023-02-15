@@ -1,0 +1,11 @@
+description: |-
+  Okay, doesn't looks that hard... But wait, there are hidden rules!
+
+  Hidden rules: your password can't have 3 times the same character in a row or more than 2 consecutive numbers.
+  Also if your password is 20 characters or more you won't be able to write it in the mobile app.
+images:
+  - keimyung1.png
+  - keimyung2.png
+  - keimyung3.png
+name: Keimyung University
+url: https://sso.kmu.ac.kr/kmusso/ext/edward/login_form.do/

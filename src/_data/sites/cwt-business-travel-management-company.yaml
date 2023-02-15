@@ -1,0 +1,10 @@
+description: |-
+  Password:
+  - 8 to 32 characters long
+  - Must contain a combination of letters, numbers and symbols
+  - Must be different from your username
+  - Must be different from 5 previous passwords
+images:
+  - cwt.png
+name: CWT Business Travel Management Company
+url: https://travel.mycwt.com

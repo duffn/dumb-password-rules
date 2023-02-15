@@ -1,0 +1,7 @@
+description: |-
+  Username is your national Spanish ID (easy to find).
+  Your password must be 6 characters long. You can't type, only select characters from the virtual keyboard
+images:
+  - unicaja.png
+name: Unicaja
+url: https://areaprivada.unicajabanco.es/PortalServlet?pag=1533643502465&np=S

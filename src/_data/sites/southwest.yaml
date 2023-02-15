@@ -1,0 +1,7 @@
+description: |-
+  Password must be between 8 and 16 characters in length and include at least one uppercase letter
+  and one number. Certain special characters are also allowed, but the first character of the password must be alphanumeric.
+images:
+  - southwest.png
+name: Southwest
+url: https://https://www.southwest.com

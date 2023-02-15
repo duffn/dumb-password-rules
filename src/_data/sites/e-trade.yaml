@@ -1,0 +1,14 @@
+description: |-
+  Causes:
+  * Your two-factor authentication code must be appended to the end of the password
+  * Passwords have a limit of 32 characters
+
+  Effect:
+
+  If your account has a 32-character password and has two-factor authentication,
+  their system appears to cut off the token, making it impossible to login.
+  You must reduce your password to 26 characters in order to login with a token.
+images:
+  - etrade.png
+name: E-Trade
+url: https://us.etrade.com/e/t/user/login

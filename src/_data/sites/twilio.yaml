@@ -1,0 +1,6 @@
+description: |-
+  Restriction in inclusion of characters such as 'Twilio' in password. Password must be 16 or more characters & Can't include 3 or more consecutive repeated characters.
+images:
+  - Twilio.png
+name: Twilio
+url: https://www.twilio.com/try-twilio

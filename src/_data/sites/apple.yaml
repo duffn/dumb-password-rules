@@ -1,0 +1,7 @@
+description: |-
+  Can't contain 3 or more consecutive identical characters, nor can it be more than 32 characters long.
+images:
+  - apple1.jpg
+  - apple2.png
+name: Apple
+url: https://apple.com/

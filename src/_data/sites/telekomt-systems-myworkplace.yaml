@@ -1,0 +1,11 @@
+description: |-
+  Telekom's MyWorkplace is a Single Sign On / login hub for their
+  Open Telekom Cloud which is basically an Amazon AWS clone. It's
+  rather new and especially for business customers. Especially
+  because it is for business customers, there's absolutely no reason
+  to limit a password to 16 characters. Even special characters are
+  limited to a certain set.
+images:
+  - myworkplace.png
+name: Telekom/T-Systems MyWorkplace
+url: https://www.websso.t-systems.com/MyWorkplace/General/TSIPageContainer.aspx

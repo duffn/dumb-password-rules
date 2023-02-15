@@ -1,0 +1,8 @@
+description: |-
+  Password Rules
+  - 8 to 20 characters with at least 1 number and 1 letter.
+  - No symbols or spaces.
+images:
+  - cvent.png
+name: CVent
+url: https://www.cvent.com

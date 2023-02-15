@@ -1,0 +1,7 @@
+description: |-
+  Password cannot be longer then 31 characters.
+  Spaces, ?, ../, curly braces and double byte character not allowed
+images:
+  - ibm.png
+name: IBM
+url: https://www.ibm.com/

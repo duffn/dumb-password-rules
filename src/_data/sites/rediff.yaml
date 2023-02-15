@@ -1,0 +1,10 @@
+description: |-
+  A maximum password length of 12. The hidden requirements are:
+  - atleast 1 uppercase letter
+  - atleast 1 lowercase letter
+  - atleast 1 numeric character
+  - atleast 1 special symbol (which can not be ^, %)
+images:
+  - rediff.png
+name: Rediff
+url: https://www.rediff.com/

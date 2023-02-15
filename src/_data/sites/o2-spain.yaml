@@ -1,0 +1,7 @@
+description: |-
+  When registering in *Mi O2* app, password length must be exactly 7 or 8 characters (numbers and letters only). 
+  As O2 is part of Telefónica (Movistar), it seems to use the same backend (at least in Spain), so it has the [`same password requirements`](https://dumbpasswordrules.com/sites/movistar/).
+images:
+  - o2-spain.png
+name: O2 Spain
+url: https://o2online.es

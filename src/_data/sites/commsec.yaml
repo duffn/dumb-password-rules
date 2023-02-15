@@ -1,0 +1,6 @@
+description: |-
+  Another financial institution with short password requirements. They also block pasting in to the field, making it a pain to use a password manager.
+images:
+  - commsec.png
+name: Commsec
+url: https://www2.commsec.com.au/selfservice/resetpassword

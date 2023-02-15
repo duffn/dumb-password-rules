@@ -1,0 +1,9 @@
+description: |-
+  Your password must include the following:
+  - 8-100 characters
+  - Upper & lowercase letters
+  - At least one number or special character
+images:
+  - walmart.png
+name: Walmart
+url: https://www.walmart.com/account/signup

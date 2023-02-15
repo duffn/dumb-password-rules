@@ -1,0 +1,11 @@
+description:
+  "What doesn't seem to be a problem for personal accounts, is for work\n\
+  accounts from Microsoft (e.g. Office 365 etc.).\n\nMaximum 16 characters. So forget\
+  \ about using your new fancy diceware\npassword here - or really any secure passwords\
+  \ in general.\n\nOh - and besides that, please don't use any \"exotic\" symbols, like\
+  \ \xA4 or\n\u20AC. Or the letters \xC6, \xD8 or \xC5 from the Danish alphabet. They\
+  \ all are\nsupposedly \"spaces\"."
+images:
+  - microsoftwork.png
+name: Microsoft (work accounts)
+url: https://account.activedirectory.windowsazure.com/ChangePassword.aspx

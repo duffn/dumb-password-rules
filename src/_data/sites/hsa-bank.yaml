@@ -1,0 +1,13 @@
+description: |-
+  - Must be minimum 12 characters
+  - Must not be one of user's past 5 passwords
+  - Must contain uppercase and lowercase letters
+  - Must contain a number
+  - Must not be the same as user's account number or login/username
+
+  But also...
+  - Cannot be longer than 20 characters
+images:
+  - hsabank.png
+name: HSA Bank
+url: https://www.hsabank.com

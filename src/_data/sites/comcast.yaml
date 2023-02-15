@@ -1,0 +1,7 @@
+description: |-
+  Your password should be difficult to guess as long as it's not over 16
+  characters long.
+images:
+  - comcast.png
+name: Comcast
+url: https://customer.xfinity.com/#/settings/security/xfinity-access/password

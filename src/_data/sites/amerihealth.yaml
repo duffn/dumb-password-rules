@@ -1,0 +1,10 @@
+description: |-
+  Their site says "*All information is kept safe and secure.*" Just not as
+  secure as you'd like.
+
+  User Password must be between 6 and 14 characters and contain 1
+  numerical value.
+images:
+  - amerihealth.png
+name: AmeriHealth
+url: https://www.amerihealth.com/

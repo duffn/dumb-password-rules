@@ -1,0 +1,14 @@
+description: |-
+  Dumb restriction for consecutive similar characters. Wonder if someone got more that 2 identical characters in their name then
+  it won't allow you to even use name in password.
+
+  Password must contain:
+  - 8-20 characters
+  - **No more than 2 identical characters in a row**
+  - A lowercase letter (a-z)
+  - An uppercase letter (A-Z)
+  - Number or special character
+images:
+  - ikea.jpg
+name: IKEA
+url: https://www.ikea.com/in/en/profile/signup/

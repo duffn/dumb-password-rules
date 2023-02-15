@@ -1,0 +1,14 @@
+description: |-
+  Password must be EXACTLY 8 characters long.
+
+  Alpha numeric characters ONLY.
+
+  The first character must be alphabetic.
+
+  NO spaces.
+
+  The new Password cannot be the same as the last 32 passwords you have used. (they actually store your last 32 passwords)
+images:
+  - zurich.png
+name: Zurich
+url: https://www.zurichlife.ie/bgsi/log_on/password.jsp

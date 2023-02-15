@@ -1,0 +1,7 @@
+description: |-
+  The username is the customer number, which is sequential and cannot be changed, currently 7 digits long for new customers.
+  The password has to be exactly 6 digits long, only numbers allowed.
+images:
+  - mobility.png
+name: Mobility
+url: https://www.mobility.ch/

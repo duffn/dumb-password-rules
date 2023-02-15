@@ -1,0 +1,6 @@
+description: |-
+  Locked to *exactly* 6 chars, alphanumeric only, not special chars.
+images:
+  - minnesota_ui.png
+name: Minnesota Unemployment Insurance
+url: https://uimn.org

@@ -1,0 +1,9 @@
+description: |-
+  "cAsE sensitive, no spaces, ! or ?
+  8 characters min - 1 letter, 1 number
+  Can't repeat same character more than 3 times in a row
+  Cannot be or contain your username or email address"
+images:
+  - sears.png
+name: Sears
+url: https://www.sears.com/

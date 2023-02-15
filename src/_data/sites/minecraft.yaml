@@ -1,0 +1,7 @@
+description: |-
+  Using a 16 character password seems to work. Everything else above does not always work.
+  Also, passwords that are too long are still changed, so you have to reset them by email.
+images:
+  - Minecraft.png
+name: Minecraft
+url: https://my.minecraft.net

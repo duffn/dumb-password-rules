@@ -1,0 +1,8 @@
+description: |-
+  They also prohibit pasting into the password field by using a JavaScript
+  ``alert()`` whenever you right-click or press the ``Ctrl`` button, so
+  you can't use a password manager.
+images:
+  - ca-dmv.png
+name: California Department of Motor Vehicles
+url: https://www.dmv.ca.gov/FIM/sps/uscfed/usc/self/account/create

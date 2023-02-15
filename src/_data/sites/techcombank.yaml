@@ -1,0 +1,13 @@
+description: |-
+  Your password must:
+  - Be between 6 and 8 characters long
+  - Contains at least 1 number character
+  - Contains at least 1 lowercase character
+  - Contains at least 1 uppercase character
+  - Neither space nor unicode character is allowed. In fact,
+  NO special characters is allowed
+  - Must be changed every 90 days
+images:
+  - techcombank.png
+name: Techcombank
+url: https://ib.techcombank.com.vn/servlet/BrowserServlet

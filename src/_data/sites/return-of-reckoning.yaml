@@ -1,0 +1,8 @@
+description: |-
+  Password must be between 6 and 100 characters.
+
+  It doesn't say on the website, but the password only works in the related game client if it is purely alphanumeric. Not even special characters like % or $ are allowed.
+images:
+  - returnofreckoning.png
+name: Return of Reckoning
+url: https://www.returnofreckoning.com/

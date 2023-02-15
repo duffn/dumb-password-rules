@@ -1,0 +1,35 @@
+{
+  "name": "dumb-password-rules",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Shaming sites with dumb password rules.",
+  "scripts": {
+    "serve": "concurrently \"./node_modules/.bin/eleventy --serve\" \"./node_modules/.bin/tailwindcss -i ./src/static/styles/tailwind.css -o ./_site/static/styles/tailwind.css --postcss --watch\"",
+    "build": "./node_modules/.bin/eleventy && ./node_modules/.bin/tailwindcss -i ./src/static/styles/tailwind.css -o ./_site/static/styles/tailwind.css --postcss --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duffn/dumb-password-rules.git"
+  },
+  "author": "https://github.com/duffn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duffn/dumb-password-rules/issues"
+  },
+  "homepage": "https://dumbpasswordrules.com",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-img": "^3.0.0",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "alpinejs": "^3.11.1",
+    "autoprefixer": "^10.4.13",
+    "concurrently": "^7.6.0",
+    "esbuild": "^0.17.7",
+    "html-minifier": "^4.0.0",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^13.0.1",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.6"
+  }
+}

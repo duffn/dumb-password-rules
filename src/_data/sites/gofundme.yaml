@@ -1,0 +1,8 @@
+description: |-
+  - At least one uppercase and one lowercase letter
+  - At least one number and one special symbol
+  - Does not specify which characters are considered special symbols; did not recognize spaces as special symbols
+images:
+  - gofundme.png
+name: GoFundMe
+url: https://www.gofundme.com/sign-up

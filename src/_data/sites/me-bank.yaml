@@ -1,0 +1,12 @@
+description: |-
+  - Must be all numerals.
+  - Be 7 to 20 digits.
+  - Cannot have the same number three times in a row.
+  - Cannot have four ascending or descending numbers.
+  - Cannot have the same number appear more than five times.
+  - Cannot have pairs next to each other if the second pair is one number higher.
+  - Cannot be the same as 8 previous ones.
+images:
+  - me-bank.png
+name: ME Bank
+url: https://ib.mebank.com.au/authR5/ib/login.jsp

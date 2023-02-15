@@ -1,0 +1,11 @@
+description:
+  "- 8 or more characters\n- At least one uppercase and one lowercase letter\n\
+  - At least one number or special character\n\nOkay, fair enough, but after putting\
+  \ in a password with some special characters this message appears:\n- Invalid characters,\
+  \ allowed are: A-Z a-z 0-9 \xE4 \xF6 \xFC \xDF \xC4 \xD6 \xDC ^ ! $ % / ( ) = ?\
+  \ + # - . , ; : ~ * @ [ ] { } _ \xB0 \xA7\nYou can't use ``&<>'\"\\|\xB4```, spaces\
+  \ and any other non-ascii character."
+images:
+  - hetzner.png
+name: Hetzner
+url: https://hetzner.com

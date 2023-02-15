@@ -1,0 +1,8 @@
+description: |-
+  Please nominate a password which contains UPPERCASE, lowercase, numbers and symbols.
+  Password should not be the same as the user ID.
+  Avoid using consecutive characters such (ex. abc, DEF, 678) and invalid characters such as [!#$%^&';"].
+images:
+  - bdo.png
+name: BDO
+url: https://www.bdo.com.ph/personal

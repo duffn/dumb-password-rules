@@ -1,0 +1,8 @@
+description: |-
+  Your password needs to be between 8 and 10 characters long. Previously
+  this would silently truncate the password without warning, causing
+  confusion when the password wouldn't work.
+images:
+  - virgintrains.jpg
+name: Virgin Trains
+url: https://www.buytickets.virgintrains.co.uk/buytickets/updatepersonaldetails.aspx#customerDetails

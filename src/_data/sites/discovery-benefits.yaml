@@ -1,0 +1,8 @@
+description: |-
+  Requires at least one symbol, but must be one of `! @ # $ % & * ?`, and also
+  has an unstated max length of 20 characters.
+images:
+  - discovery-benefits-1.png
+  - discovery-benefits-2.png
+name: Discovery Benefits
+url: https://benefitslogin.discoverybenefits.com/Login.aspx

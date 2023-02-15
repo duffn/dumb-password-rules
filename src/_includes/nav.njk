@@ -1,0 +1,62 @@
+<nav x-data="{ open: false }" class="bg-white shadow-sm">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <div class="flex h-16 justify-between">
+            <div class="flex">
+                <div class="flex flex-shrink-0 items-center">
+                    <a href="/">
+                        <img class="block h-8 w-auto lg:hidden" src="/static/img/logo-med.png" alt="Dumb Password Rules">
+                        <img class="hidden h-8 w-auto lg:block" src="/static/img/logo-med.png" alt="Dumb Password Rules">
+                    </a>
+                </div>
+                <div class="hidden sm:-my-px sm:ml-6 sm:flex sm:space-x-8">
+                    <a href="/"
+                        class="{% if page.url == '/' %}border-red-500 text-gray-900{% else %}border-transparent text-gray-500 hover:text-gray-700{% endif %} inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium"
+                        aria-current="page">Home</a>
+                    <a href="/sites/"
+                        class="{% if '/sites/' in page.url %}border-red-500 text-gray-900{% else %}border-transparent text-gray-500 hover:text-gray-700{% endif %} inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Sites</a>
+                    <a href="/about/"
+                        class="{% if page.url == '/about/' %}border-red-500 text-gray-900{% else %}border-transparent text-gray-500 hover:text-gray-700{% endif %} inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">About</a>
+                    <a href="https://github.com/duffn/dumb-password-rules"
+                        class="border-transparent text-red-600 hover:border-gray-300 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">Contribute</a>
+                </div>
+            </div>
+            <div class="-mr-2 flex items-center sm:hidden">
+                <button type="button"
+                    class="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2"
+                    aria-controls="mobile-menu" @click="open = !open" aria-expanded="false"
+                    x-bind:aria-expanded="open.toString()">
+                    <span class="sr-only">Open main menu</span>
+                    <svg x-state:on="Menu open" x-state:off="Menu closed" class="block h-6 w-6"
+                        :class="{ 'hidden': open, 'block': !(open) }" x-description="Heroicon name: outline/bars-3"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                        stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                            d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+                    </svg>
+                    <svg x-state:on="Menu open" x-state:off="Menu closed" class="hidden h-6 w-6"
+                        :class="{ 'block': open, 'hidden': !(open) }" x-description="Heroicon name: outline/x-mark"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                        stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12">
+                        </path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div x-description="Mobile menu, show/hide based on menu state." class="sm:hidden" id="mobile-menu" x-show="open"
+        style="display: none;">
+        <div class="space-y-1 pt-2 pb-3">
+            <a href="/"
+                class="{% if page.url == '/' %}bg-red-50 border-red-500 text-red-700{% else %}border-transparent text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-800{% endif %} block pl-3 pr-4 py-2 border-l-4 text-base font-medium"
+                aria-current="page" x-state:on="Current" x-state:off="Default">Home</a>
+            <a href="/sites/"
+                class="{% if 'sites' in page.url %}bg-red-50 border-red-500 text-red-700{% else %}border-transparent text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-800{% endif %} block pl-3 pr-4 py-2 border-l-4 text-base font-medium">Sites</a>
+            <a href="/about/"
+                class="{% if page.url == '/about/' %}bg-red-50 border-red-500 text-red-700{% else %}border-transparent text-gray-600 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-800{% endif %} block pl-3 pr-4 py-2 border-l-4 text-base font-medium">About</a>
+            <a href="https://github.com/duffn/dumb-password-rules"
+                class="border-transparent text-red-600 hover:bg-gray-50 hover:border-gray-300 block pl-3 pr-4 py-2 border-l-4 text-base font-medium">Contribute</a>
+        </div>
+    </div>
+</nav>

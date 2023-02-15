@@ -1,0 +1,12 @@
+description: |-
+  Password must contain:
+  - 8 to 12 Characters.
+  - Atleast one lowercase and uppercase letter.
+  - Atleast one numeric character.
+  - Atleast one special character (!, @, #, $, %, %, ^, &, +, =).
+
+  Must not contain space, first or last name.
+images:
+  - Vistara.png
+name: Vistara
+url: https://www.airvistara.com/in/en/club-vistara/register

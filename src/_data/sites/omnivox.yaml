@@ -1,0 +1,6 @@
+description: |-
+  Password length must be 8 to 20 characters long with lower case characters and numbers only.
+images:
+  - omnivox.png
+name: Omnivox
+url: https://cegep-ste-foy.omnivox.ca/Login/Account/Login

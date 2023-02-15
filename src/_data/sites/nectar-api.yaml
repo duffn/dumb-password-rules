@@ -1,0 +1,8 @@
+description: |-
+  The Nectar website allows strong passwords.
+  However, when trying to link my Sainsbury's account, I found the API has different ideas...
+  - Password field length capped to 16 characters
+images:
+  - nectar-api.png
+name: Nectar API
+url: https://api.nectar.com/oauth/authorize

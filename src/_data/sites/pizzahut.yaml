@@ -1,0 +1,8 @@
+description: |-
+  Passwords must be greater than 6 characters, and have an arbitrary set of rules we don't tell you about until after you try to set your password.
+images:
+  - pizzahut1.png
+  - pizzahut2.png
+  - pizzahut3.png
+name: PizzaHut
+url: https://www.pizzahut.com/

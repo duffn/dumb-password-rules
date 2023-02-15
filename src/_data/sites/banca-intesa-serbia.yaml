@@ -1,0 +1,12 @@
+description: |-
+  Online banking portal of Banca Intesa Serbia has some password restrictions.
+  This is the translation of the requirements:
+
+  No special characters, minimum number of characters is 8, maximum number of
+  characters is 22, minimum number of upper case letters is 1, lower case also 1,
+  numeric characters is 2, first character must be a upper or lower case letter
+  and maximum number of character repeats is 2.
+images:
+  - banca_intesa_serbia.png
+name: Banca Intesa Serbia
+url: https://online.bancaintesa.rs/Retail/home/login

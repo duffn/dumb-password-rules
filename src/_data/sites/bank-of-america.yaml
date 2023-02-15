@@ -1,0 +1,11 @@
+description: |-
+  20 character max and lots of special character restrictions.
+  Bank of America - keeping your money safe.
+
+  Also: If you paste a password greater than 20 characters,
+  the form truncates it without telling you or giving an
+  error.
+images:
+  - boa.png
+name: Bank of America
+url: https://secure.bankofamerica.com/auth/forgot/reset-entry/

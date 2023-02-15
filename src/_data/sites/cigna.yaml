@@ -1,0 +1,6 @@
+description: |-
+  A max of 12 characters... Can't handle most symbols (only 5 supported). At least they have two factor auth via email or sms * *sigh* *
+images:
+  - my.cigna.com.png
+name: Cigna
+url: https://my.cigna.com/web/secure/my/profile/change-password

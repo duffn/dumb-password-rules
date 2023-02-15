@@ -1,0 +1,10 @@
+description: |-
+  Password must contain:
+  - 6 to 16 characters.
+  - Atleast one special character (@, #, $, %, * and & only).
+  - Atleast one alphabet.
+  - Atleat one number.
+images:
+  - tanishq.png
+name: Tanishq
+url: https://www.tanishq.co.in/myaccount/register?url=https://www.tanishq.co.in/

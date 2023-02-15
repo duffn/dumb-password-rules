@@ -1,0 +1,6 @@
+description: |-
+  Allows between 8 to 16 characters. Password is being used to log in and view packages sent to you, or for shipping packages.
+images:
+  - inpost.png
+name: Inpost
+url: https://inpost.pl/en/

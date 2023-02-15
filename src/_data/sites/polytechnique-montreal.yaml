@@ -1,0 +1,16 @@
+description: |-
+  Passwords must have a minimum length of 8 characters
+
+  Passwords must have a maximum length of 30 characters
+
+  Passwords must contain a minimum of 2 digits
+
+  Passwords must contain a minimum of 2 letters
+
+  Password must be different than the last one used
+
+  Passwords may contain these special characters (! & % $)
+images:
+  - PolyMTL.png
+name: Polytechnique Montreal
+url: https://www.polymtl.ca/

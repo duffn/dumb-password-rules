@@ -1,0 +1,9 @@
+description: |-
+  Must reset password every 6 months and password requirements are not displayed _anywhere_.
+  Reset uses a Security Question, and you have to choose from a list of 5.
+images:
+  - elliemae1.png
+  - elliemae2.png
+  - elliemae3.png
+name: EllieMae Access
+url: https://access.elliemae.com/home

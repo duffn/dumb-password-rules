@@ -1,0 +1,48 @@
+---
+permalink: "/"
+---
+
+<!doctype html>
+<html lang="en" class="h-full bg-gray-100">
+    <head> 
+        {% include "ga.njk" %}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="/static/img/favicon.ico">
+        <title>Dumb Password Rules</title>
+        {% include "meta.njk" %}
+        <link rel="stylesheet" href="/static/styles/tailwind.css" type="text/css" />
+    </head>
+    <body class="h-full">
+        <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div class="relative bg-white">
+                <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
+                    <div class="px-6 pt-10 pb-24 sm:pb-32 lg:col-span-7 lg:px-0 lg:pt-48 lg:pb-56 xl:col-span-6">
+                        <div class="mx-auto max-w-2xl lg:mx-0">
+                            <img class="h-11" src="/static/img/logo-med.png" alt="Dumb Password Rules">
+                            <div class="hidden sm:mt-32 sm:flex lg:mt-16">
+                                <div class="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-500 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
+                                    Know a site with dumb password rules? <a href="https://github.com/duffn/dumb-password-rules" class="whitespace-nowrap font-semibold text-red-600"><span class="absolute inset-0" aria-hidden="true"></span>Contribute <span aria-hidden="true">→</span></a>
+                                </div>
+                            </div>
+                            <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">Dumb Password Rules</h1>
+                            <p class="mt-6 text-lg leading-8 text-gray-600">Shaming {{ sites | length }} sites with dumb password rules.</p>
+                            <div class="mt-10 flex items-center gap-x-6">
+                                <a href="/sites/" class="rounded-md bg-red-600 px-3.5 py-1.5 text-base font-semibold leading-7 text-white shadow-sm hover:bg-red-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-600">View sites</a>
+                                <a href="https://github.com/duffn/dumb-password-rules" class="text-base font-semibold leading-7 text-gray-900">Contribute <span aria-hidden="true">→</span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
+                        {% image "./src/static/img/facepalm.jpg", "aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full", "Person facepalming", [600, 800], "./_site/static/img/", "/static/img/" %}
+                    </div>
+                </div>
+            </div>
+            <div class="py-8 md:order-1 md:mt-0">
+                <p class="text-center text-xs leading-5 text-gray-500">Photo by <a href="https://unsplash.com/@dearseymour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ksenia Makagonova</a> on <a href="https://unsplash.com/photos/9y6oH2qHai0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+            </div>
+        </div>
+    </body>
+</html>
+
+

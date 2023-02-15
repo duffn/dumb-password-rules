@@ -1,0 +1,7 @@
+description: |-
+  Password must contain 8-30 characters, including one letter and one number.
+  "Special characters allowed" seems to mean a very small handful of choices you can only find through trial and error  ``-_'.@``
+images:
+  - premera.png
+name: Premera Blue Cross
+url: https://account.premera.com/
