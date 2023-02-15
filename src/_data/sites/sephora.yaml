@@ -1,0 +1,7 @@
+description: |-
+  Password must be between 6 and 12 characters. No other rules
+  specified.
+images:
+  - sephora.png
+name: Sephora
+url: https://www.sephora.com/

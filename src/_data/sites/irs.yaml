@@ -1,0 +1,9 @@
+description: |-
+  Password rules:
+  - Between 8 and 32 characters long
+  - Must contain at least one numeric and one special character (!@#$%&*)
+  - At least one uppercase and at least one lowercase letter
+images:
+  - irs.png
+name: IRS
+url: irs.gov

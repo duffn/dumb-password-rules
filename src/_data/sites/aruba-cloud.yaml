@@ -1,0 +1,8 @@
+description: |-
+  Must be different from the last 3 passwords used.
+  Your password must contain at least an uppercase and lowercase letter and number.
+  Must contain at least one special symbol.
+images:
+  - arubacloud.png
+name: Aruba Cloud
+url: https://www.arubacloud.com/

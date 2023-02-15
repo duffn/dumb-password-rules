@@ -1,0 +1,6 @@
+description: |-
+  Password must be between 7 and 10 characters, contain both an uppercase and a lowercase letter and have at least one number.
+images:
+  - cua-health.png
+name: Credit Union Australia (CUA) Health
+url: https://www.cua.com.au/health-insurance

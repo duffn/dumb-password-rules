@@ -1,0 +1,6 @@
+description: |-
+  Password length must be 4 to 10 characters with only a few special characters allowed.
+images:
+  - nvv.png
+name: NVV (Nordhessische VerkehrsVerbund)
+url: https://nvv.mobilesticket.de/ticketportal/register.jsf

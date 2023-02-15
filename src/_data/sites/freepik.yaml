@@ -1,0 +1,6 @@
+description: |-
+  Has to be between 6 and *30* characters, needs to have a number, letter, capital letter, symbol BUT no whitespaces.
+images:
+  - freepik.png
+name: Freepik
+url: https://id.freepikcompany.com/login

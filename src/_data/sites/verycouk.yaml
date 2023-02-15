@@ -1,0 +1,7 @@
+description: |-
+  Password field allows *only* the listed Special Characters ($ . , ! % ^ \*).
+  You're also forced to use both upper, and lower letters, as well as a number.
+images:
+  - very.png
+name: Very.co.uk
+url: https://www.very.co.uk/account/myaccount/changePassword.page

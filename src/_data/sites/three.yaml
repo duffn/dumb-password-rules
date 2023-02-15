@@ -1,0 +1,8 @@
+description: |-
+  Password must be at least 7 characters long.
+  The maximum length is inconsistent, however: when changing password, the maximum length is 30, but when resetting password via email link, the maximum length is 12.
+images:
+  - three-change.png
+  - three-reset.png
+name: Three
+url: https://www.three.co.uk

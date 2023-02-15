@@ -1,0 +1,8 @@
+description: |-
+  Here are the (only fairly poor) rules for a new password. Enter 64 character password that matches all the rules (notice no rules on maximum length). That password you entered looks good! But we didn't change it. And your old password doesn't work. Or the new one. ¯\\\_(ツ)\_/¯
+images:
+  - chegg1.png
+  - chegg2.png
+  - chegg3.png
+name: Chegg
+url: https://www.chegg.com/auth?action=signup

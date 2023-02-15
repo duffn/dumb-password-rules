@@ -1,0 +1,6 @@
+description: |-
+  Can only use the "special" characters on that very limited list, excluding symbols so exotic as an underscore, even. This is despite their own strength checker saying the password is strong.
+images:
+  - ThamesWater.png
+name: Thames Water
+url: https://www.thameswater.co.uk/

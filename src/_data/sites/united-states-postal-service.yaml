@@ -1,0 +1,6 @@
+description: |-
+  Pick from an arbitrary list of symbols, and no repeating characters.
+images:
+  - usps.png
+name: United States Postal Service
+url: https://reg.usps.com/entreg/secure/ChangePasswordAction_input

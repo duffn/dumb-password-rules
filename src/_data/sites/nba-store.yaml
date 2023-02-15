@@ -1,0 +1,6 @@
+description: |-
+  - Password cannot be longer than 20 characters
+images:
+  - nbastore.png
+name: NBA Store
+url: https://store.nba.com

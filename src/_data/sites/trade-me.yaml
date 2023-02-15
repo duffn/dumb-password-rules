@@ -1,0 +1,8 @@
+description: |-
+  Won't allow spaces or single quotes. Maybe other characters as well -
+  they do not say up front - but the password they accepted contained lots
+  of other special characters.
+images:
+  - trademe.jpg
+name: Trade Me
+url: https://www.trademe.co.nz

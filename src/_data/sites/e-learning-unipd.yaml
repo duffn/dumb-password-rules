@@ -1,0 +1,8 @@
+description: |-
+  Exactly 8 characters for password! There must be at least 1 lowercase
+  letter, at least 1 uppercase letter, at least 1 number and at least 1
+  *special* char ( \* , . $ # @ etc...).
+images:
+  - elearning.math.unipd.png
+name: E-learning (Unipd)
+url: https://elearning.studenti.math.unipd.it/authenticate/change_password/

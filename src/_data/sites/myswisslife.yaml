@@ -1,0 +1,7 @@
+description: |-
+  User ID *has to* be 8 characters exactly, password *has to be* 8 characters and numbers only.
+images:
+  - myswisslife-1.jpg
+  - myswisslife-2.jpg
+name: MySwissLife
+url: https://myswisslife.fr/#/login

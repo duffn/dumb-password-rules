@@ -1,0 +1,8 @@
+description: |-
+  * Password restricts quantity of characters "of same case", making `correcthorsebatterystaple <https://xkcd.com/936/>`_-style passwords problematic
+  * No feedback for which rules are broken
+  * Unlisted prohibited characters
+images:
+  - cloversecurity.png
+name: CloverSecurity
+url: https://cloversecurity.com/safemaker/merchant-portal/account/details

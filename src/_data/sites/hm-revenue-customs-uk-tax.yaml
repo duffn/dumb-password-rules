@@ -1,0 +1,6 @@
+description: |-
+  We store basically all of your data, but we can't store your password.
+images:
+  - tax.service.gov.uk.png
+name: HM Revenue & Customs (UK Tax)
+url: https://www.tax.service.gov.uk/government-gateway-registration-frontend?accountType=individual&continue=%2Fpersonal-account%2Fdo-uplift&origin=unknown

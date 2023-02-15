@@ -1,0 +1,6 @@
+description: |-
+  16 characters maximum, no ``.`` ``,`` ``-`` ``|`` ``/`` ``=`` or ``_`` allowed.
+images:
+  - bloomingdales.png
+name: Bloomingdale's
+url: https://www.bloomingdales.com/account/createaccount?cm_sp=my_account-_-sign_in-_-create_account

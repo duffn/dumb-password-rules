@@ -1,0 +1,7 @@
+description: |-
+  When setting a new password:
+  Password must be exactly 8 characters, at least 1 letter, at least 1 number, but no special characters.
+images:
+  - urssaf.png
+name: URSSAF (French employers tax collection service)
+url: https://www.autoentrepreneur.urssaf.fr

@@ -1,0 +1,6 @@
+description: |-
+  The password should be of atleast 8 characters and must include a number, special character, an upper as well as a lowercase letter
+images:
+  - codepen.jpg
+name: CodePen
+url: https://codepen.io/accounts/signup/user/free

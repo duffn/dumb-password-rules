@@ -1,0 +1,6 @@
+description: |-
+  Can't use any special characters except @ $ # ? _ * &
+images:
+  - CGHS.png
+name: CGHS
+url: https://cghs.nic.in/change%20password/upass.jsp

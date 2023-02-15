@@ -1,0 +1,38 @@
+---
+layout: default.njk
+pagination:
+    data: sites
+    size: 1
+    alias: site
+    addAllPagesToCollections: true
+permalink: "/sites/{{ site.name | slugify }}/"
+eleventyComputed:
+    page_name: "{{ site.name }} - Dumb Password Rules"
+    meta_url: "{{ siteMeta.url }}/sites/{{ site.name | slugify }}/"
+    meta_image: "{{ siteMeta.url }}/screenshots/{{ site.images[0] }}"
+    description: "{{ site.description | striptags(true) | escape }}"
+---
+
+<div class="relative overflow-hidden bg-white py-16">
+    <div class="relative px-6 lg:px-8">
+        <div class="mx-auto text-lg">
+            <h1>
+                <span
+                    class="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
+                    {{ site.name }}
+                </span>
+                {% if site.url %}
+                    <a target="_blank" rel="noopener noreferrer" href="{{ site.url }}" class="ml-4 text-base font-semibold leading-7 text-red-700 block text-center">Website<span aria-hidden="true">→</span></a>
+                {% endif %}
+            </h1>
+            <p class="my-10 text-xl leading-8 text-gray-800">{{ site.description | markdownIt | safe }}</p>
+            {% for image in site.images %}
+                <div class="mt-10">
+                    <a href="/screenshots/{{ image }}">
+                        {% image "./src/screenshots/" + image , "w-3/4", site.name + " dumb password rule screenshot" %}
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

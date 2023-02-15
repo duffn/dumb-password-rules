@@ -1,0 +1,12 @@
+description: |-
+  - minimum of 8 character(s)
+  - minimum of 1 lowercase letter(s)
+  - minimum of 1 uppercase letter(s)
+  - minimum of 1 number(s)
+  - minimum of 1 special character (s)!\"$%&()*+,-./:;#<>?_@\\
+  - does not match the Username
+  - Not used before, not easy to guess
+images:
+  - lufthansa.png
+name: Lufthansa
+url: https://www.lufthansa.com/au/en/registration

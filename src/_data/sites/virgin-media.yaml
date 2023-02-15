@@ -1,0 +1,14 @@
+description: |-
+  Your password needs to be between 8 and 10 characters long, with no
+  spaces, and must contain only numbers and letters. The first character
+  must be a letter.
+
+  Feb 2020 Update: policy remains the same but the description is hidden
+  leaving you to guess the acceptable length/chars.  Users are now left
+  with helpful hints after JS validation.
+images:
+  - virginmedia.jpg
+  - virginmediatoolong.png
+  - virginmediainvalid.png
+name: Virgin Media
+url: https://my.virginmedia.com/forgot-details/reset

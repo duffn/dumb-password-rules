@@ -1,0 +1,21 @@
+description: |-
+  Passwords need:
+  - a lower case letter
+  - a number
+  - a capital letter
+  - at least 8 characters
+
+  In the 'Change password' form,
+  passwords are now restricted to a ``maxlength`` of 18.
+
+  If your current password is longer than 18 characters,
+  you won't be able to change your password.
+  When I contacted them about this,
+  they "passed on" my "experience and concerns" for review
+  and simply reset my password.
+
+  Now I wish I'd just said nothing and kept my 50-character password.
+images:
+  - unisuper.png
+name: UniSuper
+url: https://www.unisuper.com.au/

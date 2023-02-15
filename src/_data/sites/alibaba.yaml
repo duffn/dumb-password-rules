@@ -1,0 +1,17 @@
+description: |-
+  - At least 2 uppercase letters
+  - Plus 2 lowercase letters
+  - Plus 2 numbers
+  - Plus 2 punctuation marks
+
+  Phew, too many rules, because why not, if [`Ma thinks AI stands for Alibaba Intelligence`](https://www.youtube.com/watch?v=f3lUEnMaiAU),
+  then password rules can be equally intelligent too.
+
+  Also, this gibberish if you intentionally left the "confirm password" field empty and that's even after
+  a `en_US` redirection.
+
+  - 请输入新的登录密码.
+images:
+  - alibaba.png
+name: Alibaba
+url: https://passport.alibaba.com/ac/password_modify.htm?fromSite=4&lang=en_US

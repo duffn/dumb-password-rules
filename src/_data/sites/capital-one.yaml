@@ -1,0 +1,7 @@
+description: |-
+  - May only use the following characters: Aa-Zz 0-9 - _ . / \\ @ $ * & ! #
+  - No spaces
+images:
+  - capitalone.png
+name: Capital One
+url: https://myaccounts.capitalone.com/security/changePassword

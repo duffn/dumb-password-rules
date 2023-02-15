@@ -1,0 +1,16 @@
+description: |-
+  Password must:
+  - Be between 8 ~ 15 characters long.
+    - Exceeding 15 will result in an account lockout instead of
+  erroring on submit. Otherwise, the max character
+  length should be 20.
+  - Contains at least 1 number character
+  - Contains at least 1 lowercase character
+  - Contains at least 1 uppercase character
+  - NOT contain any special character
+    - This rule is not listed on the official page; however,
+  attempting to use a special character will result in an exception.
+images:
+  - nptu.png
+name: Taiwan Pingtung University
+url: https://webap.nptu.edu.tw/

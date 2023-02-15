@@ -1,0 +1,13 @@
+description: |-
+  Eight to sixteen characters, numeric digits only, not the same as the User ID.
+  * Number of permutations: 1E+16
+  * Number of permutations for the weakest length: 1E+8
+  * vs permutations for a 8-16 password using standard characters: 4E+31
+  * vs permutations for the weakest length of 8 using standard characters: 7E+15
+  * Other issues: allows and encourages the use of sequences like "12345678", SSN, DOB, today's date
+  * At stake: last 4 digits of SSN, current and past addresses, and detailed work history of millions of Americans, down to how much their paycheck was in the third week of September 2007
+  * Past security screwups by this company: [`https://en.wikipedia.org/wiki/Equifax#Security_Failings`](https://en.wikipedia.org/wiki/Equifax#Security_Failings)
+images:
+  - EquifaxTheWorkNumber.png
+name: Equifax - The Work Number
+url: https://secure.theworknumber.talx.com

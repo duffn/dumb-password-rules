@@ -1,0 +1,9 @@
+description: |-
+  Your password can meet all the requirements in the list and still be invalid due to
+  an unspecified rule: any "special characters" that are not listed in the help text
+  are not allowed. Worse, it provides no useful feedback other than the "New Password"
+  field is red.
+images:
+  - cenlar.png
+name: CENLAR
+url: https://www.loanadministration.com/cenlarfsb/#/login

@@ -1,0 +1,8 @@
+description: |-
+  Retail Electricity Provider (REP) participating in ERCOT.
+
+  Minimum 6, maximum 10. Stated requirement of numbers and letters, but special characters are accepted.
+images:
+  - express_energy_tx_registration.png
+name: Express Energy
+url: https://www.myexpressenergy.com/account-register

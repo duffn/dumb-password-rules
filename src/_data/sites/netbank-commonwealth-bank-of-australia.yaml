@@ -1,0 +1,14 @@
+description: |-
+  When resetting your NetBank password, the website only informs you that you can create an alphanumeric password, despite the fact that you can use special characters.
+  When resetting your NetBank password, the website only informs you that you can create an alphanumeric password, despite the fact that you can use special characters.
+  And also, it's password strength calculation is shit.
+  An 155 bits of entropy password is "weak."
+  This isn't the worst I've seen, but on a bank, it's just bad.
+  - Password length capped to 16 characters (min. 8)
+  - Disallows use of <>^{}~= (interestingly, not quotes. so I wonder why these aren't allowed?)
+  - Must include at least one number
+images:
+  - NetBank-overview.png
+  - NetBank-info.png
+name: NetBank (Commonwealth Bank of Australia)
+url: https://www.my.commbank.com.au/netbank

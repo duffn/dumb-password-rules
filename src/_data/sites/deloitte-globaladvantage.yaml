@@ -1,0 +1,7 @@
+description: |-
+  Rules that are completely arbitrary that basically make all safe passwords wrong,
+  instead forcing pseudo-safe password combinations.
+images:
+  - deloitte.png
+name: Deloitte GlobalAdvantage
+url: http://www.ga.deloitte.com/

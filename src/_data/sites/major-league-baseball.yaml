@@ -1,0 +1,8 @@
+description: |-
+  When creating a new account they enforce some password rules like: length must be
+  between 8 and 15 characters and there must be one upper case, one lower case letter
+  and one number.
+images:
+  - mlb.png
+name: Major League Baseball
+url: https://securea.mlb.com/enterworkflow.do?flowId=registration.connect.wizard&c_id=mlb&template=mobile&forwardUrl=https://www.mlb.com

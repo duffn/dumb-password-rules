@@ -1,0 +1,8 @@
+description: |-
+  Sky is a german pay-TV provider with over 23 million subscribed users worldwide. They also have an online streaming service called "Sky Ticket".
+
+  You can only set a **4 digit long PIN** with no option for two-factor authentication or any additional security mechanisms.
+images:
+  - sky-ticket.png
+name: Sky Ticket
+url: https://skyticket.sky.de/home/login/

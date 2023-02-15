@@ -1,0 +1,8 @@
+description: |-
+  Only letters and numbers are valid. No spaces or special characters.
+
+  Seen on model TG3482G. ARRIS Group, Inc. Firmware: TG3482PC2_3.5p17s1_PROD_sey
+images:
+  - xfinity-modem.png
+name: Xfinity Modem
+url: ""

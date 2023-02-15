@@ -1,0 +1,12 @@
+description: |-
+  This was very painful to find a password that works with this one and that I can actually remember (I ended-up using my bank-account number because everything else failed). It took me maybe one hour and I thought I would become crazy (and yes, the session expires frequently while you are actually thinking about a password).
+  - The password must be more than 8 characters
+  - But you cannot use more than 13 characters
+  - You can only use digits
+  - You cannot use your birthdate or your login
+  - You cannot use a sequence of digits (if your password happens to contain 56 or 89 it will be rejected)
+  - You cannot repeat the same character (if your password contains 22 or 55 it will be rejected)
+images:
+  - ameli.fr.png
+name: Ameli.fr (French national health insurance)
+url: https://www.ameli.fr/

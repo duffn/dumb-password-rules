@@ -1,0 +1,10 @@
+description: |-
+  - Password length must be exactly 8 characters in length
+  - Password must contain at least one letter (any position)
+  - Password must contain at least one number (any position)
+  - Password must contain one of the following special characters: @ # $
+  - Password is not case sensitive
+images:
+  - dmvapp.nv.gov.png
+name: Nevada DMV
+url: https://dmvnv.com/onlineservices.htm

@@ -1,0 +1,6 @@
+description: |-
+  Your password length is limited between 8 and 32 characters.
+images:
+  - ticketmaster-de.png
+name: Ticketmaster.de
+url: https://www.ticketmaster.de/myAccount/editProfile

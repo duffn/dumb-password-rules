@@ -1,0 +1,10 @@
+description: |-
+  Max 20 characters, must have one number, one upper case character and one lower case character.
+  You can only use certain special characters.
+  When i asked about it they answer that it's really hard to change it.
+  When i asked if the password is saved as a hash or just plain they send the answer to the technical department
+  this was march 2018.
+images:
+  - ingbank.png
+name: ING a dutch bank in almost 50 countries
+url: https://www.ing.nl/

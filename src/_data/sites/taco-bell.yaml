@@ -1,0 +1,6 @@
+description: |-
+  Password may include special characters, except for #.
+images:
+  - taco-bell.png
+name: Taco Bell
+url: https://www.tacobell.com/login/pw/change?token=***

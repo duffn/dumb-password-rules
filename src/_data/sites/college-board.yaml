@@ -1,0 +1,6 @@
+description: |-
+  Password must be 9-30 characters with at least one upper case letter, one lower case letter, one number and one special character (no spaces) and be different than your username.
+images:
+  - collegeboard.png
+name: College Board
+url: https://www.collegeboard.org

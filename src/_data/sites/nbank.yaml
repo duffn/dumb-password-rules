@@ -1,0 +1,6 @@
+description: |-
+  User ID *has to* contain special characters, password *may not* contain (basically) any special characters.
+images:
+  - nbank.jpg
+name: NBank
+url: https://www.nbank.de/Service/Kundenportal/Zugang-zum-Kundenportal/index.jsp

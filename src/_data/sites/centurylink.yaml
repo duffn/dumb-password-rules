@@ -1,0 +1,7 @@
+description: |-
+  So many bad ideas: a low maximum length, requiring six specific character types while not accepting common symbols,
+  plus a weird restriction that makes random generation harder.
+images:
+  - centurylink.png
+name: CenturyLink
+url: https://eam.centurylink.com/eam/login.do

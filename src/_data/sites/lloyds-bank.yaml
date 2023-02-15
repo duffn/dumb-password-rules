@@ -1,0 +1,10 @@
+description: |-
+  Max 15 characters, min 8. You cannot use **ANY** special characters -
+  alpha-numerics only. This amazingly terrible password policy combines
+  with a known phrase (The "Memorable Information") of which you will be
+  asked for a random 3 characters of if you get your password right.
+  This phrase has similar alpha-numeric restrictions applied.
+images:
+  - lloyds.png
+name: Lloyds Bank
+url: https://online.lloydsbank.co.uk/personal/logon/login.jsp

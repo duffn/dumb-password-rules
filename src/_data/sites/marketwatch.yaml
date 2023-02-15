@@ -1,0 +1,8 @@
+description: |-
+  - Cannot be longer than 15 characters.
+  - Must contain one number.
+  - Cannot contain spaces, %, & or +.
+images:
+  - marketwatch.png
+name: MarketWatch
+url: http://www.marketwatch.com/

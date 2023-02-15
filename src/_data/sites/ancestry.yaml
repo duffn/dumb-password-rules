@@ -1,0 +1,10 @@
+description: |-
+  Password:
+  - Must be at least 8 characters long
+  - Must contain at least 1 number
+  - Must contain at least 1 letter or special character
+  - Must not be a well known or common password
+images:
+  - ancestry.png
+name: Ancestry
+url: https://www.ancestry.com/

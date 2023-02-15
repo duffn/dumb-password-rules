@@ -1,0 +1,8 @@
+description: |-
+  Max length of 20 characters, no special characters allowed.
+  Pasting into the second password field is disabled even with
+  the Chrome extension Don't Fuck With Paste.
+images:
+  - metlife.png
+name: MetLife
+url: https://online.metlife.com/edge/web/profile/viewProfile?show=profileSettings

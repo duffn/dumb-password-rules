@@ -1,0 +1,6 @@
+description: |-
+  Password requires at least one special character but disallows backtick `````, backslash ``\``, vertical bar ``|``, and underscore ``_``.
+images:
+  - bmo.jpg
+name: BMO Bank of Montreal
+url: https://www1.bmo.com/onlinebanking/cgi-bin/netbnx/NBmain?product=5

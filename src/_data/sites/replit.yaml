@@ -1,0 +1,6 @@
+description: |-
+  Forces to use minimum 8 characters in the password and it must contain atleast one uppercase.
+images:
+  - replit.png
+name: Replit
+url: https://replit.com/signup?from=landing

@@ -1,0 +1,7 @@
+description:
+  "- Minimum of 8 characters\n- Contain at least 1 uppercase character\
+  \ or 1 number\n- Can not contain these characters : \u2039 \u203A ' \""
+images:
+  - mycanal.png
+name: Mycanal
+url: https://www.mycanal.fr/

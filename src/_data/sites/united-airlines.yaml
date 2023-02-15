@@ -1,0 +1,8 @@
+description: |-
+  Security questions (and their answers!) must both be picked from dropdown
+  menus with a limited number of answers and there is no option for unique
+  answers.
+images:
+  - unitedairlines.png
+name: United Airlines
+url: https://united.com

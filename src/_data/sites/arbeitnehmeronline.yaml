@@ -1,0 +1,9 @@
+description: |-
+  Service for managing employment documents of the German company Datev.
+
+  Only the following character categories are allowed: Letters, numbers and this special
+  charaters set: !#$%&()*+,-./:;<=>?@[\\]^_`{|}~\xE4\xF6\xFC\xDF\xC4\xD6\xDC"
+images:
+  - arbeitnehmeronline.png
+name: Arbeitnehmeronline
+url: https://www.arbeitnehmeronline.de

@@ -1,0 +1,6 @@
+description: |-
+  Does not allow simple characters and sequences such as '4587' or 'efgh' in password & necessarily requires numeric values.
+images:
+  - coil.png
+name: Coil
+url: https://coil.com/signup?type=creator

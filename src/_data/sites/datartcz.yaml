@@ -1,0 +1,10 @@
+description: |-
+  Czech eshop
+
+  Password:
+  - Max length is 20 characters
+  - No special characters allowed (only alphanumeric)
+images:
+  - datart.png
+name: Datart.cz
+url: https://www.datart.cz/zakaznik/registrace/

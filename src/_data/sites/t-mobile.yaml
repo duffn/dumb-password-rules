@@ -1,0 +1,6 @@
+description: |-
+  We prefer to not tell you which characters you can use up front.
+images:
+  - tmobile.png
+name: T-Mobile
+url: https://account.t-mobile.com/oauth2/v1/changePassword

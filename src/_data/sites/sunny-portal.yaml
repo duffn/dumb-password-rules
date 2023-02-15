@@ -1,0 +1,10 @@
+description:
+  "The password must consist of at least 10 and at most 50 characters.\
+  \ It must contain at least one special character, one number, one lower-case letter\
+  \ and one upper-case letter.\nThe following characters are permitted for the password:\n\n\
+  - Lower-case letters (a-z)\n- Upper-case letters (A-Z)\n- Digits (0-9)\n- Special\
+  \ characters (!\\\"\xA7$%&/()=?*+'#-_.:,;|{[]}\xB2\xB3^\xB0)"
+images:
+  - sunny_portal.png
+name: Sunny Portal
+url: https://www.sunnyportal.com/Account/Register

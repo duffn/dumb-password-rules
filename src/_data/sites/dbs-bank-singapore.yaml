@@ -1,0 +1,6 @@
+description: |-
+  ``[[:digit:]]{6,8}``
+images:
+  - dbs.png
+name: DBS Bank (Singapore)
+url: https://internet-banking.dbs.com.sg/IB/Welcome

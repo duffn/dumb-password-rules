@@ -1,0 +1,10 @@
+description: |-
+  Intelink is a group of "secure" intranets used by the United States Intelligence Community. Passport is
+  an identity and access management service for Intelink.
+
+  Rule #3 prohibits three or more consecutive uppercase, lowercase, or digit characters, even if those
+  characters are not the same. For example, a password with "ABC" or "829" anywhere in it would not be allowed.
+images:
+  - passport.intelink.gov.png
+name: Intelink Passport
+url: https://passport.intelink.gov

@@ -1,0 +1,10 @@
+description: |-
+  While not the dumbest password rule, still dumb.
+
+  Password must have a length of at least eight characters and contain
+  at least one: number, special char ``!#$%-_=+<>``, capital letter,
+  and lowercase letter.
+images:
+  - jitterbit.png
+name: Jitterbit
+url: https://www.jitterbit.com/

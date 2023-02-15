@@ -1,0 +1,9 @@
+description: |-
+  The National Social Security Institute (INSS) is an autarchy of the Government of Brazil linked to the Ministry of Economy that receives the contributions for the maintenance of the General Social Security System, responsible for the payment of pensions, maternity pay, death pay, sickness pay, accident pay, seclusion pay and other benefits for those who acquire the right to these benefits as provided by law. The INSS works with Dataprev, a technology company that processes all Social Security data. But:
+  - Special characters is not required
+  - Exact 9 digits
+  - At least 1 lowercase, 1 uppercase letter and a 1 number
+images:
+  - inss.png
+name: INSS (Instituto Nacional do Seguro Social)
+url: https://www.inss.gov.br/

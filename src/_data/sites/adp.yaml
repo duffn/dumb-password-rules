@@ -1,0 +1,7 @@
+description: |-
+  Forced to change the password during the first login. At least they
+  could use proper grammar in their rule list.
+images:
+  - adp.png
+name: ADP
+url: https://login.adp.nl/selfservice/private/passchange/#/

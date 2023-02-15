@@ -1,0 +1,7 @@
+description: |-
+  Password must be between 8 and 12 characters...
+  Also no symbols are allowed. But this isn't displayed.
+images:
+  - seur.png
+name: Seur
+url: https://www.seur.com/

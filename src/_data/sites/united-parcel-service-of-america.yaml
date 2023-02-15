@@ -1,0 +1,14 @@
+description: |-
+  Your password must:
+  - Be between 7 and 26 characters long
+  - Contain at least 1 lowercase character
+  - Contain at least 1 uppercase character
+  - Contain at least 1 number character
+  - Contain one special character (!@#$%*)
+  - NOT contain first or last name
+  - NOT contain UPS user ID
+  - NOT contain email address
+images:
+  - ups.png
+name: United Parcel Service of America
+url: https://www.ups.com/doapp/signup

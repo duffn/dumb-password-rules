@@ -1,0 +1,7 @@
+description: |-
+  Password must be between 8 and 15 alphanumeric characters, and have
+  at least one uppercase and one lowercase letter.
+images:
+  - pagomiscuentas.png
+name: PagoMisCuentas
+url: https://www.pagomiscuentas.com/

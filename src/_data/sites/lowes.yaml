@@ -1,0 +1,9 @@
+description: |-
+  - Be 8 to 12 characters in length
+  - Include at least 1 letter and 1 number
+  - Contain no spaces
+  - Contain no more than 3 of the same consecutive characters
+images:
+  - lowes.png
+name: Lowes
+url: https://www.lowes.com/mylowes/login

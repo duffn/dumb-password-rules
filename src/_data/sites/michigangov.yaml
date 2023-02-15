@@ -1,0 +1,6 @@
+description: |-
+  Must use special characters, but only from this list of stuff we think is safe or whatever.
+images:
+  - michigan.gov.png
+name: Michigan.gov
+url: https://milogin.michigan.gov/uisecure/selfservice/anonymous/register.do

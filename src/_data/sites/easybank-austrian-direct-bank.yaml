@@ -1,0 +1,11 @@
+description: |-
+  - At least 8 and at most 16 (!) characters
+  - **Must start with 5 digits (do we really want to know what's going on there?)**
+  - At least one uppercase and one lowercase letter
+  - (Some) special characters are permitted, most are not
+  - "Simple" patterns are prohibited
+  - PINs are case sensitive (at least it's something)
+images:
+  - easybank.png
+name: Easybank (Austrian direct bank)
+url: https://www.easybank.at/de/

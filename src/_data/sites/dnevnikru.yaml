@@ -1,0 +1,8 @@
+description: |-
+  Silently (sic!) trim password to 30 symbols.
+
+  That causes the stupid case when you could successfully registrate an account with password length of 52 and can't login with the password.
+images:
+  - dnevnik.png
+name: Dnevnik.ru
+url: https://login.dnevnik.ru/login
