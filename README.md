@@ -2,7 +2,7 @@
 
 https://dumbpasswordrules.com
 
-Shaming sites with dumb password rules since 2016.
+A compilation of sites with dumb password rules.
 
 ## Contributing
 
