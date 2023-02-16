@@ -2,7 +2,6 @@ const esbuild = require("esbuild");
 const htmlmin = require("html-minifier");
 const md = require("markdown-it")();
 const Image = require("@11ty/eleventy-img");
-const fs = require("fs");
 
 async function imageShortcode(
   src,
