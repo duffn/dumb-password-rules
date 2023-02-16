@@ -9,10 +9,10 @@ title: Dumb Password Rules
     {% include "ga.njk" %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/static/img/favicon.ico">
+    <link rel="icon" href="{{ "/static/img/favicon.ico" | bustCache }}">
     <title>{{ page_name or title }}</title>
     {% include "meta.njk" %}
-    <link rel="stylesheet" href="/static/styles/tailwind.css" type="text/css" />
+    <link rel="stylesheet" href="{{ "/static/styles/tailwind.css" | bustCache }}" type="text/css" />
 </head>
 
 <body class="h-full">
@@ -29,7 +29,7 @@ title: Dumb Password Rules
         </div>
     </div>
     {% include "footer.njk" %}
-    <script src="/static/js/bundle.js" type="text/javascript"></script>
+    <script src="{{ "/static/js/bundle.js" | bustCache }}" type="text/javascript"></script>
     <script async defer src="https://buttons.github.io/buttons.js"></script>
 </body>
 

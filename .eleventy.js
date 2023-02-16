@@ -43,13 +43,18 @@ module.exports = (eleventyConfig) => {
     });
   });
 
-  eleventyConfig.addPassthroughCopy("src/static");
+  eleventyConfig.addPassthroughCopy("src/static/img");
   eleventyConfig.addPassthroughCopy("src/screenshots");
 
   eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addFilter("markdownIt", function (value) {
     return md.render(value);
+  });
+
+  eleventyConfig.addFilter("bustCache", (url) => {
+    const buildEpoch = Date.now();
+    return `${url}?${buildEpoch}`;
   });
 
   eleventyConfig.addTransform("htmlmin", function (content) {

@@ -8,10 +8,10 @@ permalink: "/"
         {% include "ga.njk" %}
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="icon" href="/static/img/favicon.ico">
+        <link rel="icon" href="{{ "/static/img/favicon.ico" | bustCache }}">
         <title>Dumb Password Rules</title>
         {% include "meta.njk" %}
-        <link rel="stylesheet" href="/static/styles/tailwind.css" type="text/css" />
+        <link rel="stylesheet" href="{{ "/static/styles/tailwind.css" | bustCache }}" type="text/css" />
     </head>
     <body class="h-full">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
