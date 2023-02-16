@@ -1,5 +1,5 @@
 description: |-
-  Portuguese power distribution company, which requires short passwords (10 to 15 characters), no repitition of the same character, not using the username, the word "PASS" or the word "SAP" in the password, and limiting which special characters can be used.
+  Portuguese power distribution company, which requires short passwords (10 to 15 characters), no repetition of the same character, not using the username, the word "PASS" or the word "SAP" in the password, and limiting which special characters can be used.
 images:
   - e-redes.png
 name: E-Redes
