@@ -1,3 +1,14 @@
 {
-  "trailingSlash": true
+  "trailingSlash": true,
+  "headers": [
+    {
+      "source": "/static/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=14400, must-revalidate"
+        }
+      ]
+    }
+  ]
 }

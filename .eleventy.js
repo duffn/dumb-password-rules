@@ -2,6 +2,7 @@ const esbuild = require("esbuild");
 const htmlmin = require("html-minifier");
 const md = require("markdown-it")();
 const Image = require("@11ty/eleventy-img");
+const fs = require("fs");
 
 async function imageShortcode(
   src,
@@ -43,13 +44,18 @@ module.exports = (eleventyConfig) => {
     });
   });
 
-  eleventyConfig.addPassthroughCopy("src/static");
+  eleventyConfig.addPassthroughCopy("src/static/img");
   eleventyConfig.addPassthroughCopy("src/screenshots");
 
   eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
   eleventyConfig.addFilter("markdownIt", function (value) {
     return md.render(value);
+  });
+
+  eleventyConfig.addFilter("bustCache", (url) => {
+    const buildEpoch = Date.now();
+    return `${url}?${buildEpoch}`;
   });
 
   eleventyConfig.addTransform("htmlmin", function (content) {
