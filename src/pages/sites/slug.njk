@@ -25,7 +25,7 @@ eleventyComputed:
                     <a target="_blank" rel="noopener noreferrer" href="{{ site.url }}" class="ml-4 text-base font-semibold leading-7 text-red-700 block text-center">Website<span aria-hidden="true">→</span></a>
                 {% endif %}
             </h1>
-            <p class="my-10 text-xl leading-8 text-gray-800">{{ site.description | markdownIt | safe }}</p>
+            <div class="my-10 text-gray-600 prose prose-lg max-w-none">{{ site.description | markdownIt | safe }}</div>
             {% for image in site.images %}
                 <div class="mt-10">
                     <a href="/screenshots/{{ image }}">
