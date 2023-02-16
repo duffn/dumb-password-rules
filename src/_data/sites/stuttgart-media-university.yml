@@ -1,0 +1,11 @@
+description: |-
+  Your password has to be between 10 and 14 characters. 
+  Also, you need to have at least one number, one uppercase letter and one lowercase letter.
+  And at least one of these special characters: ```!.,;+-=#$()[]{}&*```.
+  But don't use any of these special characters: ```<>|§@€?:%^\"'`°~```.
+  And don't use any umlauts. Or spaces. Or [diacritics](https://en.wikipedia.org/wiki/Diacritic).
+  Finally, you can't have more than five letters in a row.
+images:
+  - stuttgart-media-university.png
+name: Stuttgart Media University
+url: https://www.hdm-stuttgart.de
