@@ -23,7 +23,7 @@ If you're interested in adding a new site with a dumb password rule, you can fol
 
 - Follow the format of the other entries.
 
-## Setup for local development
+## Setup for local site development
 
 - Have [Node.js 18+](https://nodejs.org/en/) installed.
 
@@ -54,9 +54,31 @@ npx http-server ./_site # Or `python -m http.server --directory _site` or any ot
 
 - Wait for approval and merging!
 
-## Notes
+### Notes
 
 - I'm always open to bug fixes!
 - I'm always open to any accessbility improvements, speed improvements, optimizations, dependency updates, and similar.
 - I'm somewhat open to any neat JavaScript interactivity additions, if you come up with any.
 - I'm partially open to any design changes, though I mostly like it now.
+
+## Setup for local bot development
+
+There's now a bot that will toot random rules periodically! You can take a look in the `.github/bot` directory.
+
+You'll first need a bot on the https://botsin.space instance in order to run this code.
+
+- Have [Node.js 18+](https://nodejs.org/en/) installed.
+
+- Copy `.env.sample` to `.env` and fill in the token.
+
+- Install dependencies.
+
+```bash
+npm install
+```
+
+- Toot!
+
+```
+npm run toot
+```

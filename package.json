@@ -2,7 +2,7 @@
   "name": "dumb-password-rules",
   "private": "true",
   "version": "1.0.0",
-  "description": "Shaming sites with dumb password rules.",
+  "description": "A compilation of sites with dumb password rules.",
   "scripts": {
     "serve": "concurrently \"./node_modules/.bin/eleventy --serve\" \"./node_modules/.bin/tailwindcss -i ./src/static/styles/tailwind.css -o ./_site/static/styles/tailwind.css --postcss --watch\"",
     "build": "./node_modules/.bin/eleventy && ./node_modules/.bin/tailwindcss -i ./src/static/styles/tailwind.css -o ./_site/static/styles/tailwind.css --postcss --minify"
