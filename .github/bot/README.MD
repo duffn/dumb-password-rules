@@ -1,15 +1,7 @@
 # dumb-password-rules-bot
 
-- Copy `.env.sample` to `.env` and fill in the token.
+A bot that toots random rules at https://botsin.space/@dumbpasswordrules.
 
-- Install dependencies.
+## Contributing
 
-```
-npm i
-```
-
-- Toot!
-
-```
-npm run toot
-```
+See the [contributing doc](../../CONTRIBUTING.md).
