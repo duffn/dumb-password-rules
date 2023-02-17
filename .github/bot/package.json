@@ -1,0 +1,26 @@
+{
+  "name": "dumb-password-rules-bot",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "A compilation of sites with dumb password rules - the bot version.",
+  "type": "module",
+  "scripts": {
+    "toot": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duffn/dumb-password-rules.git"
+  },
+  "author": "https://github.com/duffn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duffn/dumb-password-rules/issues"
+  },
+  "homepage": "https://dumbpasswordrules.com",
+  "dependencies": {
+    "@sindresorhus/slugify": "^2.2.0",
+    "dotenv": "^16.0.3",
+    "masto": "^5.9.1",
+    "yaml": "^2.2.1"
+  }
+}
