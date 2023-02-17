@@ -1,5 +1,5 @@
 description: |-
-  ``[[:digit:]]{6,8}``
+  `[[:digit:]]{6,8}`
 images:
   - dbs.png
 name: DBS Bank (Singapore)

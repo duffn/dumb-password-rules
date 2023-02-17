@@ -1,5 +1,5 @@
 description: |-
-  ``/[0-9]{6}/``
+  `/[0-9]{6}/`
 images:
   - singaporeairlines.png
 name: Singapore Airlines

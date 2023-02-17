@@ -6,7 +6,7 @@ description: |-
   - at least 8 characters
 
   In the 'Change password' form,
-  passwords are now restricted to a ``maxlength`` of 18.
+  passwords are now restricted to a `maxlength` of 18.
 
   If your current password is longer than 18 characters,
   you won't be able to change your password.

@@ -1,5 +1,5 @@
 description: |-
-  ``[[:alnum:]]{6,8}``
+  `[[:alnum:]]{6,8}`
 images:
   - vietnamairlines.png
 name: Vietnam Airlines
