@@ -1,7 +1,7 @@
 description: |-
   Because of the last two rules, which ban dictionary words and any
   variants using symbol substitutions, *neither* of the passwords
-  presented in the `xkcd comic <https://xkcd.com/936/>`__ are allowed.
+  presented in the [xkcd comic](https://xkcd.com/936/) are allowed.
 images:
   - ut-austin.png
 name: University of Texas at Austin

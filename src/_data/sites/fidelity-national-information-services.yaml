@@ -1,7 +1,7 @@
 description: |-
   White label online banking provider. Typically appears as `BANK.ibanking-services.com` or `BANK.ebanking-services.com`. If your small local bank has a crappy online banking experience, these guys probably provide it.
 
-  ``\<>'`` and spaces prohibited, upper bound. Passwords of exactly the maximum length are truncated by one character. Unlisted prohibited characters.
+  `\<>'` and spaces prohibited, upper bound. Passwords of exactly the maximum length are truncated by one character. Unlisted prohibited characters.
 images:
   - fisglobal.png
 name: Fidelity National Information Services

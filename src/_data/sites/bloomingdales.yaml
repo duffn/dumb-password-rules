@@ -1,5 +1,5 @@
 description: |-
-  16 characters maximum, no ``.`` ``,`` ``-`` ``|`` ``/`` ``=`` or ``_`` allowed.
+  16 characters maximum, no `.` `,` `-` `|` `/` `=` or `_` allowed.
 images:
   - bloomingdales.png
 name: Bloomingdale's

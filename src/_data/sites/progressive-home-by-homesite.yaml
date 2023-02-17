@@ -7,7 +7,7 @@ description: |-
 
   Passwords must have one number.
 
-  Passwords must have one special character in the following list: ``!'#$ ~`!@#$%^&*()-_+=?<,>.{}[]|;:``
+  Passwords must have one special character in the following list: `!'#$ ~`!@#$%^&*()-_+=?<,>.{}[]|;:`
 
   Furthermore, when resetting your password using this URL, it allows for up to 20 (i haven't tested past this) characters.
 

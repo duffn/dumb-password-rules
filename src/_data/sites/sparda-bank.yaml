@@ -1,13 +1,13 @@
 description: |-
   Sparda is a group of German banks. They all use the same login form (except for Sparda-Bank Berlin, see below). Their equivalent of a password is called *Online-PIN*. As the name implies, only digits are allowed. (*Zifferneingabe* means "digit input"; it opens an on-screen number pad widget.)
 
-  Not mentioned explicitly: Your PIN is limited to 6 characters, i.e. the range of valid "passwords" is from ``000000`` to ``999999``.
+  Not mentioned explicitly: Your PIN is limited to 6 characters, i.e. the range of valid "passwords" is from `000000` to `999999`.
 
   The odd one out is Sparda-Bank Berlin, which has different rules:
 
   - At least 8 characters.
   - At most 20 characters.
-  - Only the following characters are allowed: a-z, A-Z, ä/Ä, ö/Ö, ü/Ü, ß, 0-9, and the "special characters" ``@!%&/=?*+;:,._-``.
+  - Only the following characters are allowed: a-z, A-Z, ä/Ä, ö/Ö, ü/Ü, ß, 0-9, and the "special characters" `@!%&/=?*+;:,._-`.
   - Your password must use either digits only (like a PIN) or at least one digit and at least one uppercase letter.
 images:
   - sparda-m-1.png

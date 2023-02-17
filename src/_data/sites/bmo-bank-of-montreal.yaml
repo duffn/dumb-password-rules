@@ -1,5 +1,5 @@
 description: |-
-  Password requires at least one special character but disallows backtick `````, backslash ``\``, vertical bar ``|``, and underscore ``_``.
+  Password requires at least one special character but disallows backtick ```, backslash `\`, vertical bar `|`, and underscore `_`.
 images:
   - bmo.jpg
 name: BMO Bank of Montreal
