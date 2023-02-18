@@ -23,10 +23,17 @@ function text() {
     decamelize: false,
   });
 
+  let description;
+  if (yaml.description.length >= 400) {
+    description = `${yaml.description.slice(0, 397)}...`;
+  } else {
+    description = yaml.description;
+  }
+
   return `This dumb password rule is from ${yaml.name}.
-  
-${yaml.description}
-  
+
+${description}
+
 https://dumbpasswordrules.com/sites/${slug}/`;
 }
 
