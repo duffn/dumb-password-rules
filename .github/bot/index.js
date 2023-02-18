@@ -34,7 +34,9 @@ function text() {
 
 ${description}
 
-https://dumbpasswordrules.com/sites/${slug}/`;
+https://dumbpasswordrules.com/sites/${slug}/
+
+#password #passwords #infosec #cybersecurity #dumbpasswordrules`;
 }
 
 async function postSite() {
