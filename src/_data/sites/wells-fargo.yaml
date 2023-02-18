@@ -1,5 +1,5 @@
 description: |-
-  Your password must be between 6 and 14 characters.
+  Your password must be between 8-32 characters long and inexplicably doesn't accept `-` but does seemingly accept other special characters.
 images:
   - wells-fargo.png
 name: Wells Fargo
