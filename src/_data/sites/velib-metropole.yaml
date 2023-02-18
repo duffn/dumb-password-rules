@@ -1,0 +1,8 @@
+description: |-
+  Your password must be at least 10 characters, with at least 1 uppercase character, 1 lowercase character, 1 number and 1 special character (only from this list: @, $, €, #, %, *, ., ;, !, ?).
+
+  You're not allowed to paste passwords.
+images:
+  - velib-metropole.png
+name: Vélib’ Métropole
+url: https://www.velib-metropole.fr/subscription/V1_OFFRE_LD_V_LIBRE
