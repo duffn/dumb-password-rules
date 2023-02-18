@@ -19,11 +19,15 @@ function text() {
     fs.readFileSync(path.resolve(SITES_DIRECTORY, randomFile()), "utf8")
   );
 
+  const slug = slugify(yaml.name, {
+    decamelize: false,
+  });
+
   return `This dumb password rule is from ${yaml.name}.
   
 ${yaml.description}
   
-https://dumbpasswordrules.com/sites/${slugify(yaml.name)}/`;
+https://dumbpasswordrules.com/sites/${slug}/`;
 }
 
 async function postSite() {
