@@ -1,0 +1,9 @@
+description: |-
+    The best thing about rules, is that you can mulitple different ones!
+    Like SAS that allows you to have a long password atleast when signing
+    up, but you'll be sorry if you want to change your password later on.
+images:
+  - flysas_register.png
+  - flysas_change_password.png
+name: SAS Eurobonus 
+url: https://www.flysas.com/en/register/
