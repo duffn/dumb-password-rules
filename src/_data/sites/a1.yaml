@@ -1,0 +1,10 @@
+name: A1.net
+description: |-
+  - At least 8 and at most 16 characters
+  - At least 1 digit
+  - At least 1 uppercase letter  
+  The password must not contain your first name, surname or username.  
+  The allowed special characters are: &#33; &#64; &#35; &#37; &#94; &#38; &#42; &#95;.
+images:
+  - a1.net.png
+url: https://www.a1.net/
