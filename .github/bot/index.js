@@ -30,6 +30,8 @@ function text() {
     description = yaml.description;
   }
 
+  console.log(`Retrieved file for ${yaml.name}.`);
+
   return `This dumb password rule is from ${yaml.name}.
 
 ${description}
