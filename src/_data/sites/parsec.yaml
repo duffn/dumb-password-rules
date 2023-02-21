@@ -1,6 +1,5 @@
 description: |-
-  A service for screen sharing and enabling online multiplayer gaming, when the software itself
-  only supports offline multiplayer.
+  A service for screen sharing and enabling online multiplayer gaming, when the software itself only supports offline multiplayer.
 images:
   - parsec.png
 name: Parsec
