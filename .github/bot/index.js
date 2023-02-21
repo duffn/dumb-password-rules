@@ -55,7 +55,9 @@ async function postSite() {
 
     console.log(`Toot successful at ${status.url}`);
   } catch (error) {
-    console.log(error);
+    console.error("Unable to send toot.");
+    console.error(error);
+    process.exit(1);
   }
 }
 
