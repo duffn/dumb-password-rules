@@ -24,11 +24,13 @@ function text() {
   });
 
   let description;
-  if (yaml.description.length >= 400) {
-    description = `${yaml.description.slice(0, 397)}...`;
+  if (yaml.description.length >= 300) {
+    description = `${yaml.description.slice(0, 297)}...`;
   } else {
     description = yaml.description;
   }
+
+  console.log(`Retrieved file for ${yaml.name}.`);
 
   return `This dumb password rule is from ${yaml.name}.
 
