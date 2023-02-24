@@ -1,7 +1,5 @@
 name: United Kingdom Post Office
-description: |-
-  Will not allow you to copy-paste your password into the text box (e.g. from a password manager) 
-  Because allowing people to copy their passwords over will defintely not result in weak passwords :)
+description: Will not allow you to copy-paste your password into the text box (e.g. from a password manager). Because allowing people to copy their passwords over will defintely not result in weak passwords :)
 images:
   - uk_postoffice.png
 url: https://www.postoffice.co.uk/
