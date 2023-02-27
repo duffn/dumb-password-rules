@@ -12,20 +12,20 @@ description: |-
   -  Small letters (a-z)
   -  Large letters (A-Z)
   -  Numbers (0-9)
-  -  „Special“ characters: ä,ö,ü,Ä,Ö,Ü and ß (Not suprising for a german
+  -  „Special“ characters: ä,ö,ü,Ä,Ö,Ü and ß (Not surprising for a german
     Company)
 
   After the rules there some hints on how the password should not look
   like:
 
-  -  Combinations of your initials and the birthyear
+  -  Combinations of your initials and the birth year
   -  Your phone number or parts thereof
   -  Your zipcode
-  -  Commom combinations like 123ab or 55555
+  -  Common combinations like 123ab or 55555
   -  Full or parts of your login credentials
 
   They also have this Android app for 2FA (called Push-TAN), but the rules are
-  diffrent:
+  different:
 
   - At least 8 characters
   - At least one digit

@@ -1,5 +1,5 @@
 description: |-
-  The password should be of atleast 8 characters and must include a number, special character, an upper as well as a lowercase letter
+  The password should be of at least 8 characters and must include a number, special character, an upper as well as a lowercase letter
 images:
   - codepen.jpg
 name: CodePen
