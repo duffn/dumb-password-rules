@@ -1,7 +1,7 @@
 description: |-
   Max of 16 character oh and please don't use any characters we don'y know how to escape properly
   also if it starts with ? you may break our wonderful website. What out with your password generator
-  duplicated charaters is far too insecure to allow here.
+  duplicated characters is far too insecure to allow here.
 images:
   - Microsoft-ecompanystore.png
 name: Microsoft (e company store)

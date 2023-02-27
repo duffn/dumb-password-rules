@@ -1,9 +1,9 @@
 description: |-
   Password must contain:
   - 8 to 12 Characters.
-  - Atleast one lowercase and uppercase letter.
-  - Atleast one numeric character.
-  - Atleast one special character (!, @, #, $, %, %, ^, &, +, =).
+  - At least one lowercase and uppercase letter.
+  - At least one numeric character.
+  - At least one special character (!, @, #, $, %, %, ^, &, +, =).
 
   Must not contain space, first or last name.
 images:

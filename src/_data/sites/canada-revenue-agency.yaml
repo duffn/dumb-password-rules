@@ -1,13 +1,13 @@
 description: |-
   Password checklist:
-  - 8 to 16 charcacters
+  - 8 to 16 characters
   - At least 1 upper-case character
   - At least 1 lower-case character
   - At least 1 digit
   - No space
   - No accented characters
   - No special characters except: dot (.), dash (-), underscore (_), and apostrophe (')
-  - No more than 4 consequetive identical characters
+  - No more than 4 consecutive identical characters
 images:
   - CanadaRevenueAgency.png
 name: Canada Revenue Agency

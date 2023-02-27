@@ -1,5 +1,5 @@
 description: |-
-  Forces to use minimum 8 characters in the password and it must contain atleast one uppercase.
+  Forces to use minimum 8 characters in the password and it must contain at least one uppercase.
 images:
   - replit.png
 name: Replit

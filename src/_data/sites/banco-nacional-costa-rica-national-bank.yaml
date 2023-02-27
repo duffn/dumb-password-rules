@@ -5,7 +5,7 @@ description: |-
 
   Must not contain same letter or number in consecutive order.
 
-  Can't contain vocal letters neither the letter Ñ.
+  Can't contain vowel letters neither the letter Ñ.
 
   Password can't be the same as the previous 6 used.
 images:
