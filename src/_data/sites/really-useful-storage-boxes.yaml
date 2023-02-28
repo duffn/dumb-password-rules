@@ -1,0 +1,10 @@
+name: Really Useful Storage Boxes
+description: |-
+ - Have a length between 8 and 20 alphanumeric characters (without accents)
+ - Contain at least 1 CAPITAL letter
+ - Contain at least 1 lowercase letter
+ - Contain at least 1 numeric character
+ - Contain at least 1 special character taken from the following list: *$@&()[]{}=#.-!?+/£€%
+images:
+  - really-useful-storage-boxes.png
+url: https://www.reallyusefulstorageboxes.co.uk
