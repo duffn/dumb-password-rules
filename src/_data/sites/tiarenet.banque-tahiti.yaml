@@ -1,0 +1,8 @@
+name: Banque de Tahiti
+description: |-
+  You have to enter your password using this *very* Frenchy keypad.  You don't have lowercase letters, the blanks are not spaces but just non-clickable gaps, but as a compensation you have some weird symbols that your keyboard does not have a key for (e.g. `µ`).
+
+  No accessible version available.
+images:
+  - tiarenet.banque-tahiti.png
+url: https://tiarenet.banque-tahiti.pf/
