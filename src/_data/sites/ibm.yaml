@@ -1,6 +1,11 @@
 description: |-
-  Password cannot be longer then 31 characters.
-  Spaces, ?, ../, curly braces and double byte character not allowed
+  12-63 characters
+  One uppercase character
+  One lowercase character
+  One number
+  Sufficiently Strong
+  Special characters are optional.
+  Double byte characters are not allowed
 images:
   - ibm.png
 name: IBM
