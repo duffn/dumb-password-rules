@@ -1,0 +1,6 @@
+description: |-
+  Password must be 10-16 characters with at least one letter, one number and no special character.
+images:
+  - cmb.png
+name: Crédit Mutuel de Bretagne
+url: https://www.cmb.fr
