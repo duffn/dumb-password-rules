@@ -1,0 +1,6 @@
+description: |-
+  Password between 8-20 characters, at least two "categories" of characters, and cannot use the same character more than twice in a row. At least it supports MFA.
+images:
+  - nintendo.png
+name: Nintendo
+url: https://nintendo.com/
