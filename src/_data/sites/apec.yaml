@@ -1,0 +1,8 @@
+description: |-
+  - Between 12 and 30 characters
+  - At least one uppercase letter, one lowercase and one digit
+  - At least one special character BUT NOT the "euro" € character.
+images:
+  - apec.png
+name: APEC
+url: https://www.apec.fr/candidat/mon-espace/modifier-compte.html/
