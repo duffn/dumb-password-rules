@@ -1,0 +1,7 @@
+description: |-
+  - Password cannot be more than 20 characters long
+  - Password can't contain special chars other than ASCII ones (for a French website this sucks as é, à, ç and so on are rejected...)
+images:
+  - bouygues-telecom.png
+name: Bouygues Telecom
+url: https://www.bouyguestelecom.fr/mon-compte/mot-de-passe-oublie
