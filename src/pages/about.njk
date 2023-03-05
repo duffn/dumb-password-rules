@@ -53,6 +53,37 @@ permalink: "/about/"
                 </dd>
             </div>
             <div class="pt-8 lg:grid lg:grid-cols-12 lg:gap-8">
+                <dt class="text-base font-semibold leading-7 text-gray-900 lg:col-span-5">What makes a good password policy?</dt>
+                <dd class="mt-4 lg:col-span-7 lg:mt-0 text-gray-600">
+                    <p class="text-base leading-7 text-gray-600">                    
+                        The <a class="underline text-red-600" href="https://pages.nist.gov/800-63-3/sp800-63b.html#5-authenticator-and-verifier-requirements" target="_blank">
+                        current NIST guidelines for passwords</a>
+                        state:
+                    </p>
+
+                    <ol class="ml-4 mt-2 px-2 !list-outside" style="list-style-position: outside;">
+                        <li class="mb-3"><strong>Longer passwords (>=8 characters)</strong><br/>
+                            but recommend even longer ones (passphrases with +64 characters)</li>
+                        <li><strong>Don't require password complexity</strong><br/>
+                            like caps, special chars, etc., instead disallow bad 
+                            or blacklisted passwords like "password" or 
+                            "123456" by making use of
+                            <ul class="ml-4 px-2 !list-outside" style="list-style-position: outside;">
+                                <li>libs: e.g. <a class="underline text-red-600" href="https://github.com/dropbox/zxcvbn" target="_blank"><code>zxcvbn</code></a> ("a password strength estimator inspired by password crackers")
+                                <li>APIs: e.g. <a class="underline text-red-600" href="https://haveibeenpwned.com/API/v3" target="_blank">haveibeenpwned API</a>
+                            </ul>
+                        </li>
+                        <li><strong>Avoid mandatory password changes</strong><br/>
+                            except in cases of suspected compromise.</li>
+                        <li><strong>Allow copy-paste</strong><br/>
+                            to facilitate the use of password managers.</li>
+                        <li><strong>Use two-factor authentication (2FA)</strong><br/>
+                            or multi-factor authentication (MFA), especially for high-value accounts.
+                        </li>
+                    </ol>
+                </dd>
+            </div>
+            <div class="pt-8 lg:grid lg:grid-cols-12 lg:gap-8">
                 <dt class="text-base font-semibold leading-7 text-gray-900 lg:col-span-5">I found a password rule that I
                     think is dumb. Can I add it to this list?</dt>
                 <dd class="mt-4 lg:col-span-7 lg:mt-0">
