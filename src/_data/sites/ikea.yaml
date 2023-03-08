@@ -1,5 +1,5 @@
 description: |-
-  Dumb restriction for consecutive similar characters. Wonder if someone got more that 2 identical characters in their name then
+  Bad restriction for consecutive similar characters. Wonder if someone got more that 2 identical characters in their name then
   it won't allow you to even use name in password.
 
   Password must contain:

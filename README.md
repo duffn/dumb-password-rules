@@ -1,4 +1,4 @@
-# Dumb Password Rules
+# Bad Password Rules
 
 https://dumbpasswordrules.com
 
@@ -10,7 +10,7 @@ A compilation of sites with dumb password rules.
 
 ### New sites
 
-Feel free to submit a pull request with dumb password rules you've encountered!
+Feel free to submit a pull request with bad password rules you've encountered!
 
 You can find more details in the [contributing doc](CONTRIBUTING.md).
 

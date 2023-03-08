@@ -7,7 +7,7 @@ pagination:
     addAllPagesToCollections: true
 permalink: "/sites/{{ site.name | slugify }}/"
 eleventyComputed:
-    page_name: "{{ site.name }} - Dumb Password Rules"
+    page_name: "{{ site.name }} - Bad Password Rules"
     meta_url: "{{ siteMeta.url }}/sites/{{ site.name | slugify }}/"
     meta_image: "{{ siteMeta.url }}/screenshots/{{ site.images[0] }}"
     description: "{{ site.description | striptags(true) | escape }}"
@@ -29,7 +29,7 @@ eleventyComputed:
             {% for image in site.images %}
                 <div class="mt-10">
                     <a href="/screenshots/{{ image }}">
-                        {% image "./src/screenshots/" + image , "w-3/4", site.name + " dumb password rule screenshot" %}
+                        {% image "./src/screenshots/" + image , "w-3/4", site.name + " bad password rule screenshot" %}
                     </a>
                 </div>
             {% endfor %}
