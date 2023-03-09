@@ -36,7 +36,7 @@ function text() {
 
 ${description}
 
-https://dumbpasswordrules.com/sites/${slug}/
+https://badpasswordrules.net/sites/${slug}/
 
 #password #passwords #infosec #cybersecurity #badpasswordrules`;
 }

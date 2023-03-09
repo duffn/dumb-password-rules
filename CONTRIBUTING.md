@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in contributing to the https://dumbpasswordrules.com site code!
+Thanks for your interest in contributing to the https://badpasswordrules.net site code!
 
 ## New sites
 

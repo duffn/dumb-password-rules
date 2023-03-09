@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duffn/dumb-password-rules.git"
+    "url": "git+https://github.com/duffn/bad-password-rules.git"
   },
   "author": "https://github.com/duffn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duffn/dumb-password-rules/issues"
+    "url": "https://github.com/duffn/bad-password-rules/issues"
   },
-  "homepage": "https://dumbpasswordrules.com",
+  "homepage": "https://badpasswordrules.net",
   "dependencies": {
     "@sindresorhus/slugify": "^2.2.0",
     "dotenv": "^16.0.3",

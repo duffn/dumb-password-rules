@@ -1,5 +1,5 @@
 module.exports = function () {
   return {
-    url: "https://dumbpasswordrules.com",
+    url: "https://badpasswordrules.net",
   };
 };
