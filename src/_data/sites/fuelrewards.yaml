@@ -1,0 +1,10 @@
+description: |
+  - No less than 8 and no more than 16 characters
+  - Allows only specific special characters: ! @ # $ %
+  - Doesn't bother to tell you what characters are allowed or not. Hope you like reading JS.
+  
+images:
+  - fuelrewards-1.png
+  - fuelrewards-2.png
+name: Shell Fuel Rewards
+url: https://www.fuelrewards.com
