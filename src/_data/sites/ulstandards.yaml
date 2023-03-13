@@ -1,0 +1,10 @@
+description: |
+  - Passwords must be between 8 and 12 characters
+  - Passwords cannot contain any blank spaces
+  - Passwords must contain at least one number, one uppercase letter, and one lowercase letter.
+  - Password Reset will randomly fail for no reason.
+  
+images:
+  - ulstandards.png
+name: UL Standards
+url: https://www.shopulstandards.com
