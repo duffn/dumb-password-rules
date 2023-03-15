@@ -1,0 +1,6 @@
+description: |-
+  8 to 15 characters and no spaces? Why no spaces? Also limited to only these 6 special characters. That could mean that there is some process somewhere that puts this as part of a command line invocation.
+images:
+  - nelnet.png
+name: Nelnet (student loan servicer)
+url: https://www.nelnet.com/
