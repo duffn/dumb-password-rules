@@ -1,0 +1,7 @@
+name: Bank Leumi (Israel)
+description: |-
+  - Password consists of 6 to 12 characters
+  - Password contains only english letters and numbers without spaces.
+images:
+  - leumi.co.il.png
+url: https://www.leumi.co.il/
