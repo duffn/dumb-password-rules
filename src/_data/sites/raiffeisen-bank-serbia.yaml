@@ -1,14 +1,14 @@
 description: |-
   There are a couple of password limitations when creating a new account (and
   changing existing password) on Raiffeisen Bank Serbia on-line banking portal.
-  Password length is limited to minimum 8 and maximum 16 characters. Also, minimum
-  uppercase letters 1, minimum lowercase letter 1, minimum digits 2, maximum
-  consecutive identical characters 4 and first character must be a letter.
-  Oh... And, no special characters!
+  Password length is limited to minimum 8 and maximum 32 characters. Also, minimum
+  uppercase letters 1, minimum lowercase letter 1, minimum digits 2, minimum special
+  characters 0 (Ok...), maximum consecutive identical characters 4 and first character must
+  be a letter.
 
   Image shows the password update screen, but the requirements are the same
   for account creation.
 images:
   - raiffeisen_bank_srb.png
 name: Raiffeisen Bank Serbia
-url: https://rol.raiffeisenbank.rs/Retail/home/login/
+url: https://rol.raiffeisenbank.rs/Retail/Home/Login
