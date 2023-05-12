@@ -1,0 +1,9 @@
+description: |-
+  MTS is a national mobile and internet provider in Serbia and they have bad password rules.
+  Translation: The password must have more than 6 character, less than 17 characters and one
+  of the following combinations: upper case or lower case letter and a number, upper case or
+  lower case letter and a symbol, and a symbol and a number. Characters []<>'&\", are not allowed.
+images:
+  - mts_serbia.png
+name: MTS Serbia
+url: https://moj.mts.rs/registracija-b2c/kreiranje-naloga
