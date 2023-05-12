@@ -1,0 +1,8 @@
+description: |-
+  A1 mobile Serbia is a mobile provider in Serbia that imposes poor password rules.
+
+  Translation: "Length of the password must be between 8 and 20 characters and can only have letters and digits."
+images:
+  - a1_mobile_srb.png
+name: A1 Mobile Serbia
+url: https://a1.rs/privatni/sso/registracija
