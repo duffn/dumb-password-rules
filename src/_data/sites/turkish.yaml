@@ -2,7 +2,7 @@ description: |-
   - Your password must consist of 6 digits
   - Make sure that your password does not contain your date of birth or three consecutive digits...
   - but two is OK, for sure.
-  - ... and that the same number is not repeated three or more time
+  - ... and that the same number is not repeated three or more times.
   - but two times is probs OK
 images:
   - Turkish.png
