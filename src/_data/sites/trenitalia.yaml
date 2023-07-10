@@ -1,0 +1,12 @@
+description: |-
+  - Password must consist of at least 8 characters
+  - Must contain at least one lowercase character
+  - Must contain at least one uppercase character
+  - Must contain at least one number
+  - Must contain at least one special character
+  - The only allowed special charaters are _*-+!?,:;.
+  - Pasting into the confirmation form is disabled, so you have to manually copy the password from your password manager.
+images:
+  - trenitalia.png
+name: Trenitalia
+url: https://www.trenitalia.com/
