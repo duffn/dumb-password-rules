@@ -1,6 +1,6 @@
 name: Meetup
 description: |-
-  If you used Google or Facebook to initially setup your account, 
+  If you used Google, Facebook, or Apple to initially setup your account, 
   Meetup requires you to set a password before deleting your account.
 images: 
   - meetup1.png
