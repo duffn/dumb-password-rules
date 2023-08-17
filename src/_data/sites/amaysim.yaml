@@ -1,0 +1,8 @@
+name: amaysim
+description: |-
+  Passwords must be 6-15 characters. If you enter more than 15 characters at signup, there is no error,
+  but the system apparently silently truncates to 15 characters. So of course, logging in subsequently
+  fails if you enter the untruncated password. How convenient.
+images:
+  - Amaysim-signup.png
+url: https://www.amaysim.com.au/
