@@ -1,5 +1,10 @@
 description: |-
-  6 non-case sensitive characters [exactly].  no blanks, spaces or special characters.
+  Password rules:
+  - be between 8 and 30 characters
+  - include at least 1 number, 1 letter and 1 special character (@#%^ etc)
+  - have no more than 2 repeating characters (AAB not AAA)
+  - not contain spaces
+  - not be the same as your last 3 passwords
 images:
   - westpac.png
 name: Westpac Live Online Banking
