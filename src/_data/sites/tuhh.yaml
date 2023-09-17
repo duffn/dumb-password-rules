@@ -1,0 +1,14 @@
+description: |-
+  - Former passwords cannot be reused.
+  - Passwords needs to be changed every 180 days
+  - The new password must not contain your login nor parts of your name.
+  - It should be at least 12 characters long, at most 20.
+  - The password should contain characters of at least 3 of the following classes:
+    - upper case letters: A-Z
+    - lower case letters: a-z
+    - digits: 0-9
+    - the following special characters: !#$%()*+,-./:;<=>?@[]_{}
+images:
+  - tuhh.png
+name: Technishe Universität Hamburg
+url: https://ps.tuhh.de/cgi-bin/passwd
