@@ -1,0 +1,14 @@
+description: |-
+  Password must:
+  - be between 8 to 20 characters
+  - not contain characters that repeat in a row
+  Password must contain three of the following:
+  - an upper-case letter
+  - a lower-case letter
+  - a number
+  - a symbol
+
+images:
+  - LINE.png
+name: LINE
+url: https://line.me/
