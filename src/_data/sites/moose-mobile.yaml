@@ -1,0 +1,8 @@
+description: |-
+  Moose mobile is an Australian mobile service provider that imposes poor password requirements.
+  "The password must be of minimum 4 and maximum 15 characters. The Confirm Password field may only contain alpha-numeric characters."
+
+images:
+  - moose_mobile.png
+name: Moose Mobile
+url: https://moosemobile.com.au/
