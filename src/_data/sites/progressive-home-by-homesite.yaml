@@ -9,12 +9,10 @@ description: |-
 
   Passwords must have one special character in the following list: `!'#$ ~`!@#$%^&*()-_+=?<,>.{}[]|;:`
 
-  Furthermore, when resetting your password using this URL, it allows for up to 20 (i haven't tested past this) characters.
-
-  https://progressivedirect.homesite.com/OnlineServicing/Welcome.aspx#RecoverPassword/CreateNewPassword
+  Furthermore, when resetting your password, it allows for up to 20 (i haven't tested past this) characters.
 
   However, when you log in, it only allows passwords up to 12 characters in length. So that newly created password will work once and only once.
 images:
   - progressive-homesite.png
 name: Progressive Home by Homesite
-url: https://progressivedirect.homesite.com/OnlineServicing/
+url: https://progressivedirect.homesite.com/OnlineServicing/Welcome.aspx#RecoverPassword/CreateNewPassword
