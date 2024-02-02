@@ -1,0 +1,9 @@
+description: |-
+  Your password must:
+  - be between 7 and 15 characters
+  - contain a capital letter
+  - have no spaces (shown only when you go to change it)
+images:
+  - whitcoulls.png
+name: Whitcoulls
+url: https://www.whitcoulls.co.nz/register
