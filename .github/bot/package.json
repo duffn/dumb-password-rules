@@ -21,6 +21,6 @@
     "@sindresorhus/slugify": "^2.2.0",
     "dotenv": "^16.0.3",
     "masto": "^5.9.1",
-    "yaml": "^2.2.1"
+    "yaml": "^2.2.2"
   }
 }
