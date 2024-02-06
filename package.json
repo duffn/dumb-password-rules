@@ -19,7 +19,7 @@
   "homepage": "https://dumbpasswordrules.com",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
-    "@11ty/eleventy-img": "^3.0.0",
+    "@11ty/eleventy-img": "^3.1.8",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.9",
