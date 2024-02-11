@@ -1,0 +1,10 @@
+description: |-
+  At least 6 characters, one uppercase letter, one lowercase letter, one digit
+  and one "special character".
+
+  These do not count as "special characters": `` + - = | @ " ' # ( ) [ ] { } < > / \ ` ;``.
+
+images:
+  - messervices-etudiant.png
+name: Mes Services Étudiant
+url: https://www.messervices.etudiant.gouv.fr
