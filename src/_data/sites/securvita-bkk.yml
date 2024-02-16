@@ -1,0 +1,11 @@
+description: |-
+  Your password can not exceed a length of 30 characters. However, they don't tell you this: If you try to set a longer password, they instead shame *you* for not including at least one uppercase letter, one lowercase letter, one digit and one symbol – *even if you did*.
+
+  The error message translates to:
+
+  > The password must contain uppercase letters, lowercase letters, numbers, and symbols.
+images:
+  - securvita-bkk-1.png
+  - securvita-bkk-2.png
+name: Securvita BKK
+url: https://meine.securvita-bkk.de/
