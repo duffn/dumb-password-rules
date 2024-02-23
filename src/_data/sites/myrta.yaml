@@ -1,0 +1,11 @@
+description: |-
+  The Roads and Traffic Authority's 'Online Services' website for New South Wales, Australia.
+  Password rules:
+  - Must be between 6 and *10* characters long
+  - Must be a combination of letters and numbers
+  - Cannot be the same as any of the previous two passwords, including the current password
+  - Is case sensitive
+images:
+  - myrta.png
+name: myRTA
+url: https://www.myrta.com/
