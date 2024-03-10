@@ -1,22 +1,22 @@
 {
-  "name": "dumb-password-rules",
+  "name": "bad-password-rules",
   "private": "true",
   "version": "1.0.0",
-  "description": "A compilation of sites with dumb password rules.",
+  "description": "A compilation of sites with bad password rules.",
   "scripts": {
     "serve": "concurrently \"./node_modules/.bin/eleventy --serve\" \"./node_modules/.bin/tailwindcss -i ./src/static/styles/tailwind.css -o ./_site/static/styles/tailwind.css --postcss --watch\"",
     "build": "./node_modules/.bin/eleventy && ./node_modules/.bin/tailwindcss -i ./src/static/styles/tailwind.css -o ./_site/static/styles/tailwind.css --postcss --minify"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duffn/dumb-password-rules.git"
+    "url": "git+https://github.com/duffn/bad-password-rules.git"
   },
   "author": "https://github.com/duffn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duffn/dumb-password-rules/issues"
+    "url": "https://github.com/duffn/bad-password-rules/issues"
   },
-  "homepage": "https://dumbpasswordrules.com",
+  "homepage": "https://badpasswordrules.net",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-img": "^3.1.8",

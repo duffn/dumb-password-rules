@@ -32,13 +32,13 @@ function text() {
 
   console.log(`Retrieved file for ${yaml.name}.`);
 
-  return `This dumb password rule is from ${yaml.name}.
+  return `This bad password rule is from ${yaml.name}.
 
 ${description}
 
-https://dumbpasswordrules.com/sites/${slug}/
+https://badpasswordrules.net/sites/${slug}/
 
-#password #passwords #infosec #cybersecurity #dumbpasswordrules`;
+#password #passwords #infosec #cybersecurity #badpasswordrules`;
 }
 
 async function postSite() {

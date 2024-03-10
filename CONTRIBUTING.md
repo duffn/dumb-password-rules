@@ -1,10 +1,10 @@
 # Contributing
 
-Thanks for your interest in contributing to the https://dumbpasswordrules.com site code!
+Thanks for your interest in contributing to the https://badpasswordrules.net site code!
 
 ## New sites
 
-If you're interested in adding a new site with a dumb password rule, you can follow the setup steps below or optionally you can simply create a new YAML file, open a PR, and Vercel will build a preview environment for your changes.
+If you're interested in adding a new site with a bad password rule, you can follow the setup steps below or optionally you can simply create a new YAML file, open a PR, and Vercel will build a preview environment for your changes.
 
 - Add a new YAML file for your entry in the `_data/sites` directory.
 
@@ -12,14 +12,14 @@ If you're interested in adding a new site with a dumb password rule, you can fol
 
   - A name.
     - This must be unique amongst all the entries.
-  - A clean description about the dumb password rule.
+  - A clean description about the bad password rule.
     - The `description` of an entry can be any valid markdown.
     - Sarcasm encouraged.
   - At least one screenshot.
 
 - Entries can optionally include:
 
-  - A URL to the offending dumb rule.
+  - A URL to the offending bad rule.
 
 - Follow the format of the other entries.
 
