@@ -1,1 +1,11 @@
-
+description: |-
+  * Use 8-20 characters.
+  * Use 1 letter and 1 number.
+  * $ ! @ * ? | also allowed.
+  * Don't use spaces.
+  * Don't use the same character three times in a row.
+  * Don't use part of the username.  
+images:
+  - Anthem.com.png
+name: Anthem.com
+url: https://www.anthem.com/
