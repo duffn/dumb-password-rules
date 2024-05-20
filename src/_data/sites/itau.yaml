@@ -7,7 +7,7 @@ description: |-
   - You can't repeat the same character more than two times in a row.
   - Avoid using basic character sequences such as "qwerty", "asdf", "1234" or "9876".
 
-  _Just in case, that's eight characters. Not seven, not nine. That's dumb and insecure enough... What they don't tell you is that the passwords are are actually **not** case sensitive._
+  _Just in case, that's eight characters. Not seven, not nine. That's bad and insecure enough... What they don't tell you is that the passwords are are actually **not** case sensitive._
 images:
   - itau.png
 name: Itaú Bank

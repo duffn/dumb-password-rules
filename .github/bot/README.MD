@@ -1,6 +1,6 @@
-# dumb-password-rules-bot
+# bad-password-rules-bot
 
-A bot that toots random rules at https://botsin.space/@dumbpasswordrules.
+A bot that toots random rules at https://botsin.space/@badpasswordrules.
 
 ## Contributing
 
