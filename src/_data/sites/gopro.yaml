@@ -1,0 +1,6 @@
+description: |-
+  Password cannot be more than 23 characters long.
+images:
+  - gopro.png
+name: GoPro
+url: https://gopro.com/login/signup
