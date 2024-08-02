@@ -1,0 +1,6 @@
+description: |-
+  Must be between 8 and 40 characters, uppercase and lowercase, one number, one special character... whatever. But special characters are limited to -#$%+?~*!. (and space). WHY?!
+images:
+  - dcu.png
+name: Digital Credit Union (DCU)
+url: https://app.dcu.org/profile
