@@ -1,7 +1,8 @@
 description: |-
-  Only allows 16 characters in the password input, but does not tell you that.
-  Why is your password invalid? It's up to you to find out!
+  - Between 8 and 16 characters
+  - Must contain a number, a lowercase letter, and an uppercase letter
+  - Special characters allowed, but not periods, commas, tildes, or angle brackets
 images:
   - airasia.png
-name: Air Asia
-url: https://www.airasia.com/member/
+name: AirAsia
+url: https://www.airasia.com/account/
