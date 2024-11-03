@@ -65,7 +65,7 @@ npx http-server ./_site # Or `python -m http.server --directory _site` or any ot
 
 There's now a bot that will toot random rules periodically! You can take a look in the `.github/bot` directory.
 
-You'll first need a bot on the https://botsin.space instance in order to run this code.
+You'll first need a bot on the https://infosec.exchange instance in order to run this code.
 
 - Have [Node.js 18+](https://nodejs.org/en/) installed.
 
