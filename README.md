@@ -4,7 +4,7 @@ https://dumbpasswordrules.com
 
 A compilation of sites with dumb password rules.
 
-⭐️ Now with a bot that periodically toots random rules! https://botsin.space/@dumbpasswordrules
+⭐️ Now with a bot that periodically toots random rules! https://infosec.exchange/@dumbpasswordrules
 
 ## Contributing
 

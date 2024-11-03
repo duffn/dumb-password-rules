@@ -44,7 +44,7 @@ https://dumbpasswordrules.com/sites/${slug}/
 async function postSite() {
   try {
     const masto = await login({
-      url: "https://botsin.space",
+      url: process.env.MASTODON_URL,
       accessToken: process.env.MASTODON_API_ACCESS_TOKEN,
     });
 
