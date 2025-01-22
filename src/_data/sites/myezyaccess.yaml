@@ -1,0 +1,6 @@
+description: |-
+  12-character maximum password length.  This is not a single website but a patient portal system used by hundreds of medical facilities via subdomains, with password policy apparently being consistent for all sites.
+images:
+  - myezyaccess.png
+name: myezyaccess.com patient portal system
+url: https://myezyaccess.com/

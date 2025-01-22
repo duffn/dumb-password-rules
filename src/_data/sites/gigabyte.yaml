@@ -1,0 +1,11 @@
+description: |-
+  Your password must contain:
+    Between 8-12 characters
+    An upper case letter (A, B, C, etc.)
+    a lower case letter (a, b, c, etc.)
+    A number (1, 2, 3, etc.)
+    A symbol (-, ~, !, #, $, %, &, (, ), +, =, .)
+images:
+  - gigabyte.png
+name: Gigabyte RMA system
+url: https://services.gigabyte.com/
