@@ -1,0 +1,15 @@
+description: |-
+  While stating otherwise, the site actually *accepts a backslash* in the password 
+  and displays a forward slash as the example of the disallowed backslash
+  Password:
+  - Must be at least 8 characters long
+  - Must contain at least 1 number
+  - Must contain at least 1 letter
+  - Must contain at least 1 special character
+  - Must not contain a comma ","
+  - Must not contain a period "."
+  - Must not contain a backslash "/" (note that this character is a *forward* slash)
+images:
+  - kpmg-talentcommunity.png
+name: KPMG Talent Community
+url: https://us-talentcommunity.kpmg.com
