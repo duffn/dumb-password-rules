@@ -1,0 +1,7 @@
+description: |-
+  - Password must consist of 8-16 characters
+  - Must contain 3 out of 4 of the following: lowercase characters, uppercase character, digits (0-9), and one or more of the following symbols: @#$%^&*-_+=[]{}|\:',?/`~“();.
+images:
+  - trenord.png
+name: Trenord
+url: https://www.trenord.it/
