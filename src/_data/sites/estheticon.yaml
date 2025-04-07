@@ -1,0 +1,9 @@
+name: Estheticon
+url: https://www.estheticon.de/
+description: |-
+  - At least 8 characters but limited to 20 characters at max
+  - At least 1 digit
+  - At least one letter (just a letter in general, no specific casing required)
+  - No special characters at all
+images:
+  - estheticon.png
