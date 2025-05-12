@@ -4,7 +4,10 @@ https://dumbpasswordrules.com
 
 A compilation of sites with dumb password rules.
 
-⭐️ Now with a bot that periodically toots random rules! https://infosec.exchange/@dumbpasswordrules
+⭐️ Now with a bot that periodically post random rules!
+
+- Mastodon: https://infosec.exchange/@dumbpasswordrules
+- Blue Sky: https://bsky.app/profile/dumbpasswordrules.bsky.social
 
 ## Contributing
 
