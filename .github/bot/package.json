@@ -18,9 +18,12 @@
   },
   "homepage": "https://dumbpasswordrules.com",
   "dependencies": {
+    "@atproto/api": "^0.15.6",
     "@sindresorhus/slugify": "^2.2.0",
     "dotenv": "^16.0.3",
+    "grapheme-splitter": "^1.0.4",
     "masto": "^5.9.1",
+    "open-graph-scraper": "^6.10.0",
     "yaml": "^2.2.2"
   }
 }
