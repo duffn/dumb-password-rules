@@ -3,6 +3,6 @@ description: |-
   Password should not be the same as the user ID.
   Avoid using consecutive characters such (ex. abc, DEF, 678) and invalid characters such as [!#$%^&';"].
 images:
-  - bdo.png
+  - bdo.jpg
 name: BDO
 url: https://www.bdo.com.ph/personal
