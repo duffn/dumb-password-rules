@@ -1,0 +1,6 @@
+description: |-
+  - The password must be between 8 and 30 characters, containing at least a digit [0-9], a lower case letter [A-Z], an upper case letter [A-Z] and one of [!@#$%&*,.] characters
+images:
+  - euipo.png
+name: European Union Intellectual Property Office
+url: https://www.euipo.europa.eu/
