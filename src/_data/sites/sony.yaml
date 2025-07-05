@@ -1,0 +1,15 @@
+description: |-
+  - between 8 and 30 characters
+  - at least one number or special character
+  - not part of email address
+  - avoid common passwords
+  - repeating characters 3 or more times should be avoided
+  - currency characters and 3 or more consecutive characters, also in reverse order, should be avoided
+  Somehow "$" is not counted as a currency character, but as a special character. Moreover, as soon as the password contains "€", "£" or "元" for example, it is regonized as a common password.
+  Hence "76eHnE6OH€OCmv4ZGo30#Oe^@gdw^@" does not fulfill the requirements while "qwerty$$" does.
+images:
+  - sony.png
+  - sony_not_fulfilled.png
+  - sony_fulfilled.png
+name: SONY
+url: https://www.sony.de/mysony/login
