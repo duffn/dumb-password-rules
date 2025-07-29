@@ -1,5 +1,6 @@
 description: |-
-  Privileged access management tool enforces too many rules and adds optional ones (??):
+  "Enterprise privileged access management has never been easier."
+
     - Must be 8 to 16 characters in length
     - Must start with an alphabet
     - Should not contain repeating characters
