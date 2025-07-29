@@ -2,7 +2,12 @@ description: |-
   "Enterprise privileged access management has never been easier."
 
     - Must be 8 to 16 characters in length
+    - Must have mixed case alphabets
+    - Must have at least 1 upper and 1 lower case character(s)
+    - Must have at least 1 number(s)
+    - Must have at least 1 special character(s)
     - Must start with an alphabet
+    - Cannot contain login name
     - Should not contain repeating characters
     - Should not contain direct alphabet series
     - Should not contain direct numeric series
