@@ -1,0 +1,6 @@
+description: |-
+  Openbank is an online bank for a few European countries. To login online, you only need the document number of your passport or national ID card, and a 4 digit pin code.
+images:
+  - openbank-login.png
+name: Openbank
+url: https://www.openbank.es/en
