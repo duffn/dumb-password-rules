@@ -1,5 +1,5 @@
 description: |-
-  Can't contain 3 or more consecutive identical characters, nor can it be more than 32 characters long.
+  Can't contain 3 or more consecutive identical characters, nor can it be more than 63 characters long.
 images:
   - apple1.jpg
   - apple2.png
