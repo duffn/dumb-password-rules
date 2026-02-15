@@ -1,0 +1,7 @@
+name: Meetup
+description: |-
+  If you used Google, Facebook, or Apple to initially setup your account, 
+  Meetup requires you to set a password before deleting your account.
+images: 
+  - meetup1.png
+url: https://help.meetup.com/hc/en-us/articles/360002861092-Deactivating-an-account-
