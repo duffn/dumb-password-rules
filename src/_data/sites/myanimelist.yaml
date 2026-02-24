@@ -1,0 +1,6 @@
+description: |-
+  Password must be between 6 - 50 characters long and contain at least two of the following: uppercase, lowercase, numbers and symbols.
+images:
+  - myanimelist.webp
+name: MyAnimeList
+url: https://myanimelist.net/register.php
