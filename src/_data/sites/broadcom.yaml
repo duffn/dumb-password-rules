@@ -1,0 +1,9 @@
+description: |-
+  - Between 8 and 50 characters
+  - Can't contain any substring of length 3 or more from your email address.
+  - At least 1 uppercase letter, lowercase letter, and digit, and special character.
+  - Oh right, to really mess with password managers: no more than 10 special characters and pasting into the password field is disabled.
+images:
+  - broadcom.png
+name: Broadcom
+url: https://profile.broadcom.com/web/registration
