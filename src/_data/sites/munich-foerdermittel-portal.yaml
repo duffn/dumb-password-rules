@@ -1,0 +1,14 @@
+description: |-
+  You register on their funding portal and receive an email with an activation link to set a password.
+  The email further informs you about their password policy:
+  - At least 8, but no more than 20 characters
+  - At least one lowercase and uppercase letter
+  - At least two digits (1,2,3,4,5,6,7,8,9,0) or two special characters (!§()@#_-) (other characters are not permitted)
+  - No consecutive groups of four identical characters (e.g. "aB11aB11"), whereby this only applies to direct sequences
+  - No more than two consecutive identical characters (e.g. "aB111222")
+  - No umlauts
+  
+images:
+  - munich-foerdermittel-portal.jpg
+name: Munich Foerdermittel Portal
+url: https://foerderung.muenchen.de/
