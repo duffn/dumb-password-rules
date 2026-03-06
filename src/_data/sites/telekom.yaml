@@ -1,0 +1,12 @@
+description: |-
+  At first glance, their policy looks good - sure, the upper limit was chosen without necessity 
+  and they enforce characters from all four groups, but your password manager will most likely come up with something suitable.
+  
+  The website even tells you how 'wunderbar' your new password is - only to then throw up an error when you try to save it. 
+  The frontend and backend seem indifferent about certain special characters, such as \ " ' : ; ^ `
+  
+images:
+  - telekom1.jpg
+  - telekom2.jpg
+name: Telekom
+url: https://account.idm.telekom.com/account-manager/account-completion/password/input
