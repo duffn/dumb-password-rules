@@ -1,0 +1,16 @@
+description: |-
+  Between 8 and 15 characters.
+  Only letters and digits, no special characters and no umlauts!
+  An uppercase and lowercase mix is enforced.
+  It must not contain your email, alias or account number.
+  
+  Why the upper limit of 15? Are you using decades-old mainframes and cleartext storage with 15 bytes plus 1 byte null-termination?
+  
+  Allowing special characters would greatly increase entropy, as would allowing umlauts.
+  However, their URL already shows that they do not know how to handle umlauts. 
+  It contains the words "personliche" and "aendern" - the latter one is correctly transcribed from "ändern" (ä -> ae), the first one "persönliche" (ö -> oe) is not.
+  
+images:
+  - fidelity-germany.png
+name: Fidelity Germany
+url: https://direct.fidelity.de/secure/personliche-daten/zugangsdaten/pin-aendern
