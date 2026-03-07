@@ -1,0 +1,13 @@
+description: |-
+  The Australian immigration platform requires at least 14 characters and at least one from three of the four groups: lowercase letters, uppercase letters, digits, and special characters.
+  The random generator in my password manager only needed one second attempt to avoid 'dangerous' special characters such as [ ] " ' ; : \ ^
+  
+  However, they still ask you to set 'Security Questions', which are generally inadvisable, as the answers can often be found through public information, social media, or social engineering.
+  Ironically, the Australian cyber security guideline [1] explicitly states in control ISM-2076: 'Security questions are not used for authentication purposes.'
+  At least, individual questions are possible, so you can repurpose them towards long randomized recovery codes.
+  
+  [1] https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/ism/cyber-security-guidelines/guidelines-for-system-hardening
+images:
+  - australia-immi-platform.png
+name: Australia Immi Platform
+url: https://online.immi.gov.au/lusc/register
