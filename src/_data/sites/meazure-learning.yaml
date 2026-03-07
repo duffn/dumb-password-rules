@@ -1,0 +1,13 @@
+description: |-
+  The exam proctoring platform requires 12 to 128 characters and at least one from each of the four groups: lowercase letters, uppercase letters, digits, and special characters.
+  They explicitly ban spaces, more than two repeating characters and personal information. 
+  So far, not too bad, although the ban of spaces and character repetition needlessly reduces entropy. 
+  
+  Only when you receive your email with the exam invitation do you find out: they see no reason to cryptographically hash your password in 2026. The email contains it in clear text!
+  Hopefully, none of their users has ever reused a password from another service...
+  
+images:
+  - meazure-learning1.png
+  - meazure-learning2.png
+name: Meazure Learning
+url: https://assessments.meazurelearning.com/ResetPassword
