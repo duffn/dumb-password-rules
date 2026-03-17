@@ -1,0 +1,7 @@
+description: |-
+  The password cannot exceed 15 characters in length. The FCC regulates the
+  internet but apparently didn't get the memo on password security.
+images:
+  - fcc.png
+name: FCC
+url: https://apps2.fcc.gov/fccUserReg/pages/createAccount.htm
