@@ -24,6 +24,6 @@
     "grapheme-splitter": "^1.0.4",
     "masto": "^5.9.1",
     "open-graph-scraper": "^6.10.0",
-    "yaml": "^2.2.2"
+    "yaml": "^2.8.3"
   }
 }
