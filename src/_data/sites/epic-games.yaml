@@ -1,0 +1,12 @@
+description: |-
+  You must:
+    - Not use any of your last 5 passwords
+    - Use at least 7 characters
+    - Use at least 1 letter
+    - Use at least 1 number
+    - Not use spaces
+  Max password length's 256 characters.
+images:
+  - epic-games.webp
+name: Epic Games
+url: https://www.epicgames.com/id/register
