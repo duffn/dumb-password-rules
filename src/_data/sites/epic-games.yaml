@@ -5,6 +5,7 @@ description: |-
     - Use at least 1 letter
     - Use at least 1 number
     - Not use spaces
+
   Max password length's 256 characters.
 images:
   - epic-games.webp
