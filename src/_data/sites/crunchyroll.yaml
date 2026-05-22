@@ -1,0 +1,10 @@
+description: |-
+  At least 6 characters.
+  No spaces allowed.
+
+  There is no password complexity required (no special characters, numbers, uppercase or lowercase letters required).
+  You could make the password 123456. It also lets you change your password to your previously used password.
+images:
+  - crunchyroll.png
+name: Crunchyroll
+url: https://sso.crunchyroll.com/login
