@@ -1,5 +1,8 @@
 description: |-
-  Between 8 and 20, not more.
+  - **Between 8 and 20 characters, not more.**
+  - 1 alphabetic letter
+  - 1 number (0-9)
+  - **1 symbol ($!#&)**
 images:
   - lenovo.png
 name: Lenovo
