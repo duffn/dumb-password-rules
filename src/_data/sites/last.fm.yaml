@@ -1,0 +1,10 @@
+description: |-
+  Passwords must:
+
+  - Be at least six characters long
+  - Contain one or more numbers
+  - Include at least one of the following special characters: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~, or a space
+images:
+  - last.fm.webp
+name: Last.fm
+url: https://www.last.fm/join
