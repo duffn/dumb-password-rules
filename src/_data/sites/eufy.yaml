@@ -1,0 +1,9 @@
+description: |-
+  Eufy caps new passwords at 20 characters and restricts special characters to a fixed
+  allowlist (`!*@#$%^&*()_-|[0]/?.,>`), on top of requiring uppercase, lowercase, and
+  numbers. A hard upper bound well under any real hashing algorithm's actual limit is a
+  classic sign of dubious password handling under the hood.
+images:
+  - eufy.png
+name: Eufy
+url: https://www.eufy.com
