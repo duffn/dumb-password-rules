@@ -1,0 +1,6 @@
+description: |-
+  - Password cannot be longer than 25 characters
+images:
+  - fedex.png
+name: FedEx
+url: https://www.fedex.com/
